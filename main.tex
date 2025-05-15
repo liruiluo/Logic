@@ -15,14 +15,15 @@
 \usepackage{xeCJK}
 \usepackage{polyglossia}
 \usepackage{fontspec}
-\IfFontExistsTF{Noto Serif CJK JP}
-{\setCJKmainfont{Noto Serif CJK JP}}
-{\IfFontExistsTF{STSong}
-  {\setCJKmainfont{STSong}}
-  {\IfFontExistsTF{Droid Sans Fallback}
-    {\setCJKmainfont{Droid Sans Fallback}}
-    {\setCJKmainfont{SimSun}}
-}}
+\usepackage{enumitem}
+% 使用思源宋体 (衬线字体)
+\setCJKmainfont{Noto Serif CJK SC}
+
+% 或者，使用思源黑体 (无衬线字体)
+% \setCJKmainfont{Noto Sans CJK SC}
+
+% 或者，使用文泉驿微米黑
+% \setCJKmainfont{WenQuanYi Micro Hei}
 
 \setmainlanguage{english}
 \IfFontExistsTF{CMU Serif}
