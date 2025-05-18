@@ -1,5 +1,5 @@
 % This LaTeX document needs to be compiled with XeLaTeX.
-\documentclass[10pt]{article}
+\documentclass[a4paper,11pt,twoside]{book}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -15,15 +15,38 @@
 \usepackage{xeCJK}
 \usepackage{polyglossia}
 \usepackage{fontspec}
-\IfFontExistsTF{Noto Serif CJK JP}
-{\setCJKmainfont{Noto Serif CJK JP}}
-{\IfFontExistsTF{STSong}
-  {\setCJKmainfont{STSong}}
-  {\IfFontExistsTF{Droid Sans Fallback}
-    {\setCJKmainfont{Droid Sans Fallback}}
-    {\setCJKmainfont{SimSun}}
-}}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{indentfirst}
+\usepackage{setspace}
+\usepackage{xcolor}
 
+% 设置页面边距
+\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
+
+% 设置中文字体
+% \IfFontExistsTF{Noto Serif CJK SC}
+% {\setCJKmainfont{Noto Serif CJK SC}}
+% {\IfFontExistsTF{STSong}
+%   {\setCJKmainfont{STSong}[BoldFont=STHeiti]}
+%   {\IfFontExistsTF{Droid Sans Fallback}
+%     {\setCJKmainfont{Droid Sans Fallback}}
+%     {\setCJKmainfont{SimSun}}
+% }}
+\setCJKmainfont{STSong}[BoldFont=STHeitiSC-Medium,ItalicFont=STKaiti]
+
+\setCJKmonofont{STFangsong}
+
+% 简化的标点和符号设置
+\punctstyle{kaiming}
+\xeCJKsetup{CJKecglue={\hskip 0.15em plus 0.05em minus 0.05em}}
+
+% 确保中文文本和标点符号使用中文字体的命令
+\newcommand{\zhtext}[1]{{\cnfont #1}}
+
+% 设置英文字体
 \setmainlanguage{english}
 \IfFontExistsTF{CMU Serif}
 {\setmainfont{CMU Serif}}
@@ -32,6 +55,40 @@
   {\setmainfont{Georgia}}
 }
 
+% 添加中英文混排支持
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt
+
+% 确保特定中文字符总是使用中文字体
+\newCJKfontfamily\cnfont{STSong}
+\newcommand{\cn}[1]{{\cnfont #1}}
+
+% 设置页眉页脚样式
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\leftmark}
+\fancyhead[LO]{\rightmark}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{14.5pt}
+
+% 设置章节标题格式
+\titleformat{\chapter}[display]
+{\normalfont\bfseries\Huge}
+{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+
+% 设置节标题格式
+\titleformat{\section}
+{\normalfont\Large\bfseries}
+{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+
+% 设置段落间距和首行缩进
+\setlength{\parindent}{2em}
+\setlength{\parskip}{1ex}
+\onehalfspacing
 
 %New command to display footnote whose markers will always be hidden
 \let\svthefootnote\thefootnote
@@ -52,10 +109,59 @@
   \fi
 }
 
+% 设置目录格式
+\renewcommand{\contentsname}{\centerline{\Large\bfseries 目录}}
+\renewcommand{\cftbeforetoctitleskip}{0pt}
+\renewcommand{\cftaftertoctitleskip}{2em}
+\renewcommand{\cftchapdotsep}{\cftdotsep}
+\renewcommand{\cftchapfont}{\bfseries}
+\renewcommand{\cftsecfont}{\normalfont}
+\renewcommand{\cftsubsecfont}{\normalfont\itshape}
+
 \begin{document}
+
+% 标题页
+\begin{titlepage}
+\centering
+\vspace*{2cm}
+{\color{black!80}\rule{\textwidth}{1pt}}
+\vspace{1.5cm}
+
+{\Huge\bfseries\color{black!90} 逻辑学导论 \par}
+\vspace{0.5cm}
+{\large\itshape 系统梳理逻辑学基本概念与方法 \par}
+
+\vspace{1.5cm}
+{\color{black!80}\rule{\textwidth}{1pt}}
+\vspace{2cm}
+
+\begin{minipage}{0.8\textwidth}
+\centering
+\begin{quotation}
+\large\textit{"逻辑将使人们明辨是非，认清谬误，\\
+培养批判性思维，提高分析能力。"}
+\end{quotation}
+\end{minipage}
+
+\vfill
+
+{\large \today \par}
+\end{titlepage}
+
+% 前言
+\frontmatter
+\chapter*{前言}
 \input{preface}
 
+% 目录
+\tableofcontents
+\clearpage
+
+% 正文
+\mainmatter
+
 % 第一部分：逻辑与语言
+\chapter{逻辑与语言}
 \input{part1}
 \input{chapter1/section1-1}
 \input{chapter1/section1-2}
@@ -71,6 +177,7 @@
 % others
 
 % 第二部分
+\chapter{命题逻辑}
 \input{part2}
 \input{chapter2/section2-1}
 \input{chapter2/section2-2}
@@ -80,15 +187,17 @@
 \input{chapter2/section2-6}
 
 % 第三部分
+\chapter{论证分析}
 \input{chapter3/section3-1}
 \input{chapter3/section3-2}
 \input{chapter3/section3-3}
 \input{chapter3/section3-4}
 \input{chapter3/section3-5}
+\input{chapter3/section3-6}
 \input{chapter3/summary}
 
 % 第四部分
-% \\input{part4} % This line is removed
+\chapter{谓词逻辑}
 \input{chapter4/section4-1.tex}
 \input{chapter4/section4-2.tex}
 \input{chapter4/section4-2-R1.tex}
@@ -99,7 +208,7 @@
 \input{chapter4/section4-2-R6.tex}
 \input{chapter4/section4-2-R7.tex}
 \input{chapter4/section4-3.tex}
-% \input{chapter4/section4-3-P1.tex} % Likely corrupted file, commented out
+\input{chapter4/section4-3-P1.tex}
 \input{chapter4/section4-3-P2.tex}
 \input{chapter4/section4-3-P3.tex}
 \input{chapter4/section4-3-P4-P5.tex}
@@ -112,6 +221,7 @@
 \input{chapter4/summary.tex}
 
 % 第五部分
+\chapter{逻辑推理}
 \input{chapter5/section5-1.tex}
 \input{chapter5/section5-2.tex}
 \input{chapter5/section5-3.tex}
@@ -122,6 +232,7 @@
 \input{chapter5/summary.tex}
 
 % 第六部分
+\chapter{归纳逻辑}
 \input{chapter6/section6-1.tex}
 \input{chapter6/section6-2.tex}
 \input{chapter6/section6-3.tex}
@@ -131,6 +242,7 @@
 \input{chapter6/summary.tex}
 
 % 第七部分
+\chapter{形式系统}
 \input{chapter7/section7-1.tex}
 \input{chapter7/section7-2.tex}
 \input{chapter7/section7-3.tex}
@@ -142,8 +254,9 @@
 \input{chapter7/summary.tex}
 
 % 第八章
-%\\input{chapter8/section8-1.tex} 
-%\\input{chapter8/section8-2.tex} 
+\chapter{模态逻辑}
+\input{chapter8/section8-1.tex} 
+\input{chapter8/section8-2.tex} 
 \input{chapter8/section8-3.tex}
 \input{chapter8/section8-4.tex}
 \input{chapter8/section8-5.tex}
@@ -152,12 +265,14 @@
 \input{chapter8/section8-8.tex}
 
 % 第九章
+\chapter{逻辑悖论}
 \input{chapter9/section9-1.tex}
 \input{chapter9/section9-2.tex}
 \input{chapter9/section9-3.tex}
 \input{chapter9/section9-4.tex}
 
 % 第十章
+\chapter{非经典逻辑}
 \input{chapter10/section10-1.tex}
 \input{chapter10/section10-2.tex}
 \input{chapter10/section10-3.tex}
@@ -166,16 +281,19 @@
 \input{chapter10/section10-6.tex}
 
 % 第十一章
+\chapter{逻辑与哲学}
 \input{chapter11/section11-1.tex}
 \input{chapter11/section11-2.tex}
 \input{chapter11/section11-3.tex}
 
 % 第十二章
+\chapter{逻辑与数学}
 \input{chapter12/section12-1.tex}
 \input{chapter12/section12-2.tex}
 \input{chapter12/section12-3.tex}
 
 % 第十三章
+\chapter{逻辑与计算机科学}
 \input{chapter13/section13-1.tex}
 \input{chapter13/section13-2.tex}
 \input{chapter13/section13-3.tex}
@@ -185,6 +303,7 @@
 \input{chapter13/section13-7.tex}
 
 % 第十四章
+\chapter{逻辑与认知}
 \input{chapter14/section14-1.tex}
 \input{chapter14/section14-2.tex}
 \input{chapter14/section14-3.tex}
@@ -193,6 +312,9 @@
 \input{chapter14/summary.tex}
 \input{chapter14/notes.tex}
 
-% others
+% 后记部分
+\backmatter
+\chapter*{参考文献}
+% 可以添加参考文献
 
 \end{document}
