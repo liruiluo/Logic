@@ -1,0 +1,219 @@
+\section{替换规则}
+
+\begin{quotation}
+本节讨论如何使用替换规则来增强形式证明的能力。我们将学习十种重要的逻辑等价关系，它们可以作为替换规则使用，从而使我们能够构造更复杂论证的有效性证明。本节还会探讨形式证明的能行性及其与真值表方法的区别。
+\end{quotation}
+
+效性得不到证明。例如，要为下述明显有效的论证构造一个有效性的形式证明：
+
+$$
+\begin{aligned}
+& A \supset B \\
+& C \supset \sim B \\
+& \therefore A \supset \sim C
+\end{aligned}
+$$
+
+就要求增加新的规则。\\
+在任何真值函项复合陈述中，如果它的一个分支陈述被另外一个有相同真值的陈述替换，该复合陈述的真值保持不变，而我们这里所关注的只有真值函项复合陈述，因此，我们可以把\textbf{替换规则}作为新的推论规则接受下来，该规则允许我们对任何陈述都可以做如下替换：该陈述的任一分支陈述都可被替换为与其逻辑等价的陈述。例如，根据断言 $p$ 逻辑地等价于 $\sim \sim p$ 的双重否定原则，通过替换，我们可以从 $A \supset \sim \sim B$ 推出下面的任何一个陈述：
+
+$$
+A \supset B, \sim \sim A \supset \sim \sim B, \sim \sim(A \supset \sim \sim B) \text {, 或 } A \supset \sim \sim \sim \sim B
+$$
+
+为把这项新规则加以确定，我们列出可以使用的十个重言的或逻辑地为真的双条件式。这些双条件式提供了在证明复杂论证的有效性时可使用的一些新增推论规则。我们接着 9.1 节所列的九条规则，给它们连续编号。
+
+\subsection{替换规则列表}
+
+下面任一逻辑等价的形式，在它们出现的任何地方，都可以相互替换：
+
+10．\textbf{德摩根律}（De M．）：$\sim(p \cdot q) \xlongequal{\mathrm{T}}(\sim p \vee \sim q)$
+
+$$
+\sim(p \vee q) \xlongequal{\mathrm{T}}(\sim p \cdot \sim q)
+$$
+
+11．\textbf{交换律}（Com．）：$(p \vee q) \xlongequal{\text { T }}(q \vee p)$
+
+$$
+(p \cdot q) \stackrel{\mathrm{T}}{=}(q \cdot p)
+$$
+
+12．\textbf{结合律}（Assoc．）：$[p \vee(q \vee r)] \stackrel{\mathrm{T}}{=}[(p \vee q) \vee r]$
+
+$$
+[p \cdot(q \cdot r)] \stackrel{\mathrm{T}}{=}[(p \cdot q) \cdot r]
+$$
+
+13．\textbf{分配律}（Dist．）：$[p \cdot(q \vee r)] \stackrel{\mathrm{T}}{=}[(p \cdot q) \vee(p \cdot r)]$
+
+$$
+[p \vee(q \cdot r)] \stackrel{\mathrm{T}}{=}[(p \vee q) \cdot(p \vee r)]
+$$
+
+14．\textbf{双重否定律}（D．N．）：$p \stackrel{\mathrm{~T}}{=} \sim p$
+
+15．\textbf{易位律}（Trans．）：$(p \supset q) \xlongequal{\text { T }}(\sim q \supset \sim p)$\\
+16．\textbf{实质蕴涵律}（Impl，）：（ $p \supset q$ ）$\xlongequal{T}(\sim p \vee q)$\\
+17．\textbf{实质等值律}（Equiv．）：$(p \equiv q) \stackrel{\mathrm{T}}{=}[(p \supset q) \cdot(q \supset p)]$
+
+$$
+(p \equiv q) \stackrel{T}{=}[(p \cdot q) \vee(\sim p \cdot \sim q)]
+$$
+
+18．\textbf{输出律}（Exp．）：$[(p \cdot q) \supset r] \stackrel{\mathrm{T}}{=}[p \supset(q \supset r)]$\\
+19．\textbf{重言律}（Taut．）${ }^{[1]}: p \stackrel{\mathrm{~T}}{=}(p \vee p)$
+
+$$
+p \stackrel{T}{\equiv}(p \cdot p)
+$$
+
+\subsection{替换与代入的区别}
+
+替换的过程与代人非常不同：代人是以陈述代人陈述变元，而替换是以其他陈述替换陈述。从一个陈述形式到它的代人例的过程中，或者在从一个论证形式到其代人例的过程中，只要一个陈述被代人一个陈述变元的某次出现，它也必须被代人到该陈述变元的所有其他出现；在遵守此规定的条件下，我们就能用任何陈述代人任何陈述变元。但在从一个陈述到另一个陈述的替换过程中，运用10－19 中的某个逻辑等值式，我们只用一个与之逻辑等价的陈述，就能够替换第一个陈述中的某个分支陈述，我们可以只替换该分支陈述的某次出现，而不需要替换它的任何其他出现。
+
+这 19 个推论规则并不构成这样一个极小集，即用它足以形式地证明复杂论证的有效性，在这个意义上说，它们有点多余。例如，否定后件式可以从表中去掉而并不真正削弱我们的证明手段，因为依据否定后件式的任何一行，实际上都能由表中的其他规则给予辩护。本章第 350 页（边码）所给的第一个形式证明例子中的第 8 行，$\sim A$ ，就是根据否定后件式，从第四和第七行，即 $\sim D$ 和 $A \supset D$ ，演绎出来的。但如果不把否定后件式作为推理规则，我们仍然能从 $A \supset D$ 和 $\sim D$ 演绎出 $\sim A$ 。譬如，在它们中间插人～Dつ～A这样一行，就可以做到这一点。 $\sim D \supset \sim A$ 可以根据易位原则（Trans．）从 $A \supset D$ 推出，然后根据肯定前件式（M．P．），可以从 $\sim D$ $\supset \sim A$ 和 $\sim D$ 得到 $\sim A$ 。但否定后件式作为一个运用如此频繁且直觉上如此显明的推论规则，应该被包括在推论规则之内。这 19 个中的其他一些规则，在这个意义上也是多余的。
+
+\subsection{推论规则表的完备性}
+
+这个推论规则表不仅有冗余的特点，它还有某种不足。例如，尽管论证：
+
+$$
+\begin{aligned}
+& \sim B \\
+& \therefore A
+\end{aligned}
+$$
+
+直觉上有效，但它的形式：
+
+$$
+\begin{aligned}
+& p \vee q \\
+& \sim q \\
+& \therefore p
+\end{aligned}
+$$
+
+却没有包括在推论规则之内。尽管结论 A 可以根据两个推论规则，从前提 $A \vee B$ 和 $\sim B$ 演绎出来，但它并不是根据任何单一的推论规则，从这两个前提推出来的。该论证有效性的形式证明可以写为：
+
+1．$A \vee B$\\
+2．$\sim B$\\
+$\therefore A$\\
+3．$B \vee A \quad 1$ ，Com．\\
+4．A $3,2, \mathrm{D} . \mathrm{S}$ ．\\
+若在推论规则表中添加另外一个规则，我们可以消除这种不足。但是，如果我们对每个这样的情形都添加一个规则，我们最终会有一个长得多且更不易处理的规则表。
+
+对任何有效的真值函项论证来说，目前这个有 19 个推理规则的列表使得我们都可以为之构造一个有效性的形式证明。在这个意义上说，该表构成了真值函项逻辑的一个\textbf{完全的系统}。 ${ }^{[2]}$
+
+\subsection{形式证明的能行性}
+
+形式证明是一个\textbf{能行的}（effective）概念。所谓＂能行的＂的意思是说，根据给定的推论规则表，可以在有限步骤内机械地判定一个给定陈述序列是否构成一个形式证明。这里不需要任何思维。所谓不需要思维，就是既不需要思考序列中的陈述的＂意义＂，也不需要用逻辑直觉来检查任何步骤的有效性。这里只需要做两件事。第一件事是，能够看出在一个地方出现的某个陈述与在另一个地方出现的一个陈述是完全相同的，因为我们必须能够核对出，证明中的某些陈述是所欲证明其有效性的那个论证的前提，以及证明中的最后一个陈述是该论证的结论。所要求的第二件事是，能够看出一个给定陈述是否有某种模式，即能看出它是否是某个陈述形式的代人例。
+
+这样，关于上列陈述序列是否是一个有效性的形式证明的问题，就很容易用一种完全机械的方式来解答。一眼就可以看出，第1行和第2行是该论证的前提，第 4 行是结论。第 3 行是根据某个给定推论规则从前面几行推出的，这一点可以在有限几步内确定——即使符号＂1，Com．＂不写在旁边。第二栏中的解释性符号起帮助作用，它应该包括在证明内。但严格说来，它本身并不是证明的一个必要部分。每一行的前面只有有限几行，并且只有有限多的推论规则或凭据形式可查。尽管费时，但通过对形式进行观察和比较，可以确定第 3 行不是根据肯定前件式、否定后件式或假言三段论等从第 1 行和第 2 行推出的。一直依照这种程序进行，直到我们碰到这样一个问题：第 3 行是否是根据交换律从第 1 行和第 2 行推出来的？此时，仅通过观察形式，我们就可以知道的确如此。任何形式证明中的任何陈述的合法性，都可用同样的方式在有限步骤内得到检验。没有哪一步涉及形式或形态比较之外的任何其他东西。为了保持这种能行性，我们要求一次只采取一个步骤。可能有人想合并几步以缩短证明，但所节约的时间和空间是微不足道的，通过每步只用一个推论规则而获得能行性才是更重要的。
+
+尽管在有效性的形式证明能够机械地确定一个给定序列是否一个证明的意义上，形式证明是能行的，但建构一个形式证明并没有一个能行的程序。在这方面，形式证明不同于真值表方法。真值表的构造是完全机械的：给定任何一个我们现在所关注的那类论证，依照上一章规定的简单程序规则，我们总能构造一个真值表来检验其有效性。但我们没有能行的或机械的规则来构造形式证明。我们必须思考或＂想出＂从哪儿着手，以及怎样前进。不过，通过构造一个有效性的形式证明来证明一个论证的有效性，比纯机械构造的真值表方法要简单得多。这样的真值表可能有几百甚至几千行。
+
+\subsection{前九条与后十条规则的区别}
+
+前九条和后十条推论规则之间有很重要的区别。前九条规则只能运用到证明中的完整行上。例如，在有效性的形式证明中，只有当 $A \cdot B$ 构成一完整行时，陈述 $A$ 才能根据简化律从陈述 $A \cdot B$ 推出。显然，$A$ 不能有效地从 $(A \cdot B) \supset C$ 或 $C \supset(A \cdot B)$ 推出，因为在 $A$ 为假时，后两个陈述可以为真。陈述 $A \supset C$ 也不能根据简化律或任何其他推论规则，从 $(A \cdot B) \supset C$ 推出。它根本推不出，因为如果 $A$ 为真，并且 $B$ 和 $C$ 都为假，那么 $(A \cdot B) \supset C$为真，而 $A \supset C$ 为假。再如，尽管根据附加律，$A \vee B$ 可以从 $A$ 推得，但
+
+我们不能根据附加律或其他任何推论规则，从 $A \supset C$ 推出 $(A \vee B) \supset C$ 。因为如果 $A$ 和 $C$ 都为假而 $B$ 为真，则 $A \supset C$ 为真而 $(A \vee B) \supset C$ 为假。另一方面，后十条推论规则中的任何一个都既可运用到整行，也可运用到行中的某些部分。根据输出律，不仅可以从整行 $(A \cdot B) \supset C$ 推出陈述 $A \supset$ $(B \supset C)$ ，我们还可以从行 $[(A \cdot B) \supset C] \vee D$ 推出 $[A \supset(B \supset C)] \vee D$ 。根据替换规则，逻辑等价式可以相互替换它们的每次出现，即使它们并不构成证明中的一个完整行。但前九条推论规则只能运用到证明中的完整行中，而且这些完整行是作为前提来使用的。
+
+\subsection{构造形式证明的技巧}
+
+尽管没有构造形式证明的纯机械性规则，但可以给出一些大略的规则，或一些关于证明进程的提示。第一个提示是，要根据给定推论规则从给定前提着手演绎结论。随着越来越多的子结论成为进一步演绎的前提，会越来越清楚该如何演绎出所欲证明为有效的那个论证的结论。另一个提示是，要努力消除那些在前提中出现而结论中不出现的陈述。当然，这种消除只能依据推论规则进行。这些推论规则中含有许多消除陈述的技巧。简化律就是这样一个规则，借此可以去掉整行中合取式右边的合取支。交换律允许我们把合取式左边的合取支换到右边，然后根据简化律就可以去掉那个合取支了。给定两个具有模式 $p \supset q$ 和 $q \supset r$ 的陈述，根据假言三段论，可以消除＂中项＂$q$ 。分配律是一个把形如 $p \vee(q \cdot r)$ 的析取式变换为合取式 $(p \vee q) \cdot(p \vee r)$ 的有用规则。根据简化律，就可以消除这个合取式右边的合取支。另一个值得提出的规则是，可根据附加律，引人一个结论中出现但前提中未出现的陈述。再一个常用的方法是，从结论倒澌寻找结论从中演绎出来的那个或那些陈述，然后试着从前提演绎出那些中间陈述。然而，要想熟练地掌握构造形式证明的方法，习题训练是无可替代的途径。
+
+\begin{center}
+\fbox{\parbox{0.95\textwidth}{
+\textbf{本节要点}
+\begin{itemize}
+\item \textbf{替换规则}允许我们用逻辑等价的陈述替换复合陈述中的部分内容
+\item 十种重要的逻辑等价关系（替换规则）：
+  \begin{itemize}
+  \item \textbf{德摩根律}、\textbf{交换律}、\textbf{结合律}、\textbf{分配律}
+  \item \textbf{双重否定律}、\textbf{易位律}、\textbf{实质蕴涵律}
+  \item \textbf{实质等值律}、\textbf{输出律}、\textbf{重言律}
+  \end{itemize}
+\item 替换与代入的区别：
+  \begin{itemize}
+  \item 代入是以陈述代入陈述变元，且必须在所有出现处一致替换
+  \item 替换是以逻辑等价的陈述替换另一陈述的部分，可仅替换某次出现
+  \end{itemize}
+\item 形式证明的能行性：
+  \begin{itemize}
+  \item 可以机械地验证一个给定序列是否构成形式证明
+  \item 但构造形式证明没有机械的程序，需要思考和技巧
+  \end{itemize}
+\item 前九条与后十条规则的区别：
+  \begin{itemize}
+  \item 前九条规则只能应用于证明中的完整行
+  \item 后十条规则可应用于整行或行中的部分内容
+  \end{itemize}
+\end{itemize}
+}}
+\end{center} 
+
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{推论规则} \\
+\hline
+\multicolumn{2}{|r|}{我们阐述了构造有效性证明要使用的19条规则。它们是：} \\
+\hline
+基本有效论证形式： & 逻辑等价表达式： \\
+\hline
+1．肯定前件式（M．P．）： & 10．德摩根律（De M．）： \\
+\hline
+$p \supset q, \quad p, \quad \therefore q$ &  \\
+\hline
+ & \( \begin{aligned} & \sim(p \cdot q) \stackrel{\mathrm{T}}{=}(\sim p \vee \sim q) \\ & \sim(p \vee q) \stackrel{\mathrm{T}}{=}(\sim p \cdot \sim q) \end{aligned} \) \\
+\hline
+\end{tabular}
+\end{center}
+
+2．否定后件式（M．T，）：\\
+$p \supset q, \sim q, \therefore \sim p$
+
+3．假言三段论（H．S．）：\\
+$p \supset q, q \supset r, \therefore p \supset r$
+
+4．析取三段论（D．S．）：\\
+$p \vee q, \sim p, \therefore q$
+
+5．构造式二难（C．D．）：\\
+$(p \supset q) \cdot(r \supset s), p \vee r, \therefore q \vee s$\\
+6．吸收律（Abs．）：\\
+$p \supset q, \therefore p \supset(p \cdot q)$\\
+7．简化律（Simp．）：\\
+$p \cdot q, \therefore p$
+
+8．合取律（Conj．）\\
+$p, q, \therefore p \cdot q$
+
+9．附加律（Add．）：\\
+$p, \therefore p \vee q$
+
+11．交换律（Com．）：\\
+$(p \vee q) \stackrel{\mathrm{T}}{=}(q \vee p)$\\
+$(p \cdot q) \stackrel{\mathrm{T}}{=}(q \cdot p)$\\
+12．结合律（Assoc．）：\\
+$[p \vee(q \vee r)] \stackrel{\mathrm{T}}{\equiv}[(p \vee q) \vee r]$\\
+$[p \cdot(q \cdot r)] \stackrel{\mathrm{T}}{=}[(p \cdot q) \cdot r]$\\
+13．分配律（Dist．）：\\
+$[p \cdot(q \vee r)] \stackrel{\mathrm{T}}{=}[(p \cdot q) \vee(p \cdot r)]$\\
+$[p \vee(q \cdot r)] \stackrel{\mathrm{T}}{\equiv}[(p \vee q) \cdot(p \vee r)]$\\
+14．双重否定律（D．N．）：\\
+$p \stackrel{\mathrm{~T}}{=} \sim p$\\
+15．易位律（Trans．）：\\
+$(p \supset q) \stackrel{T}{\equiv}(\sim q \supset \sim p)$\\
+16．实质蕴涵律（Impl．）：\\
+$(p \supset q) \stackrel{\mathrm{T}}{=}(\sim p \vee q)$\\
+17．实质等值律（Equiv．）：\\
+$(p \equiv q) \stackrel{\mathrm{T}}{\equiv}[(p \supset q) \cdot(q \supset p)]$\\
+$(p \equiv q) \stackrel{\mathrm{T}}{=}[(p \cdot q) \vee(\sim p \cdot \sim q)]$\\
+18．输出律（Exp．）：\\
+$[(p \cdot q) \supset r] \stackrel{\mathrm{T}}{=}[p \supset(q \supset r)]$\\
+19．重言律（Taut．）：\\
+$p \stackrel{\mathrm{~T}}{=}(p \vee q)$\\
+$p \stackrel{\mathrm{~T}}{=}(p \cdot p)$ 

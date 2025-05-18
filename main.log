@@ -1,0 +1,2448 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  18 MAY 2025 21:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\c@figure=\count199
+\c@table=\count266
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen142
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count272
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip17
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks20
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks21
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count279
+\l__pdf_internal_box=\box54
+\g__pdf_backend_annotation_int=\count280
+\g__pdf_backend_link_int=\count281
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count284
+\calc@Cskip=\skip56
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count285
+\g__chemgreek_tmpa_int=\count286
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\l__mhchem_ce_distanceFromLastComma_int=\count287
+\__mhchem_arrow_extPgfLength_skip=\skip57
+\mhchem@minispace@tmp=\skip58
+\mhchem@minibackspace@tmp=\skip59
+\mhchem@bondwidth=\skip60
+\mhchem@bondheight=\skip61
+\mhchem@smallbondwidth@tmpA=\skip62
+\mhchem@smallbondwidth@tmpB=\skip63
+\mhchem@smallbondwidth=\skip64
+\mhchem@bondtmp@minussidebearingleft=\skip65
+\mhchem@bondtmp@minussidebearingright=\skip66
+\l__mhchem_option_version_int=\count288
+\mhchem@option@minusmathsidebearingleft=\dimen153
+\mhchem@option@minusmathsidebearingright=\dimen154
+\mhchem@option@minustextsidebearingleft=\dimen155
+\mhchem@option@minustextsidebearingright=\dimen156
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/extpfeil/extpfeil.sty
+Package: extpfeil 2009/10/31 v0.4 Extensible Pfeile (PE)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count289
+\l_MT_multwidth_dim=\dimen157
+\origjot=\skip67
+\l_MT_shortvdotswithinadjustabove_dim=\dimen158
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen159
+\l_MT_above_intertext_sep=\dimen160
+\l_MT_below_intertext_sep=\dimen161
+\l_MT_above_shortintertext_sep=\dimen162
+\l_MT_below_shortintertext_sep=\dimen163
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen164
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count290
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box56
+)
+\tc@llx=\dimen167
+\tc@lly=\dimen168
+\tc@urx=\dimen169
+\tc@ury=\dimen170
+Package trimclip Info: Using driver 'tc-xetex.def'.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/adjustbox/tc-xetex.def
+File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
+))
+\adjbox@Width=\dimen171
+\adjbox@Height=\dimen172
+\adjbox@Depth=\dimen173
+\adjbox@Totalheight=\dimen174
+\adjbox@pwidth=\dimen175
+\adjbox@pheight=\dimen176
+\adjbox@pdepth=\dimen177
+\adjbox@ptotalheight=\dimen178
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count291
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box57
+\sift@deathcycles=\count292
+\@vwid@loff=\dimen179
+\@vwid@roff=\dimen180
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip68
+\multirow@cntb=\count293
+\multirow@dima=\skip69
+\bigstrutjot=\dimen181
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2025/03/04 v1.12.0 fvextra - extensions and patches for fancyv
+rb
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count294
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count295
+\FV@InFile=\read2
+\FV@TabBox=\box58
+\c@FancyVerbLine=\count296
+\FV@StepNumber=\count297
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2025/01/29 line numbers on paragraphs v5.4
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count298
+\output=\toks27
+\linenoprevgraf=\count299
+\linenumbersep=\dimen182
+\linenumberwidth=\dimen183
+\c@linenumber=\count300
+\c@pagewiselinenumber=\count301
+\c@LN@truepage=\count302
+\c@internallinenumber=\count303
+\c@internallinenumbers=\count304
+\quotelinenumbersep=\dimen184
+\bframerule=\dimen185
+\bframesep=\dimen186
+\bframebox=\box59
+\@LN@amsmath@ams@eqpen=\count305
+LaTeX Info: Redefining \\ on input line 3187.
+)
+\c@FancyVerbWriteLine=\count306
+\c@FancyVerbBufferLine=\count307
+\c@FV@TrueTabGroupLevel=\count308
+\c@FV@TrueTabCounter=\count309
+\FV@TabBox@Group=\box60
+\FV@bgcolorstructbox=\box61
+\FV@TmpLength=\skip70
+\c@FV@HighlightLinesStart=\count310
+\c@FV@HighlightLinesStop=\count311
+\FV@LoopCount=\count312
+\FV@NCharsBox=\box62
+\FV@BreakIndent=\dimen187
+\FV@BreakIndentNChars=\count313
+\FV@BreakSymbolSepLeft=\dimen188
+\FV@BreakSymbolSepLeftNChars=\count314
+\FV@BreakSymbolSepRight=\dimen189
+\FV@BreakSymbolSepRightNChars=\count315
+\FV@BreakSymbolIndentLeft=\dimen190
+\FV@BreakSymbolIndentLeftNChars=\count316
+\FV@BreakSymbolIndentRight=\dimen191
+\FV@BreakSymbolIndentRightNChars=\count317
+\c@FancyVerbLineBreakLast=\count318
+\FV@LineBox=\box63
+\FV@LineIndentBox=\box64
+\c@FV@BreakBufferDepth=\count319
+\FV@LineWidth=\dimen192
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count320
+\csq@gtype=\count321
+\csq@glevel=\count322
+\csq@qlevel=\count323
+\csq@maxlvl=\count324
+\csq@tshold=\count325
+\csq@ltx@everypar=\toks28
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2025/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
+)
+\l__xeCJK_tmp_int=\count326
+\l__xeCJK_tmp_box=\box65
+\l__xeCJK_tmp_dim=\dimen193
+\l__xeCJK_tmp_skip=\skip71
+\g__xeCJK_space_factor_int=\count327
+\l__xeCJK_begin_int=\count328
+\l__xeCJK_end_int=\count329
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip72
+\c__xeCJK_none_node=\count330
+\g__xeCJK_node_int=\count331
+\c__xeCJK_CJK_node_dim=\dimen194
+\c__xeCJK_CJK-space_node_dim=\dimen195
+\c__xeCJK_default_node_dim=\dimen196
+\c__xeCJK_CJK-widow_node_dim=\dimen197
+\c__xeCJK_normalspace_node_dim=\dimen198
+\c__xeCJK_default-space_node_skip=\skip73
+\l__xeCJK_ccglue_skip=\skip74
+\l__xeCJK_ecglue_skip=\skip75
+\l__xeCJK_punct_kern_skip=\skip76
+\l__xeCJK_indent_box=\box66
+\l__xeCJK_last_penalty_int=\count332
+\l__xeCJK_last_bound_dim=\dimen199
+\l__xeCJK_last_kern_dim=\dimen256
+\l__xeCJK_widow_penalty_int=\count333
+
+LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
+(template)           argument(s) on line 2396.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen257
+\l__xeCJK_mixed_punct_width_dim=\dimen258
+\l__xeCJK_middle_punct_width_dim=\dimen259
+\l__xeCJK_fixed_margin_width_dim=\dimen260
+\l__xeCJK_mixed_margin_width_dim=\dimen261
+\l__xeCJK_middle_margin_width_dim=\dimen262
+\l__xeCJK_bound_punct_width_dim=\dimen263
+\l__xeCJK_bound_margin_width_dim=\dimen264
+\l__xeCJK_margin_minimum_dim=\dimen265
+\l__xeCJK_kerning_total_width_dim=\dimen266
+\l__xeCJK_same_align_margin_dim=\dimen267
+\l__xeCJK_different_align_margin_dim=\dimen268
+\l__xeCJK_kerning_margin_width_dim=\dimen269
+\l__xeCJK_kerning_margin_minimum_dim=\dimen270
+\l__xeCJK_bound_dim=\dimen271
+\l__xeCJK_reverse_bound_dim=\dimen272
+\l__xeCJK_margin_dim=\dimen273
+\l__xeCJK_minimum_bound_dim=\dimen274
+\l__xeCJK_kerning_margin_dim=\dimen275
+\g__xeCJK_family_int=\count334
+\l__xeCJK_fam_int=\count335
+\g__xeCJK_fam_allocation_int=\count336
+\l__xeCJK_verb_case_int=\count337
+\l__xeCJK_verb_exspace_skip=\skip77
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count338
+\l__fontspec_language_int=\count339
+\l__fontspec_strnum_int=\count340
+\l__fontspec_tmp_int=\count341
+\l__fontspec_tmpa_int=\count342
+\l__fontspec_tmpb_int=\count343
+\l__fontspec_tmpc_int=\count344
+\l__fontspec_em_int=\count345
+\l__fontspec_emdef_int=\count346
+\l__fontspec_strong_int=\count347
+\l__fontspec_strongdef_int=\count348
+\l__fontspec_tmpa_dim=\dimen276
+\l__fontspec_tmpb_dim=\dimen277
+\l__fontspec_tmpc_dim=\dimen278
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2025/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2025/01/31 v2.4 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+\l_xpg_alias_keyvals_int=\count349
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count350
+\Gm@cntv=\count351
+\c@Gm@tempcnt=\count352
+\Gm@bindingoffset=\dimen279
+\Gm@wd@mp=\dimen280
+\Gm@odd@mp=\dimen281
+\Gm@even@mp=\dimen282
+\Gm@layoutwidth=\dimen283
+\Gm@layoutheight=\dimen284
+\Gm@layouthoffset=\dimen285
+\Gm@layoutvoffset=\dimen286
+\Gm@dimlist=\toks29
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip78
+\f@nch@offset@elh=\skip79
+\f@nch@offset@erh=\skip80
+\f@nch@offset@olh=\skip81
+\f@nch@offset@orh=\skip82
+\f@nch@offset@elf=\skip83
+\f@nch@offset@erf=\skip84
+\f@nch@offset@olf=\skip85
+\f@nch@offset@orf=\skip86
+\f@nch@height=\skip87
+\f@nch@footalignment=\skip88
+\f@nch@widthL=\skip89
+\f@nch@widthC=\skip90
+\f@nch@widthR=\skip91
+\@temptokenb=\toks30
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box67
+\beforetitleunit=\skip92
+\aftertitleunit=\skip93
+\ttl@plus=\dimen287
+\ttl@minus=\dimen288
+\ttl@toksa=\toks31
+\titlewidth=\dimen289
+\titlewidthlast=\dimen290
+\titlewidthfirst=\dimen291
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip94
+\cftbeforetoctitleskip=\skip95
+\cftaftertoctitleskip=\skip96
+\cftbeforepartskip=\skip97
+\cftpartnumwidth=\skip98
+\cftpartindent=\skip99
+\cftbeforechapskip=\skip100
+\cftchapindent=\skip101
+\cftchapnumwidth=\skip102
+\cftbeforesecskip=\skip103
+\cftsecindent=\skip104
+\cftsecnumwidth=\skip105
+\cftbeforesubsecskip=\skip106
+\cftsubsecindent=\skip107
+\cftsubsecnumwidth=\skip108
+\cftbeforesubsubsecskip=\skip109
+\cftsubsubsecindent=\skip110
+\cftsubsubsecnumwidth=\skip111
+\cftbeforeparaskip=\skip112
+\cftparaindent=\skip113
+\cftparanumwidth=\skip114
+\cftbeforesubparaskip=\skip115
+\cftsubparaindent=\skip116
+\cftsubparanumwidth=\skip117
+\cftbeforeloftitleskip=\skip118
+\cftafterloftitleskip=\skip119
+\cftbeforefigskip=\skip120
+\cftfigindent=\skip121
+\cftfignumwidth=\skip122
+\c@lofdepth=\count353
+\c@lotdepth=\count354
+\cftbeforelottitleskip=\skip123
+\cftafterlottitleskip=\skip124
+\cftbeforetabskip=\skip125
+\cfttabindent=\skip126
+\cfttabnumwidth=\skip127
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+
+Package fontspec Info: 
+(fontspec)             Script 'CJK' not explicitly supported within font
+(fontspec)             'STSong'. Check the typeset output, and if it is okay
+(fontspec)             then ignore this warning. Otherwise a different font
+(fontspec)             should be chosen.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "STKaiti/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "STHeitiSC-Medium/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "STSong/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'STSong(0)' created for font 'STSong' with
+(fontspec)             options
+(fontspec)             [Script={CJK},BoldFont={STHeitiSC-Medium},ItalicFont={ST
+Kaiti}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STSong/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"STHeitiSC-Medium/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"STKaiti/OT:script=hani;language=dflt;"
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package polyglossia Info: Default language is english
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Georgia(0)' created for font 'Georgia'
+(fontspec)             with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Georgia/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Georgia/B/OT:script=latn;language=dflt;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Georgia/I/OT:script=latn;language=dflt;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Georgia/BI/OT:script=latn;language=dflt;mapping=tex-
+text;"
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'polyglossia' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+
+Package chemgreek Info: Activating mapping `fontspec' on line 121.
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 121.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 121.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 121.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 121.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 121.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 121.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 121.
+LaTeX Font Info:    Redeclaring math accent \check on input line 121.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 121.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 121.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 121.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 121.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 121.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Georgia(0)/m/n on input line 121.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 121.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Georgia(0)/m/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Georgia(0)/m/n --> TU/Georgia(0)/m/n on input line 1
+21.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Georgia(0)/m/it on input line 121.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Georgia(0)/b/n on input line 121.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 121.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Georgia(0)/m/n --> TU/Georgia(0)/b/n on input line 1
+21.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Georgia(0)/b/it on input line 121.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 121.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 121.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.0119pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=106.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 144
+.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 144
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+44.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+
+[1
+
+
+]
+
+[2
+
+] (./preface.tex) (./main.toc
+
+[1
+
+]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+Underfull \vbox (badness 1348) has occurred while \output is active []
+
+
+
+[9]
+
+[10])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+[11]
+
+[12
+
+
+]
+Chapter 1.
+(./part1.tex
+
+LaTeX Font Warning: Font shape `TU/STSong(0)/b/it' undefined
+(Font)              using `TU/STSong(0)/b/n' instead on input line 3.
+
+) (./chapter1/section1-1.tex
+
+[1
+
+]) (./chapter1/section1-2.tex
+
+[2]
+
+[3]) (./chapter1/section1-3.tex
+
+[4]
+
+[5]) (./chapter1/section1-4.tex
+
+[6]
+
+[7]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-030.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-030.jpg>
+File: images/2025_05_15_6a28331d5e7c993ad07ag-031(1).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-031(1).jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[8]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-031.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-031.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-032.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-032.jpg>
+
+
+[10]
+
+[11]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-034.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-034.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[12]
+Overfull \vbox (1579.59505pt too high) has occurred while \output is active []
+
+
+
+[13]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-035.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-035.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[14]
+
+[15]) (./chapter1/section1-5.tex
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]) (./chapter1/section1-6.tex
+
+[21]
+
+[22]
+
+[23]) (./chapter1/section1-7.tex
+
+[24]) (./chapter1/section1-8.tex
+
+[25]
+
+[26]) (./chapter1/section1-9.tex
+
+[27]
+
+[28]
+
+[29]) (./chapter1/section1-10.tex
+
+[30]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-072.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-072.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[31]
+
+[32]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-073.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-073.jpg>
+
+
+[33]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-074.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-074.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[34]
+Overfull \vbox (4.30568pt too high) has occurred while \output is active []
+
+
+
+[35]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-076.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-076.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[36]) (./chapter1/section1-11.tex
+
+[37]
+
+[38]
+
+[39]
+Underfull \vbox (badness 6032) has occurred while \output is active []
+
+
+
+[40]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-085.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-085.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[42]
+
+[43]
+
+[44])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[45]
+
+[46]
+Chapter 2.
+(./part2.tex) (./chapter2/section2-1.tex
+
+[47
+
+]
+
+[48]) (./chapter2/section2-2.tex
+Underfull \vbox (badness 2617) has occurred while \output is active []
+
+
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+
+[50]) (./chapter2/section2-3.tex
+
+[51]
+
+[52]
+
+[53]) (./chapter2/section2-4.tex
+
+[54]
+
+[55]) (./chapter2/section2-5.tex
+
+[56]
+
+[57]
+
+[58]) (./chapter2/section2-6.tex
+
+[59])
+
+[60]
+Chapter 3.
+(./chapter3/section3-1.tex
+Underfull \vbox (badness 2119) has occurred while \output is active []
+
+
+
+[61
+
+]
+
+[62]) (./chapter3/section3-2.tex
+Underfull \vbox (badness 5970) has occurred while \output is active []
+
+
+
+[63]
+
+[64]) (./chapter3/section3-3.tex
+
+[65]
+
+[66]
+
+[67]) (./chapter3/section3-4.tex
+
+[68]
+Underfull \vbox (badness 2213) has occurred while \output is active []
+
+
+
+[69]) (./chapter3/section3-5.tex
+
+[70]
+
+[71]
+
+[72]
+
+[73]) (./chapter3/section3-6.tex
+
+[74]
+
+[75]) (./chapter3/summary.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[78])
+
+[79]
+
+[80
+
+]
+Chapter 4.
+(./chapter4/section4-1.tex
+
+[81]) (./chapter4/section4-2.tex
+
+[82]) (./chapter4/section4-2-R1.tex
+
+[83]) (./chapter4/section4-2-R2.tex
+
+[84]) (./chapter4/section4-2-R3.tex
+
+[85]
+
+[86]) (./chapter4/section4-2-R4.tex
+
+[87]) (./chapter4/section4-2-R5.tex
+
+[88]) (./chapter4/section4-2-R6.tex) (./chapter4/section4-2-R7.tex
+
+[89]) (./chapter4/section4-3.tex) (./chapter4/section4-3-P1.tex
+
+[90]) (./chapter4/section4-3-P2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+
+[91]) (./chapter4/section4-3-P3.tex
+
+[92]) (./chapter4/section4-3-P4-P5.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \vbox (badness 1184) has occurred while \output is active []
+
+
+
+[93]) (./chapter4/section4-4.tex) (./chapter4/section4-4-A1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+
+[94]) (./chapter4/section4-4-A2.tex) (./chapter4/section4-4-A3.tex
+
+[95]) (./chapter4/section4-4-A4.tex
+
+[96]) (./chapter4/section4-4-A5.tex) (./chapter4/summary.tex
+
+[97]
+
+[98])
+
+[99]
+
+[100
+
+]
+Chapter 5.
+(./chapter5/section5-1.tex
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[101]) (./chapter5/section5-2.tex
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 19.
+
+
+
+[102]
+
+[103]
+Underfull \vbox (badness 4096) has occurred while \output is active []
+
+
+
+[104]) (./chapter5/section5-3.tex
+
+[105]
+Underfull \vbox (badness 1509) has occurred while \output is active []
+
+
+
+[106]
+
+[107]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[108]) (./chapter5/section5-4.tex
+
+[109]
+
+[110]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg>
+
+Underfull \vbox (badness 4634) has occurred while \output is active []
+
+
+
+[111]
+
+[112]) (./chapter5/section5-5.tex
+
+[113]
+
+[114]
+
+[115]
+
+[116]
+
+[117]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[118]) (./chapter5/section5-6.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[119]
+
+[120]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[121]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[122]) (./chapter5/section5-7.tex
+
+[123]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[124]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[125]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[126]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg>
+
+
+[127]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg>
+
+
+[128]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg>
+File: images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg>
+
+
+[129]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[130]) (./chapter5/summary.tex
+
+[131])
+
+[132]
+Chapter 6.
+(./chapter6/section6-1.tex
+
+[133
+
+]
+
+[134]) (./chapter6/section6-2.tex
+
+[135]
+
+[136]) (./chapter6/section6-3.tex
+File: images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[137]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[138]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-275(1).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-275(1).jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[139]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[140]
+
+[141]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg>
+
+
+[142]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg>
+
+
+[143]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg>
+File: images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg>
+
+
+[144]
+
+[145]) (./chapter6/section6-4.tex
+
+[146]
+
+[147]
+
+[148]
+Underfull \vbox (badness 5832) has occurred while \output is active []
+
+
+
+[149]) (./chapter6/section6-5.tex
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+File: images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg>
+
+
+[150]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-288(1).jpg Graphic file (type bmp
+)
+<images/2025_05_15_6a28331d5e7c993ad07ag-288(1).jpg>
+
+
+[151]
+
+[152]
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+
+
+[153]) (./chapter6/section6-6.tex
+
+[154]
+
+[155]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+) (./chapter6/summary.tex
+
+[156]
+
+[157])
+
+[158]
+Chapter 7.
+(./chapter7/section7-1.tex
+
+[159
+
+]) (./chapter7/section7-2.tex
+
+[160]
+
+[161]) (./chapter7/section7-3.tex
+
+[162]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[163]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg>
+
+
+[164]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[165]
+
+[166]) (./chapter7/section7-4.tex
+
+[167]
+
+[168]) (./chapter7/section7-5.tex
+
+[169]
+
+[170]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[171]) (./chapter7/section7-6.tex
+
+[172]
+
+[173]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[174]) (./chapter7/section7-7.tex
+
+[175]
+
+[176]) (./chapter7/section7-8.tex
+
+[177]
+
+[178]
+
+[179]
+
+[180]) (./chapter7/summary.tex
+
+[181])
+
+[182]
+Chapter 8.
+(./chapter8/section8-1.tex
+
+[183
+
+]) (./chapter8/section8-2.tex
+
+[184]
+
+[185]
+
+[186]
+
+[187]
+
+[188]
+Underfull \vbox (badness 1005) has occurred while \output is active []
+
+
+
+[189]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[190]) (./chapter8/section8-3.tex
+
+[191]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[192]
+
+[193]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[194]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[195]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[196]) (./chapter8/section8-4.tex
+
+[197]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[198]
+
+[199]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[200]
+
+[201]
+
+[202]
+Underfull \vbox (badness 5878) has occurred while \output is active []
+
+
+
+[203]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[204]) (./chapter8/section8-5.tex
+
+[205]
+
+[206]
+
+[207]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[208]) (./chapter8/section8-6.tex
+
+[209]
+
+[210]
+
+[211]) (./chapter8/section8-7.tex
+
+[212]) (./chapter8/section8-8.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[213]
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+
+[214])
+
+[215]
+
+[216
+
+]
+Chapter 9.
+(./chapter9/section9-1.tex
+
+[217]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[218]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[219]) (./chapter9/section9-2.tex
+
+[220]
+
+[221]
+
+[222]
+
+[223]
+
+[224]) (./chapter9/section9-3.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[225]
+
+[226]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[227]) (./chapter9/section9-4.tex
+Underfull \vbox (badness 3503) has occurred while \output is active []
+
+
+
+[228]
+
+[229]
+
+[230]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[231])
+
+[232]
+Chapter 10.
+(./chapter10/section10-1.tex
+
+[233
+
+]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[234]) (./chapter10/section10-2.tex
+
+[235]
+
+[236]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[237]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg>
+
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[238]) (./chapter10/section10-3.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[239]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[240]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg>
+
+
+[241]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[242]
+
+[243]
+Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+) (./chapter10/section10-4.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[244]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[245]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[246]
+Underfull \hbox (badness 10000) in paragraph at lines 118--121
+
+ []
+
+
+
+[247]
+
+[248]
+
+[249]
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[250]) (./chapter10/section10-5.tex
+
+[251]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[252]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[253]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[254]) (./chapter10/section10-6.tex
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[255]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[256]
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+
+
+[257]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[258]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+)
+
+[259]
+
+[260
+
+]
+Chapter 11.
+(./chapter11/section11-1.tex
+
+[261]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[262]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[263]) (./chapter11/section11-2.tex
+
+[264]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[265]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[266]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[267]) (./chapter11/section11-3.tex
+
+[268]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[269])
+
+[270]
+Chapter 12.
+(./chapter12/section12-1.tex
+Underfull \vbox (badness 2591) has occurred while \output is active []
+
+
+
+[271
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[272]
+
+[273]
+
+[274]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[275]) (./chapter12/section12-2.tex
+
+[276]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[277]
+
+[278]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 与 (U+4E0E) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 一 (U+4E00) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 起 (U+8D77) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 发 (U+53D1) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 生 (U+751F) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 与 (U+4E0E) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 一 (U+4E00) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 起 (U+8D77) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 发 (U+53D1) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 生 (U+751F) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[279]
+
+[280]
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+
+
+[281]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[282]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[283]) (./chapter12/section12-3.tex
+
+[284]
+
+[285])
+
+[286]
+Chapter 13.
+(./chapter13/section13-1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[287
+
+]) (./chapter13/section13-2.tex
+
+[288]
+
+[289]) (./chapter13/section13-3.tex
+
+[290]
+
+[291]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[292]) (./chapter13/section13-4.tex
+
+[293]
+
+[294]
+
+[295]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[296]) (./chapter13/section13-5.tex
+
+[297]
+
+[298]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[299]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[300]
+Overfull \vbox (591.75516pt too high) has occurred while \output is active []
+
+
+
+[301]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[302]) (./chapter13/section13-6.tex
+
+[303]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[304]
+
+[305]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[306]) (./chapter13/section13-7.tex
+
+[307]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[308]
+Underfull \vbox (badness 3954) has occurred while \output is active []
+
+
+
+[309]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[310])
+
+[311]
+
+[312
+
+]
+Chapter 14.
+(./chapter14/section14-1.tex
+
+[313]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[314]
+Missing character: There is no 硬 (U+786C) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 币 (U+5E01) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 正 (U+6B63) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 面 (U+9762) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[315]) (./chapter14/section14-2.tex
+
+[316]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[317]) (./chapter14/section14-3.tex
+
+[318]
+
+Package fontspec Info: 
+(fontspec)             Script 'CJK' not explicitly supported within font
+(fontspec)             'STSong'. Check the typeset output, and if it is okay
+(fontspec)             then ignore this warning. Otherwise a different font
+(fontspec)             should be chosen.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "STSong/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "STSong/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "STSong/I" (it probably doesn't
+(fontspec)             exist).
+
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 36.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'STSong(1)' created for font 'STSong' with
+(fontspec)             options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STSong/OT:script=hani;language=dflt;"
+
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[319]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[320]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[321]) (./chapter14/section14-4.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[322]
+Underfull \vbox (badness 6559) has occurred while \output is active []
+
+
+
+[323]
+
+[324]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+
+[325]
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
+ge=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[326]) (./chapter14/section14-5.tex
+
+[327]
+
+[328]) (./chapter14/summary.tex
+
+[329]
+Underfull \vbox (badness 1571) has occurred while \output is active []
+
+
+
+[330]) (./chapter14/notes.tex
+
+[331])
+
+[332]
+
+[333
+
+
+] (./main.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2022/08/05>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 17170 strings out of 473832
+ 446751 string characters out of 5729481
+ 856656 words of memory out of 5000000
+ 39572 multiletter control sequences out of 15000+600000
+ 575415 words of font info for 154 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 74i,16n,96p,922b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (347 pages).
