@@ -15,6 +15,7 @@
 \usepackage{xeCJK}
 \usepackage{polyglossia}
 \usepackage{fontspec}
+\usepackage{unicode-math}
 \usepackage{geometry}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
@@ -33,13 +34,23 @@
 \geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
 
 % 设置中文字体
-\setCJKmainfont{STSong}[
-  BoldFont=STHeitiSC-Medium,
-  ItalicFont=STKaiti,
-  BoldItalicFont=STHeitiSC-Medium
+\setCJKmainfont{PingFang SC}[
+  BoldFont = PingFang SC,
+  ItalicFont = PingFang SC,
+  BoldItalicFont = PingFang SC
 ]
+\setCJKmonofont{PingFang SC}
+\newCJKfontfamily\cnfont{PingFang SC}
 
-\setCJKmonofont{STFangsong}
+% 设置英文字体
+\setmainfont{Times New Roman}
+
+% 确保特定中文字符始终使用中文字体
+\DeclareTextFontCommand{\textcn}{\cnfont}
+\DeclareTextFontCommand{\texten}{\normalfont}
+
+% 设置数学字体
+\setmathfont{TeX Gyre Termes Math}
 
 % 简化的标点和符号设置
 \punctstyle{kaiming}
@@ -48,20 +59,11 @@
 % 确保中文文本和标点符号使用中文字体的命令
 \newcommand{\zhtext}[1]{{\cnfont #1}}
 
-% 设置英文字体
-\setmainlanguage{english}
-\setmainfont{Times New Roman}[
-  BoldFont=Times New Roman Bold,
-  ItalicFont=Times New Roman Italic,
-  BoldItalicFont=Times New Roman Bold Italic
-]
-
 % 添加中英文混排支持
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt
 
 % 确保特定中文字符总是使用中文字体
-\newCJKfontfamily\cnfont{STSong}
 \newcommand{\cn}[1]{{\cnfont #1}}
 
 % 设置页眉页脚样式
@@ -243,16 +245,16 @@
 \input{chapter6/summary.tex}
 
 % 第七部分
-\chapter{三段论的应用}
-\input{chapter7/section7-1.tex}
-\input{chapter7/section7-2.tex}
-\input{chapter7/section7-3.tex}
-\input{chapter7/section7-4.tex}
-\input{chapter7/section7-5.tex}
-\input{chapter7/section7-6.tex}
-\input{chapter7/section7-7.tex}
-\input{chapter7/section7-8.tex}
-\input{chapter7/summary.tex}
+\chapter{逻辑与语言}
+\input{chapter7/section7-1}
+\input{chapter7/section7-2}
+\input{chapter7/section7-3}
+\input{chapter7/section7-4}
+\input{chapter7/section7-5}
+\input{chapter7/section7-6}
+\input{chapter7/section7-7}
+\input{chapter7/section7-8}
+\input{chapter7/summary}
 
 % 第八章
 \chapter{现代符号逻辑}
