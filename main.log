@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  18 MAY 2025 21:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  20 MAY 2025 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,46 +545,6 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthlast=\dimen290
 \titlewidthfirst=\dimen291
 )
-(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip94
-\cftbeforetoctitleskip=\skip95
-\cftaftertoctitleskip=\skip96
-\cftbeforepartskip=\skip97
-\cftpartnumwidth=\skip98
-\cftpartindent=\skip99
-\cftbeforechapskip=\skip100
-\cftchapindent=\skip101
-\cftchapnumwidth=\skip102
-\cftbeforesecskip=\skip103
-\cftsecindent=\skip104
-\cftsecnumwidth=\skip105
-\cftbeforesubsecskip=\skip106
-\cftsubsecindent=\skip107
-\cftsubsecnumwidth=\skip108
-\cftbeforesubsubsecskip=\skip109
-\cftsubsubsecindent=\skip110
-\cftsubsubsecnumwidth=\skip111
-\cftbeforeparaskip=\skip112
-\cftparaindent=\skip113
-\cftparanumwidth=\skip114
-\cftbeforesubparaskip=\skip115
-\cftsubparaindent=\skip116
-\cftsubparanumwidth=\skip117
-\cftbeforeloftitleskip=\skip118
-\cftafterloftitleskip=\skip119
-\cftbeforefigskip=\skip120
-\cftfigindent=\skip121
-\cftfignumwidth=\skip122
-\c@lofdepth=\count353
-\c@lotdepth=\count354
-\cftbeforelottitleskip=\skip123
-\cftafterlottitleskip=\skip124
-\cftbeforetabskip=\skip125
-\cfttabindent=\skip126
-\cfttabnumwidth=\skip127
-)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
@@ -609,6 +569,398 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count353
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count354
+\c@listtotal=\count355
+\c@listcount=\count356
+\c@liststart=\count357
+\c@liststop=\count358
+\c@citecount=\count359
+\c@citetotal=\count360
+\c@multicitecount=\count361
+\c@multicitetotal=\count362
+\c@instcount=\count363
+\c@maxnames=\count364
+\c@minnames=\count365
+\c@maxitems=\count366
+\c@minitems=\count367
+\c@citecounter=\count368
+\c@maxcitecounter=\count369
+\c@savedcitecounter=\count370
+\c@uniquelist=\count371
+\c@uniquename=\count372
+\c@refsection=\count373
+\c@refsegment=\count374
+\c@maxextratitle=\count375
+\c@maxextratitleyear=\count376
+\c@maxextraname=\count377
+\c@maxextradate=\count378
+\c@maxextraalpha=\count379
+\c@abbrvpenalty=\count380
+\c@highnamepenalty=\count381
+\c@lownamepenalty=\count382
+\c@maxparens=\count383
+\c@parenlevel=\count384
+\blx@tempcnta=\count385
+\blx@tempcntb=\count386
+\blx@tempcntc=\count387
+\c@blx@maxsection=\count388
+\blx@maxsegment@0=\count389
+\blx@notetype=\count390
+\blx@parenlevel@text=\count391
+\blx@parenlevel@foot=\count392
+\blx@sectionciteorder@0=\count393
+\blx@sectionciteorderinternal@0=\count394
+\blx@entrysetcounter=\count395
+\blx@biblioinstance=\count396
+\labelnumberwidth=\skip94
+\labelalphawidth=\skip95
+\biblabelsep=\skip96
+\bibitemsep=\skip97
+\bibnamesep=\skip98
+\bibinitsep=\skip99
+\bibparsep=\skip100
+\bibhang=\skip101
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language90
+\c@mincomprange=\count397
+\c@maxcomprange=\count398
+\c@mincompwidth=\count399
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'gb7714-2015.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count400
+\c@savedafterword=\count401
+\c@annotator=\count402
+\c@savedannotator=\count403
+\c@author=\count404
+\c@savedauthor=\count405
+\c@bookauthor=\count406
+\c@savedbookauthor=\count407
+\c@commentator=\count408
+\c@savedcommentator=\count409
+\c@editor=\count410
+\c@savededitor=\count411
+\c@editora=\count412
+\c@savededitora=\count413
+\c@editorb=\count414
+\c@savededitorb=\count415
+\c@editorc=\count416
+\c@savededitorc=\count417
+\c@foreword=\count418
+\c@savedforeword=\count419
+\c@holder=\count420
+\c@savedholder=\count421
+\c@introduction=\count422
+\c@savedintroduction=\count423
+\c@namea=\count424
+\c@savednamea=\count425
+\c@nameb=\count426
+\c@savednameb=\count427
+\c@namec=\count428
+\c@savednamec=\count429
+\c@translator=\count430
+\c@savedtranslator=\count431
+\c@shortauthor=\count432
+\c@savedshortauthor=\count433
+\c@shorteditor=\count434
+\c@savedshorteditor=\count435
+\c@labelname=\count436
+\c@savedlabelname=\count437
+\c@institution=\count438
+\c@savedinstitution=\count439
+\c@lista=\count440
+\c@savedlista=\count441
+\c@listb=\count442
+\c@savedlistb=\count443
+\c@listc=\count444
+\c@savedlistc=\count445
+\c@listd=\count446
+\c@savedlistd=\count447
+\c@liste=\count448
+\c@savedliste=\count449
+\c@listf=\count450
+\c@savedlistf=\count451
+\c@location=\count452
+\c@savedlocation=\count453
+\c@organization=\count454
+\c@savedorganization=\count455
+\c@origlocation=\count456
+\c@savedoriglocation=\count457
+\c@origpublisher=\count458
+\c@savedorigpublisher=\count459
+\c@publisher=\count460
+\c@savedpublisher=\count461
+\c@language=\count462
+\c@savedlanguage=\count463
+\c@origlanguage=\count464
+\c@savedoriglanguage=\count465
+\c@pageref=\count466
+\c@savedpageref=\count467
+\shorthandwidth=\skip102
+\shortjournalwidth=\skip103
+\shortserieswidth=\skip104
+\shorttitlewidth=\skip105
+\shortauthorwidth=\skip106
+\shorteditorwidth=\skip107
+\locallabelnumberwidth=\skip108
+\locallabelalphawidth=\skip109
+\localshorthandwidth=\skip110
+\localshortjournalwidth=\skip111
+\localshortserieswidth=\skip112
+\localshorttitlewidth=\skip113
+\localshortauthorwidth=\skip114
+\localshorteditorwidth=\skip115
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count468
+\c@textcitetotal=\count469
+\c@textcitemaxnames=\count470
+\c@biburlbigbreakpenalty=\count471
+\c@biburlbreakpenalty=\count472
+\c@biburlnumpenalty=\count473
+\c@biburlucpenalty=\count474
+\c@biburllcpenalty=\count475
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count476
+)
+Package biblatex Info: Trying to load bibliography style 'gb7714-2015'...
+Package biblatex Info: ... file 'gb7714-2015.bbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015.
+bbx
+File: gb7714-2015.bbx 2025/03/03 v1.1tbiblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count477
+\c@bbx:relatedtotal=\count478
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
+\xs_counta=\count479
+\xs_countb=\count480
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+\BracketLift=\skip116
+\footbibmargin=\skip117
+\footbiblabelsep=\skip118
+\c@gbnamefmtcase=\count481
+\c@gbalignlabel=\count482
+\c@gbcitelocalcase=\count483
+\c@gbbiblocalcase=\count484
+\c@lanordernum=\count485
+\bibitemindent=\skip119
+\biblabelextend=\skip120
+Package biblatex Info: Delimiter 'finalnamedelim' in context '' already defined
+, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'gb7714-2015'...
+Package biblatex Info: ... file 'gb7714-2015.cbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015.
+cbx
+File: gb7714-2015.cbx a biblatex citation style for GB/T 7714-2015
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count486
+\c@cbx@tempcntb=\count487
+\c@cbx@tempcntc=\count488
+\c@cbx@tempcntd=\count489
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+\c@gbrefcompress=\count490
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\cbx@textcite'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2025-01-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count491
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen292
+\Hy@linkcounter=\count492
+\Hy@pagecounter=\count493
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count494
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4040.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4040
+.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count495
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen293
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count496
+\Field@Width=\dimen294
+\Fld@charsize=\dimen295
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count497
+\c@Item=\count498
+\c@Hfootnote=\count499
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box68
+\c@Hy@AnnotLevel=\count500
+\HyField@AnnotCount=\count501
+\Fld@listcount=\count502
+\c@bookmark@seq@number=\count503
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip121
+)
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -618,25 +970,10 @@ Package fontspec Info:
 
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "STKaiti/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "STHeitiSC-Medium/I" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "STSong/BI" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: 
 (fontspec)             Font family 'STSong(0)' created for font 'STSong' with
 (fontspec)             options
-(fontspec)             [Script={CJK},BoldFont={STHeitiSC-Medium},ItalicFont={ST
-Kaiti}].
+(fontspec)             [Script={CJK},BoldItalicFont={STHeitiSC-Medium},BoldFont
+={STHeitiSC-Medium},ItalicFont={STKaiti}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
@@ -647,9 +984,10 @@ Kaiti}].
 (fontspec)             <->"STHeitiSC-Medium/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"STKaiti/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"STHeitiSC-Medium/OT:script=hani;language=dflt;"
 
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
 File: gloss-english.ldf polyglossia: module for English
 )
 
@@ -657,51 +995,53 @@ Package polyglossia Info: Default language is english
 
 
 Package fontspec Info: 
-(fontspec)             Font family 'Georgia(0)' created for font 'Georgia'
-(fontspec)             with options [Ligatures=TeX].
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,BoldFont=Times
+(fontspec)             New Roman Bold,ItalicFont=Times New Roman
+(fontspec)             Italic,BoldItalicFont=Times New Roman Bold Italic].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"Georgia/OT:script=latn;language=dflt;mapping=tex-tex
-t;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"Georgia/B/OT:script=latn;language=dflt;mapping=tex-t
-ext;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"Georgia/I/OT:script=latn;language=dflt;mapping=tex-t
-ext;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"Georgia/BI/OT:script=latn;language=dflt;mapping=tex-
-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New Roman
+(fontspec)             Bold/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New Roman
+(fontspec)             Italic/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman Bold
+(fontspec)             Italic/OT:script=latn;language=dflt;mapping=tex-text;"
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
-
-(./main.aux)
+ (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
 
-Package chemgreek Info: Activating mapping `fontspec' on line 121.
+Package chemgreek Info: Activating mapping `fontspec' on line 122.
 
 
 Package fontspec Info: 
@@ -710,60 +1050,64 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 121.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 121.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 121.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 121.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 121.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 121.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 121.
-LaTeX Font Info:    Redeclaring math accent \check on input line 121.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 121.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 121.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 121.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 121.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 121.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 122.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 122.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 122.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 122.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 122.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 122.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 122.
+LaTeX Font Info:    Redeclaring math accent \check on input line 122.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 122.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 122.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 122.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 122.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 122.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 121.
+(Font)              `operators' in the math version `normal' on input line 122.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Georgia(0)/m/n on input line 121.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
+22.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 121.
+(Font)              `operators' in the math version `bold' on input line 122.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Georgia(0)/m/n on input line 121.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+122.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Georgia(0)/m/n --> TU/Georgia(0)/m/n on input line 1
-21.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Georgia(0)/m/it on input line 121.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Georgia(0)/b/n on input line 121.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 121.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 121.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 122.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Georgia(0)/m/n --> TU/Georgia(0)/b/n on input line 1
-21.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Georgia(0)/b/it on input line 121.
-
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 121.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 121.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 122.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -799,19 +1143,56 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 144
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 122.
+Package biblatex Info: Reference segment=0 on input line 122.
+Package hyperref Info: Link coloring ON on input line 122.
+(./main.out) (./main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 145
 .
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 144
+LaTeX Font Info:    Trying to load font information for U+msb on input line 145
 .
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
-44.
+45.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 
@@ -822,50 +1203,28 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
 
 [2
 
-] (./preface.tex) (./main.toc
+] (./preface.tex)
 
 [1
 
 ]
 
-[2]
+[2
+
+] (./main.toc)
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+
 
 [3]
 
-[4]
-
-[5]
-
-[6]
-
-[7]
-
-[8]
-Underfull \vbox (badness 1348) has occurred while \output is active []
-
-
-
-[9]
-
-[10])
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-
-
-[11]
-
-[12
+[4
 
 
 ]
 Chapter 1.
-(./part1.tex
-
-LaTeX Font Warning: Font shape `TU/STSong(0)/b/it' undefined
-(Font)              using `TU/STSong(0)/b/n' instead on input line 3.
-
-) (./chapter1/section1-1.tex
+(./part1.tex) (./chapter1/section1-1.tex
 
 [1
 
@@ -873,11 +1232,39 @@ LaTeX Font Warning: Font shape `TU/STSong(0)/b/it' undefined
 
 [2]
 
-[3]) (./chapter1/section1-3.tex
+[3]
+
+LaTeX Warning: Citation 'shirer1960' on page 4 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'lincoln1861' on page 4 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'voltaire1770' on page 4 undefined on input line 62.
+
+) (./chapter1/section1-3.tex
 
 [4]
 
-[5]) (./chapter1/section1-4.tex
+LaTeX Warning: Citation 'hayden2000' on page 5 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'ban1992' on page 5 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'bentham1802' on page 5 undefined on input line 38.
+
+
+
+[5]
+
+LaTeX Warning: Citation 'zare1996' on page 6 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'langewiesche1996' on page 6 undefined on input line 64
+.
+
+) (./chapter1/section1-4.tex
 
 [6]
 
@@ -964,16 +1351,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/2025_05_15_6a28331d5e7c993ad07ag-072.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-072.jpg>
 
+
+[31]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-073.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-073.jpg>
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[31]
-
 [32]
-File: images/2025_05_15_6a28331d5e7c993ad07ag-073.jpg Graphic file (type bmp)
-<images/2025_05_15_6a28331d5e7c993ad07ag-073.jpg>
-
 
 [33]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-074.jpg Graphic file (type bmp)
@@ -1003,7 +1390,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [38]
 
 [39]
-Underfull \vbox (badness 6032) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1022,221 +1409,264 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [42]
 
+LaTeX Warning: Empty bibliography on input line 183.
+
+)
+
 [43]
 
-[44])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[45]
-
-[46]
+[44]
 Chapter 2.
 (./part2.tex) (./chapter2/section2-1.tex
 
-[47
+[45
 
 ]
 
-[48]) (./chapter2/section2-2.tex
-Underfull \vbox (badness 2617) has occurred while \output is active []
+LaTeX Warning: Citation 'palmbeach2000' on page 46 undefined on input line 25.
 
 
 
-[49]
+[46]
+
+LaTeX Warning: Citation 'lander1988' on page 47 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'rescher1996' on page 47 undefined on input line 53.
+
+) (./chapter2/section2-2.tex
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+
+
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
 
-[50]) (./chapter2/section2-3.tex
+[48]) (./chapter2/section2-3.tex
 
-[51]
+[49]
+
+[50]
+
+[51]) (./chapter2/section2-4.tex
 
 [52]
 
-[53]) (./chapter2/section2-4.tex
+[53]) (./chapter2/section2-5.tex
 
 [54]
 
-[55]) (./chapter2/section2-5.tex
+[55]
 
-[56]
+[56]) (./chapter2/section2-6.tex
 
-[57]
+LaTeX Warning: Citation 'perot1993' on page 57 undefined on input line 21.
 
-[58]) (./chapter2/section2-6.tex
 
-[59])
+LaTeX Warning: Citation 'timecnn1993' on page 57 undefined on input line 21.
 
-[60]
+
+
+[57])
+
+[58]
 Chapter 3.
 (./chapter3/section3-1.tex
-Underfull \vbox (badness 2119) has occurred while \output is active []
+Underfull \vbox (badness 3118) has occurred while \output is active []
 
 
 
-[61
+[59
 
 ]
 
-[62]) (./chapter3/section3-2.tex
-Underfull \vbox (badness 5970) has occurred while \output is active []
+LaTeX Warning: Citation 'james1907' on page 60 undefined on input line 24.
 
 
+LaTeX Warning: Citation 'james1907' on page 60 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'rudin1992' on page 60 undefined on input line 33.
+
+
+
+[60]) (./chapter3/section3-2.tex
+Underfull \vbox (badness 7030) has occurred while \output is active []
+
+
+
+[61]
+
+[62]) (./chapter3/section3-3.tex
 
 [63]
 
-[64]) (./chapter3/section3-3.tex
+[64]
 
-[65]
+LaTeX Warning: Citation 'gombocz1997' on page 65 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'sisk1988' on page 65 undefined on input line 42.
+
+
+
+[65]) (./chapter3/section3-4.tex
 
 [66]
+Underfull \vbox (badness 6284) has occurred while \output is active []
 
-[67]) (./chapter3/section3-4.tex
+
+
+[67]) (./chapter3/section3-5.tex
 
 [68]
-Underfull \vbox (badness 2213) has occurred while \output is active []
 
-
-
-[69]) (./chapter3/section3-5.tex
+[69]
 
 [70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[71]
+
+
+[71]) (./chapter3/section3-6.tex
 
 [72]
 
-[73]) (./chapter3/section3-6.tex
+[73]) (./chapter3/summary.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [74]
 
-[75]) (./chapter3/summary.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Empty bibliography on input line 51.
 
+)
 
+[75]
 
-[76]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[77]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[78])
-
-[79]
-
-[80
+[76
 
 ]
 Chapter 4.
 (./chapter4/section4-1.tex
 
-[81]) (./chapter4/section4-2.tex
+[77]
 
-[82]) (./chapter4/section4-2-R1.tex
+LaTeX Warning: Citation 'aristotle' on page 78 undefined on input line 25.
 
-[83]) (./chapter4/section4-2-R2.tex
 
-[84]) (./chapter4/section4-2-R3.tex
+LaTeX Warning: Citation 'fearnside1959' on page 78 undefined on input line 25.
 
-[85]
 
-[86]) (./chapter4/section4-2-R4.tex
+LaTeX Warning: Citation 'joseph1916' on page 78 undefined on input line 28.
 
-[87]) (./chapter4/section4-2-R5.tex
+) (./chapter4/section4-2.tex
+Underfull \vbox (badness 3240) has occurred while \output is active []
 
-[88]) (./chapter4/section4-2-R6.tex) (./chapter4/section4-2-R7.tex
 
-[89]) (./chapter4/section4-3.tex) (./chapter4/section4-3-P1.tex
 
-[90]) (./chapter4/section4-3-P2.tex
+[78]) (./chapter4/section4-2-R1.tex
+
+[79]) (./chapter4/section4-2-R2.tex
+
+[80]) (./chapter4/section4-2-R3.tex
+
+[81]
+
+[82]) (./chapter4/section4-2-R4.tex
+
+[83]) (./chapter4/section4-2-R5.tex
+
+[84]) (./chapter4/section4-2-R6.tex) (./chapter4/section4-2-R7.tex
+
+[85]) (./chapter4/section4-3.tex) (./chapter4/section4-3-P1.tex
+
+[86]) (./chapter4/section4-3-P2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
 
 
-[91]) (./chapter4/section4-3-P3.tex
+[87]) (./chapter4/section4-3-P3.tex
 
-[92]) (./chapter4/section4-3-P4-P5.tex
+[88]) (./chapter4/section4-3-P4-P5.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
 
-Underfull \vbox (badness 1184) has occurred while \output is active []
 
-
-
-[93]) (./chapter4/section4-4.tex) (./chapter4/section4-4-A1.tex
+[89]) (./chapter4/section4-4.tex) (./chapter4/section4-4-A1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
 
-[94]) (./chapter4/section4-4-A2.tex) (./chapter4/section4-4-A3.tex
+[90]) (./chapter4/section4-4-A2.tex) (./chapter4/section4-4-A3.tex
 
-[95]) (./chapter4/section4-4-A4.tex
+[91]) (./chapter4/section4-4-A4.tex
 
-[96]) (./chapter4/section4-4-A5.tex) (./chapter4/summary.tex
+[92]) (./chapter4/section4-4-A5.tex) (./chapter4/summary.tex
 
-[97]
+[93]
 
-[98])
+[94]
 
-[99]
+LaTeX Warning: Empty bibliography on input line 76.
 
-[100
+)
+
+[95]
+
+[96
 
 ]
 Chapter 5.
 (./chapter5/section5-1.tex
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[101]) (./chapter5/section5-2.tex
+[97]) (./chapter5/section5-2.tex
 
 LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
 (Font)              using `U/stmry/m/n' instead on input line 19.
 
 
 
+[98]
+
+[99]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[100]) (./chapter5/section5-3.tex
+
+[101]
+Underfull \vbox (badness 1852) has occurred while \output is active []
+
+
+
 [102]
 
 [103]
-Underfull \vbox (badness 4096) has occurred while \output is active []
-
-
-
-[104]) (./chapter5/section5-3.tex
-
-[105]
-Underfull \vbox (badness 1509) has occurred while \output is active []
-
-
-
-[106]
-
-[107]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg>
 
@@ -1244,55 +1674,75 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[108]) (./chapter5/section5-4.tex
+[104]) (./chapter5/section5-4.tex
 
-[109]
+[105]
 
-[110]
+LaTeX Warning: Citation 'kneale1962' on page 106 undefined on input line 37.
+
+
+
+[106]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg>
 
-Underfull \vbox (badness 4634) has occurred while \output is active []
+Underfull \vbox (badness 5091) has occurred while \output is active []
 
 
+
+[107]
+
+[108]) (./chapter5/section5-5.tex
+
+[109]
+
+LaTeX Warning: Citation 'kneale1962' on page 110 undefined on input line 43.
+
+
+
+[110]
 
 [111]
 
-[112]) (./chapter5/section5-5.tex
+[112]
+Underfull \vbox (badness 5403) has occurred while \output is active []
 
-[113]
+
+
+[113]) (./chapter5/section5-6.tex
 
 [114]
 
+LaTeX Warning: Citation 'russell1905' on page 115 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'russell1905' on page 115 undefined on input line 21.
+
+
+
 [115]
 
+LaTeX Warning: Citation 'wiebe1991' on page 116 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'boole1854' on page 116 undefined on input line 49.
+
+
+Underfull \vbox (badness 7468) has occurred while \output is active []
+
+
+
 [116]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
-[117]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[118]) (./chapter5/section5-6.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[117]) (./chapter5/section5-7.tex
 
-
-
-[119]
-
-[120]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-
-[121]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[122]) (./chapter5/section5-7.tex
-
-[123]
+[118]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg>
@@ -1301,7 +1751,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[124]
+[119]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg>
 
@@ -1309,7 +1759,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[125]
+[120]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg>
@@ -1318,47 +1768,64 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[126]
+[121]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg>
 
 
-[127]
+[122]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg>
 
 
-[128]
+[123]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg>
 File: images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg>
 
-
-[129]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[130]) (./chapter5/summary.tex
+[124]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[131])
 
-[132]
+
+[125]) (./chapter5/summary.tex
+
+[126]
+
+LaTeX Warning: Empty bibliography on input line 41.
+
+)
+
+[127]
+
+[128
+
+]
 Chapter 6.
 (./chapter6/section6-1.tex
 
-[133
+[129]
 
-]
+LaTeX Warning: Citation 'lukasiewicz1957' on page 130 undefined on input line 5
+7.
 
-[134]) (./chapter6/section6-2.tex
 
-[135]
 
-[136]) (./chapter6/section6-3.tex
+[130]) (./chapter6/section6-2.tex
+
+[131]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[132]) (./chapter6/section6-3.tex
 File: images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg>
 
@@ -1366,7 +1833,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[137]
+[133]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg>
@@ -1375,7 +1842,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[138]
+[134]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-275(1).jpg>
@@ -1384,7 +1851,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[139]
+[135]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg>
 
@@ -1392,19 +1859,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[140]
+[136]
 
-[141]
+LaTeX Warning: Citation 'venn1881' on page 137 undefined on input line 48.
+
+
+
+[137]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg>
 
 
-[142]
+[138]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg>
 
 
-[143]
+[139]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg>
 File: images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg Graphic file (type bmp
@@ -1412,232 +1883,357 @@ File: images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg Graphic file (type bmp
 <images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg>
 
 
+[140]
+
+[141]) (./chapter6/section6-4.tex
+
+[142]
+
+[143]
+
 [144]
-
-[145]) (./chapter6/section6-4.tex
-
-[146]
-
-[147]
-
-[148]
-Underfull \vbox (badness 5832) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[149]) (./chapter6/section6-5.tex
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+[145]) (./chapter6/section6-5.tex
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 File: images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg>
 
 
-[150]
+[146]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-288(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-288(1).jpg>
 
 
+[147]
+
+LaTeX Warning: Citation 'patzig1968' on page 148 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'lukasiewicz1957' on page 148 undefined on input line 3
+4.
+
+
+LaTeX Warning: Citation 'copi1980' on page 148 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'patzig1968' on page 148 undefined on input line 42.
+
+
+
+[148]
+Underfull \vbox (badness 3158) has occurred while \output is active []
+
+
+
+[149]) (./chapter6/section6-6.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 15.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 15.
+
+
+
+[150]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 20.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 20.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 34.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 34.
+
+
+
 [151]
-
-[152]
-Underfull \vbox (badness 3029) has occurred while \output is active []
-
-
-
-[153]) (./chapter6/section6-6.tex
-
-[154]
-
-[155]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 ) (./chapter6/summary.tex
 
-[156]
+[152]
 
-[157])
+[153])
 
-[158]
+[154]
 Chapter 7.
 (./chapter7/section7-1.tex
 
-[159
+[155
 
 ]) (./chapter7/section7-2.tex
 
-[160]
+[156]
 
-[161]) (./chapter7/section7-3.tex
+[157]) (./chapter7/section7-3.tex
 
-[162]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+[158]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+LaTeX Warning: Citation 'kant1781' on page 159 undefined on input line 15.
 
 
-[163]
+
+[159]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg>
 
 
-[164]
+[160]
+
+LaTeX Warning: Citation 'frege1892' on page 161 undefined on input line 90.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+
+[161]
+
+[162]) (./chapter7/section7-4.tex
+
+[163]
+
+[164]) (./chapter7/section7-5.tex
 
 [165]
 
-[166]) (./chapter7/section7-4.tex
+LaTeX Warning: Citation 'hume1748' on page 166 undefined on input line 46.
 
-[167]
 
-[168]) (./chapter7/section7-5.tex
 
-[169]
+[166]
+
+LaTeX Warning: Citation 'usc2000' on page 167 undefined on input line 56.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[167]) (./chapter7/section7-6.tex
+
+[168]
+
+[169]) (./chapter7/section7-7.tex
 
 [170]
+
+LaTeX Warning: Citation 'boole1854' on page 171 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'boole1854' on page 171 undefined on input line 39.
+
+
+
+[171]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[171]) (./chapter7/section7-6.tex
+[172]) (./chapter7/section7-8.tex
 
-[172]
+LaTeX Warning: Citation 'feynman1988' on page 173 undefined on input line 14.
+
+
 
 [173]
+
+LaTeX Warning: Citation 'lincoln1861' on page 174 undefined on input line 28.
+
+
+
+[174]
+
+[175]) (./chapter7/summary.tex
+
+[176]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-[174]) (./chapter7/section7-7.tex
-
-[175]
-
-[176]) (./chapter7/section7-8.tex
 
 [177]
 
+LaTeX Warning: Empty bibliography on input line 42.
+
+)
+
 [178]
-
-[179]
-
-[180]) (./chapter7/summary.tex
-
-[181])
-
-[182]
 Chapter 8.
 (./chapter8/section8-1.tex
 
-[183
+LaTeX Warning: Citation 'quine1940' on page 179 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'aristotle-logic' on page 179 undefined on input line 1
+3.
+
+
+
+[179
 
 ]) (./chapter8/section8-2.tex
 
+LaTeX Warning: Citation 'tarski1946' on page 180 undefined on input line 20.
+
+
+
+[180]
+
+LaTeX Warning: Citation 'church1956' on page 181 undefined on input line 35.
+
+
+
+[181]
+
+LaTeX Warning: Citation 'grice1975' on page 182 undefined on input line 68.
+
+
+
+[182]
+
+LaTeX Warning: Citation 'boole1854' on page 183 undefined on input line 113.
+
+
+
+[183]
+
+LaTeX Warning: Citation 'russell1903' on page 184 undefined on input line 121.
+
+
+LaTeX Warning: Citation 'hume1748' on page 184 undefined on input line 127.
+
+
+
 [184]
+Underfull \vbox (badness 2452) has occurred while \output is active []
+
+
 
 [185]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[186]
+
+
+[186]) (./chapter8/section8-3.tex
 
 [187]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [188]
-Underfull \vbox (badness 1005) has occurred while \output is active []
-
-
 
 [189]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+
+[190]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-[190]) (./chapter8/section8-3.tex
 
 [191]
+
+LaTeX Warning: Citation 'churchill1953' on page 192 undefined on input line 152
+.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[192]
+[192]) (./chapter8/section8-4.tex
+
+LaTeX Warning: Citation 'copi1980' on page 193 undefined on input line 8.
+
+
 
 [193]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+
+LaTeX Warning: Citation 'jevons1886' on page 194 undefined on input line 20.
+
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
 
 [194]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [195]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
 
+[196]
 
-[196]) (./chapter8/section8-4.tex
+LaTeX Warning: Citation 'jevons1879' on page 197 undefined on input line 141.
+
+
 
 [197]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+
+LaTeX Warning: Citation 'carroll1896' on page 198 undefined on input line 177.
+
 
 
 [198]
 
-[199]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+[199]) (./chapter8/section8-5.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [200]
 
 [201]
 
+LaTeX Warning: Citation 'whitehead1911' on page 202 undefined on input line 33.
+
+
+
+
 [202]
-Underfull \vbox (badness 5878) has occurred while \output is active []
 
+[203]) (./chapter8/section8-6.tex
 
-
-[203]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[204]) (./chapter8/section8-5.tex
+[204]
 
 [205]
 
-[206]
+[206]) (./chapter8/section8-7.tex
 
-[207]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[208]) (./chapter8/section8-6.tex
-
-[209]
-
-[210]
-
-[211]) (./chapter8/section8-7.tex
-
-[212]) (./chapter8/section8-8.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[207]) (./chapter8/section8-8.tex
+Underfull \vbox (badness 6808) has occurred while \output is active []
 
 
 
-[213]
+[208]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
@@ -1648,55 +2244,129 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
  []
 
 
+LaTeX Warning: Citation 'hamilton1833' on page 209 undefined on input line 22.
 
-[214])
 
-[215]
 
-[216
+[209]
 
-]
+LaTeX Warning: Citation 'kant1781' on page 210 undefined on input line 34.
+
+)
+
+[210]
 Chapter 9.
 (./chapter9/section9-1.tex
 
+[211
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[212]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[213]) (./chapter9/section9-2.tex
+
+[214]
+
+LaTeX Warning: Citation 'wittgenstein1922' on page 215 undefined on input line 
+65.
+
+
+
+[215]
+
+LaTeX Warning: Citation 'gentzen1935' on page 216 undefined on input line 107.
+
+
+
+[216]
+
 [217]
+
+[218]) (./chapter9/section9-3.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[218]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[219]) (./chapter9/section9-2.tex
+[219]
 
 [220]
 
-[221]
+LaTeX Warning: Citation 'jeffrey1967' on page 221 undefined on input line 45.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[221]) (./chapter9/section9-4.tex
+Underfull \vbox (badness 4582) has occurred while \output is active []
+
+
 
 [222]
 
 [223]
 
-[224]) (./chapter9/section9-3.tex
+LaTeX Warning: Citation 'wigmore1937' on page 224 undefined on input line 92.
+
+
+
+[224]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[225]
+[225])
 
 [226]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Chapter 10.
+(./chapter10/section10-1.tex
+
+LaTeX Warning: Citation 'quine1953' on page 227 undefined on input line 23.
 
 
 
-[227]) (./chapter9/section9-4.tex
-Underfull \vbox (badness 3503) has occurred while \output is active []
+[227
+
+]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+LaTeX Warning: Citation 'reichenbach1947' on page 228 undefined on input line 3
+7.
 
 
 
-[228]
+[228]) (./chapter10/section10-2.tex
 
 [229]
 
@@ -1705,489 +2375,593 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[231])
-
-[232]
-Chapter 10.
-(./chapter10/section10-1.tex
-
-[233
-
-]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-
-[234]) (./chapter10/section10-2.tex
-
-[235]
-
-[236]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[237]
+[231]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg>
 
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[238]) (./chapter10/section10-3.tex
+[232]) (./chapter10/section10-3.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[239]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+[233]
+
+LaTeX Warning: Citation 'peirce1883' on page 234 undefined on input line 21.
+
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+LaTeX Warning: Citation 'brown1954' on page 234 undefined on input line 48.
 
 
-[240]
+
+[234]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg>
 
 
-[241]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+[235]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[242]
+[236]
 
-[243]
-Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+[237]
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 ) (./chapter10/section10-4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[244]
+[238]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[245]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[239]
+
+[240]
+
+LaTeX Warning: Citation 'kneale1962' on page 241 undefined on input line 109.
 
 
-
-[246]
 Underfull \hbox (badness 10000) in paragraph at lines 118--121
 
  []
 
 
 
-[247]
+[241]
 
-[248]
+[242]
+Underfull \vbox (badness 1275) has occurred while \output is active []
 
-[249]
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+
+
+[243]
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[250]) (./chapter10/section10-5.tex
+[244]) (./chapter10/section10-5.tex
+
+[245]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+
+[246]
+
+LaTeX Warning: Citation 'tarski1954' on page 247 undefined on input line 68.
+
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+
+
+[247]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[248]) (./chapter10/section10-6.tex
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+
+[249]
+
+LaTeX Warning: Citation 'lukasiewicz1951' on page 250 undefined on input line 2
+1.
+
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+
+[250]
 
 [251]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [252]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-
-[253]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ≡ (U+2261) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[254]) (./chapter10/section10-6.tex
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-
-[255]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-
-[256]
-Underfull \vbox (badness 1708) has occurred while \output is active []
-
-
-
-[257]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[258]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ∨ (U+2228) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 )
 
-[259]
+[253]
 
-[260
+[254
 
 ]
 Chapter 11.
 (./chapter11/section11-1.tex
 
-[261]
+LaTeX Warning: Citation 'surgeon1964' on page 255 undefined on input line 7.
+
+
+LaTeX Warning: Citation 'davis1986' on page 255 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'reid1785' on page 255 undefined on input line 17.
+
+
+
+[255]
+
+LaTeX Warning: Citation 'chesterton1910' on page 256 undefined on input line 25
+.
+
+
+LaTeX Warning: Citation 'lander1995' on page 256 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'collin1978' on page 256 undefined on input line 37.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[256]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[257]) (./chapter11/section11-2.tex
+
+[258]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[259]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[260]) (./chapter11/section11-3.tex
+
+[261]
+
+LaTeX Warning: Citation 'rachels1991' on page 262 undefined on input line 20.
 
 
 
 [262]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+
+LaTeX Warning: Citation 'brenner1993' on page 263 undefined on input line 34.
+
+
+LaTeX Warning: Citation 'kinsley1992' on page 263 undefined on input line 36.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[263]) (./chapter11/section11-2.tex
+[263]
+
+LaTeX Warning: Empty bibliography on input line 70.
+
+)
 
 [264]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Chapter 12.
+(./chapter12/section12-1.tex
 
+[265
 
+]
 
-[265]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'marler1991' on page 266 undefined on input line 23.
 
 
 
 [266]
+
+LaTeX Warning: Citation 'nasar1996' on page 267 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'kitagawa1973' on page 267 undefined on input line 37.
+
+
+
+[267]
+
+LaTeX Warning: Citation 'roberts1966' on page 268 undefined on input line 69.
+
+
+
+[268]) (./chapter12/section12-2.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[267]) (./chapter11/section11-3.tex
+[269]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
-[268]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[269])
 
 [270]
-Chapter 12.
-(./chapter12/section12-1.tex
-Underfull \vbox (badness 2591) has occurred while \output is active []
+
+LaTeX Warning: Citation 'tanzi1996' on page 271 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'forbes1996' on page 271 undefined on input line 59.
 
 
 
-[271
+[271]
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'sapolsky1997' on page 272 undefined on input line 74.
 
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 与 (U+4E0E) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 一 (U+4E00) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 起 (U+8D77) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 发 (U+53D1) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 生 (U+751F) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 与 (U+4E0E) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 一 (U+4E00) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 起 (U+8D77) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 发 (U+53D1) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 生 (U+751F) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
 
 [272]
 
+LaTeX Warning: Citation 'garrison1929' on page 273 undefined on input line 95.
+
+
+
 [273]
 
+LaTeX Warning: Citation 'werzberger1992' on page 274 undefined on input line 12
+1.
+
+
+
 [274]
+
+LaTeX Warning: Citation 'berry1961' on page 275 undefined on input line 150.
+
+
+
+[275]
+
+LaTeX Warning: Citation 'stampfer1994' on page 276 undefined on input line 167.
+
+
+
+LaTeX Warning: Citation 'matthews1999' on page 276 undefined on input line 183.
+
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[275]) (./chapter12/section12-2.tex
-
-[276]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
+[276]) (./chapter12/section12-3.tex
 
 [277]
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+
 
 [278]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 与 (U+4E0E) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 一 (U+4E00) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 起 (U+8D77) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 发 (U+53D1) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 生 (U+751F) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 与 (U+4E0E) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 一 (U+4E00) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 起 (U+8D77) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 发 (U+53D1) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 生 (U+751F) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Empty bibliography on input line 68.
 
-
+)
 
 [279]
 
-[280]
-Underfull \vbox (badness 1881) has occurred while \output is active []
+[280
+
+]
+Chapter 13.
+(./chapter13/section13-1.tex
+
+LaTeX Warning: Citation 'aristotle1950' on page 281 undefined on input line 9.
 
 
+LaTeX Warning: Citation 'einstein1935' on page 281 undefined on input line 12.
 
-[281]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+
+[281]) (./chapter13/section13-2.tex
 
 [282]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Warning: Citation 'crombie1960' on page 283 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'popper1935' on page 283 undefined on input line 34.
 
 
 
-[283]) (./chapter12/section12-3.tex
+[283]) (./chapter13/section13-3.tex
 
 [284]
 
-[285])
+LaTeX Warning: Citation 'kuhn1957' on page 285 undefined on input line 14.
 
-[286]
-Chapter 13.
-(./chapter13/section13-1.tex
+
+LaTeX Warning: Citation 'blanshard1939' on page 285 undefined on input line 24.
+
+
+
+LaTeX Warning: Citation 'braithwaite1960' on page 285 undefined on input line 2
+9.
+
+
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+
+
+[285]
+
+LaTeX Warning: Citation 'eddington1919' on page 286 undefined on input line 35.
+
+
+
+LaTeX Warning: Citation 'kuhn1957b' on page 286 undefined on input line 38.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[287
+[286]) (./chapter13/section13-4.tex
 
-]) (./chapter13/section13-2.tex
+[287]
+
+LaTeX Warning: Citation 'peirce1958' on page 288 undefined on input line 31.
+
+
 
 [288]
 
-[289]) (./chapter13/section13-3.tex
+LaTeX Warning: Citation 'capecchi1994' on page 289 undefined on input line 41.
 
-[290]
 
-[291]
+LaTeX Warning: Citation 'doyle1927' on page 289 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'doyle1927b' on page 289 undefined on input line 44.
+
+
+
+[289]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[292]) (./chapter13/section13-4.tex
+[290]) (./chapter13/section13-5.tex
+
+LaTeX Warning: Citation 'watson1968' on page 291 undefined on input line 9.
+
+
+
+[291]
+
+LaTeX Warning: Citation 'watson1968b' on page 292 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'watson1968c' on page 292 undefined on input line 22.
+
+
+
+[292]
+
+LaTeX Warning: Citation 'watson1968d' on page 293 undefined on input line 38.
+
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
 
 [293]
 
-[294]
-
-[295]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'watson1968e' on page 294 undefined on input line 61.
 
 
+LaTeX Warning: Citation 'watson1968f' on page 294 undefined on input line 63.
 
-[296]) (./chapter13/section13-5.tex
-
-[297]
-
-[298]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-
-[299]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg>
 
@@ -2195,86 +2969,104 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[300]
+[294]
 Overfull \vbox (591.75516pt too high) has occurred while \output is active []
 
 
 
-[301]
+[295]
+
+LaTeX Warning: Citation 'watson1953' on page 296 undefined on input line 74.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[302]) (./chapter13/section13-6.tex
+[296]) (./chapter13/section13-6.tex
+
+[297]
+
+LaTeX Warning: Citation 'miller1981' on page 298 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'hawking1974' on page 298 undefined on input line 20.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[298]
+
+LaTeX Warning: Citation 'leverrier1992' on page 299 undefined on input line 35.
+
+
+
+LaTeX Warning: Citation 'einstein1915' on page 299 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'popper1963' on page 299 undefined on input line 42.
+
+
+
+[299]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[300]) (./chapter13/section13-7.tex
+
+[301]
+
+LaTeX Warning: Citation 'collingwood1939' on page 302 undefined on input line 1
+9.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[302]
 
 [303]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Warning: Empty bibliography on input line 78.
 
+)
 
 [304]
-
-[305]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[306]) (./chapter13/section13-7.tex
-
-[307]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[308]
-Underfull \vbox (badness 3954) has occurred while \output is active []
-
-
-
-[309]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[310])
-
-[311]
-
-[312
-
-]
 Chapter 14.
 (./chapter14/section14-1.tex
 
-[313]
+[305
+
+]
+
+[306]
+Missing character: There is no 硬 (U+786C) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 币 (U+5E01) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 正 (U+6B63) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 面 (U+9762) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[314]
-Missing character: There is no 硬 (U+786C) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 币 (U+5E01) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 正 (U+6B63) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 面 (U+9762) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+[307]) (./chapter14/section14-2.tex
 
+[308]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[315]) (./chapter14/section14-2.tex
+[309]) (./chapter14/section14-3.tex
 
-[316]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[317]) (./chapter14/section14-3.tex
-
-[318]
+[310]
 
 Package fontspec Info: 
 (fontspec)             Script 'CJK' not explicitly supported within font
@@ -2312,118 +3104,148 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"STSong/OT:script=hani;language=dflt;"
 
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 
+
+[311]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+
+[312]
+
+LaTeX Warning: Citation 'ayala1993' on page 313 undefined on input line 101.
+
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[313]) (./chapter14/section14-4.tex
+
+[314]
+
+[315]
+
+[316]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+
+[317]
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+) (./chapter14/section14-5.tex
+Underfull \vbox (badness 6592) has occurred while \output is active []
+
+
+
+[318]
 
 [319]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-
-[320]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[321]) (./chapter14/section14-4.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[320]) (./chapter14/summary.tex
 
-
+[321]) (./chapter14/notes.tex
 
 [322]
-Underfull \vbox (badness 6559) has occurred while \output is active []
+
+LaTeX Warning: Citation 'hacking1975' on page 323 undefined on input line 27.
 
 
+LaTeX Warning: Citation 'gigerenzer2002' on page 323 undefined on input line 28
+.
+
+
+LaTeX Warning: Citation 'kahneman2011' on page 323 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'pearl2000' on page 323 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'ayala1993' on page 323 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'rose1972' on page 323 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'dale1974' on page 323 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'faber1976' on page 323 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'goldberg1976' on page 323 undefined on input line 39.
+
+)
 
 [323]
 
 [324]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
 
-
-[325]
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-Missing character: There is no 、 (U+3001) in font Georgia/OT:script=latn;langua
-ge=dflt;mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Empty bibliography on input line 319.
 
 
 
-[326]) (./chapter14/section14-5.tex
-
-[327]
-
-[328]) (./chapter14/summary.tex
-
-[329]
-Underfull \vbox (badness 1571) has occurred while \output is active []
-
-
-
-[330]) (./chapter14/notes.tex
-
-[331])
-
-[332]
-
-[333
+[325
 
 
 ] (./main.aux)
@@ -2435,14 +3257,33 @@ L3 programming layer <2022/08/05>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  F381E434DBE6FF35750E294AEFECBAB9;64626.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 17170 strings out of 473832
- 446751 string characters out of 5729481
- 856656 words of memory out of 5000000
- 39572 multiletter control sequences out of 15000+600000
- 575415 words of font info for 154 fonts, out of 8000000 for 9000
+ 30946 strings out of 473832
+ 692038 string characters out of 5729481
+ 1648749 words of memory out of 5000000
+ 53218 multiletter control sequences out of 15000+600000
+ 575727 words of font info for 149 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 74i,16n,96p,922b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,16n,96p,922b,3742s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (347 pages).
+Output written on main.pdf (331 pages).

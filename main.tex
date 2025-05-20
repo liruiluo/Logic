@@ -18,10 +18,13 @@
 \usepackage{geometry}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
-\usepackage{tocloft}
 \usepackage{indentfirst}
 \usepackage{setspace}
 \usepackage{xcolor}
+
+% 添加 biblatex 支持
+\usepackage[style=gb7714-2015,backend=biber]{biblatex}
+\addbibresource{references.bib}
 
 % 添加hyperref包以启用PDF中的可跳转链接
 \usepackage[hidelinks,bookmarks=true,bookmarksnumbered=true,colorlinks=true,linkcolor=blue,citecolor=blue]{hyperref}
@@ -30,15 +33,11 @@
 \geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
 
 % 设置中文字体
-% \IfFontExistsTF{Noto Serif CJK SC}
-% {\setCJKmainfont{Noto Serif CJK SC}}
-% {\IfFontExistsTF{STSong}
-%   {\setCJKmainfont{STSong}[BoldFont=STHeiti]}
-%   {\IfFontExistsTF{Droid Sans Fallback}
-%     {\setCJKmainfont{Droid Sans Fallback}}
-%     {\setCJKmainfont{SimSun}}
-% }}
-\setCJKmainfont{STSong}[BoldFont=STHeitiSC-Medium,ItalicFont=STKaiti]
+\setCJKmainfont{STSong}[
+  BoldFont=STHeitiSC-Medium,
+  ItalicFont=STKaiti,
+  BoldItalicFont=STHeitiSC-Medium
+]
 
 \setCJKmonofont{STFangsong}
 
@@ -51,12 +50,11 @@
 
 % 设置英文字体
 \setmainlanguage{english}
-\IfFontExistsTF{CMU Serif}
-{\setmainfont{CMU Serif}}
-{\IfFontExistsTF{DejaVu Sans}
-  {\setmainfont{DejaVu Sans}}
-  {\setmainfont{Georgia}}
-}
+\setmainfont{Times New Roman}[
+  BoldFont=Times New Roman Bold,
+  ItalicFont=Times New Roman Italic,
+  BoldItalicFont=Times New Roman Bold Italic
+]
 
 % 添加中英文混排支持
 \XeTeXlinebreaklocale "zh"
@@ -114,12 +112,12 @@
 
 % 设置目录格式
 \renewcommand{\contentsname}{\centerline{\Large\bfseries 目录}}
-\renewcommand{\cftbeforetoctitleskip}{0pt}
-\renewcommand{\cftaftertoctitleskip}{2em}
-\renewcommand{\cftchapdotsep}{\cftdotsep}
-\renewcommand{\cftchapfont}{\bfseries}
-\renewcommand{\cftsecfont}{\normalfont}
-\renewcommand{\cftsubsecfont}{\normalfont\itshape}
+% \renewcommand{\cftbeforetoctitleskip}{0pt}
+% \renewcommand{\cftaftertoctitleskip}{2em}
+% \renewcommand{\cftchapdotsep}{\cftdotsep}
+% \renewcommand{\cftchapfont}{\bfseries}
+% \renewcommand{\cftsecfont}{\normalfont}
+% \renewcommand{\cftsubsecfont}{\normalfont\itshape}
 
 \begin{document}
 
@@ -318,6 +316,6 @@
 % 后记部分
 \backmatter
 \chapter*{参考文献}
-% 可以添加参考文献
+\printbibliography
 
 \end{document}

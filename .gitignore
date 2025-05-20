@@ -1,0 +1,67 @@
+# LaTeX 编译产生的临时文件和辅助文件
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.dvi
+*.xdv
+.*.lb
+
+# BibTeX/biblatex/biber相关文件
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*-blx.aux
+*-blx.bib
+
+# 索引相关文件
+*.idx
+*.ilg
+*.ind
+
+# glossary相关文件
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+
+# hyperref、nomencl相关文件
+*.brf
+*.nlo
+*.nls
+
+# 算法相关文件
+*.alg
+*.loa
+
+# latexmk相关文件
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*-converted-to.*
+
+# 其他临时文件
+*.pdf       # 取消此注释如果想忽略编译生成的PDF文件
+*~
+*.swp
+*.swo
+.DS_Store   # macOS系统文件
+
+# 生成的文件
+main.pdf    # 编译生成的主PDF文件
+
+# 自定义忽略文件
+/auto/
+_region_.* 
