@@ -1,0 +1,203 @@
+\ProvidesFile{chinese.lbx}[2023/01/01 v1.0 Chinese biblatex localization]
+
+\InheritBibliographyExtras{english}
+
+\DeclareBibliographyStrings{%
+  and           = {{和}{和}},
+  andothers     = {{等}{等}},
+  volume        = {{卷}{卷}},
+  volumes       = {{卷}{卷}},
+  byeditor      = {{主编}{主编}},
+  editor        = {{编辑}{编}},
+  editors       = {{编辑}{编}},
+  compiler      = {{编译}{编}},
+  compilers     = {{编译}{编}},
+  redactor      = {{校订}{校}},
+  redactors     = {{校订}{校}},
+  reviser       = {{修订}{修}},
+  revisers      = {{修订}{修}},
+  founder       = {{创始人}{创}},
+  founders      = {{创始人}{创}},
+  continuator   = {{续著者}{续}},
+  continuators  = {{续著者}{续}},
+  collaborator  = {{合著者}{合}},
+  collaborators = {{合著者}{合}},
+  translator    = {{译者}{译}},
+  translators   = {{译者}{译}},
+  commentator   = {{注释者}{注}},
+  commentators  = {{注释者}{注}},
+  annotator     = {{评论者}{评}},
+  annotators    = {{评论者}{评}},
+  commentary    = {{评论}{评论}},
+  annotations   = {{注释}{注释}},
+  introduction  = {{引言}{引言}},
+  foreword      = {{前言}{前言}},
+  editortr      = {{编译与翻译}{编译与翻译}},
+  editorstr     = {{编译与翻译}{编译与翻译}},
+  editorco      = {{编译与评论}{编译与评论}},
+  editorsco     = {{编译与评论}{编译与评论}},
+  editoran      = {{编译与注释}{编译与注释}},
+  editorsan     = {{编译与注释}{编译与注释}},
+  editorin      = {{编译与引言}{编译与引言}},
+  editorsin     = {{编译与引言}{编译与引言}},
+  editorfo      = {{编译与前言}{编译与前言}},
+  editorsfo     = {{编译与前言}{编译与前言}},
+  editortrco    = {{编译、翻译与评论}{编译、翻译与评论}},
+  editorstrco   = {{编译、翻译与评论}{编译、翻译与评论}},
+  editortran    = {{编译、翻译与注释}{编译、翻译与注释}},
+  editorstran   = {{编译、翻译与注释}{编译、翻译与注释}},
+  editortrin    = {{编译、翻译与引言}{编译、翻译与引言}},
+  editorstrin   = {{编译、翻译与引言}{编译、翻译与引言}},
+  editortrfo    = {{编译、翻译与前言}{编译、翻译与前言}},
+  editorstrfo   = {{编译、翻译与前言}{编译、翻译与前言}},
+  editorcoin    = {{编译、评论与引言}{编译、评论与引言}},
+  editorscoin   = {{编译、评论与引言}{编译、评论与引言}},
+  editorcofo    = {{编译、评论与前言}{编译、评论与前言}},
+  editorscofo   = {{编译、评论与前言}{编译、评论与前言}},
+  editoranin    = {{编译、注释与引言}{编译、注释与引言}},
+  editorsanin   = {{编译、注释与引言}{编译、注释与引言}},
+  editoranfo    = {{编译、注释与前言}{编译、注释与前言}},
+  editorsanfo   = {{编译、注释与前言}{编译、注释与前言}},
+  editortrcoin  = {{编译、翻译、评论与引言}{编译、翻译、评论与引言}},
+  editorstrcoin = {{编译、翻译、评论与引言}{编译、翻译、评论与引言}},
+  editortrcofo  = {{编译、翻译、评论与前言}{编译、翻译、评论与前言}},
+  editorstrcofo = {{编译、翻译、评论与前言}{编译、翻译、评论与前言}},
+  editortranin  = {{编译、翻译、注释与引言}{编译、翻译、注释与引言}},
+  editorstranin = {{编译、翻译、注释与引言}{编译、翻译、注释与引言}},
+  editortranfo  = {{编译、翻译、注释与前言}{编译、翻译、注释与前言}},
+  editorstranfo = {{编译、翻译、注释与前言}{编译、翻译、注释与前言}},
+  editorcoanin  = {{编译、评论、注释与引言}{编译、评论、注释与引言}},
+  editorscoanin = {{编译、评论、注释与引言}{编译、评论、注释与引言}},
+  editorcoanfo  = {{编译、评论、注释与前言}{编译、评论、注释与前言}},
+  editorscoanfo = {{编译、评论、注释与前言}{编译、评论、注释与前言}},
+  translatorco  = {{翻译与评论}{翻译与评论}},
+  translatorsco = {{翻译与评论}{翻译与评论}},
+  translatoran  = {{翻译与注释}{翻译与注释}},
+  translatorsan = {{翻译与注释}{翻译与注释}},
+  translatorin  = {{翻译与引言}{翻译与引言}},
+  translatorsin = {{翻译与引言}{翻译与引言}},
+  translatorfo  = {{翻译与前言}{翻译与前言}},
+  translatorsfo = {{翻译与前言}{翻译与前言}},
+  translatorcoin = {{翻译、评论与引言}{翻译、评论与引言}},
+  translatorscoin = {{翻译、评论与引言}{翻译、评论与引言}},
+  translatorcofo = {{翻译、评论与前言}{翻译、评论与前言}},
+  translatorscofo = {{翻译、评论与前言}{翻译、评论与前言}},
+  translatoranin = {{翻译、注释与引言}{翻译、注释与引言}},
+  translatorsanin = {{翻译、注释与引言}{翻译、注释与引言}},
+  translatoranfo = {{翻译、注释与前言}{翻译、注释与前言}},
+  translatorsanfo = {{翻译、注释与前言}{翻译、注释与前言}},
+  organizer     = {{组织者}{组织者}},
+  organizers    = {{组织者}{组织者}},
+  patents       = {{专利}{专利}},
+  patentde      = {{德国专利}{德国专利}},
+  patenteu      = {{欧盟专利}{欧盟专利}},
+  patentfr      = {{法国专利}{法国专利}},
+  patentuk      = {{英国专利}{英国专利}},
+  patentus      = {{美国专利}{美国专利}},
+  patreq        = {{专利申请}{专利申请}},
+  patreqde      = {{德国专利申请}{德国专利申请}},
+  patreqeu      = {{欧盟专利申请}{欧盟专利申请}},
+  patreqfr      = {{法国专利申请}{法国专利申请}},
+  patrequk      = {{英国专利申请}{英国专利申请}},
+  patrequs      = {{美国专利申请}{美国专利申请}},
+}
+
+\DeclareBibliographyExtras{%
+  \protected\def\bibdatelong#1#2#3{%
+    \iffieldundef{#3}
+      {}
+      {\stripzeros{\thefield{#3}}%
+       \iffieldundef{#2}{}{\nobreakspace}}%
+    \iffieldundef{#2}
+      {}
+      {\mkbibmonth{\thefield{#2}}%
+       \iffieldundef{#1}{}{\space}}%
+    \iffieldundef{#1}
+      {}
+      {\stripzeros{\thefield{#1}}}}%
+  \protected\def\bibdateshort#1#2#3{%
+    \iffieldundef{#3}
+      {}
+      {\stripzeros{\thefield{#3}}%
+       \iffieldundef{#2}{}{\nobreakspace}}%
+    \iffieldundef{#2}
+      {}
+      {\mkbibmonth[short]{\thefield{#2}}%
+       \iffieldundef{#1}{}{\space}}%
+    \iffieldundef{#1}
+      {}
+      {\stripzeros{\thefield{#1}}}}%
+  \protected\def\mkbibdatelong#1#2#3{%
+    \iffieldundef{#1}
+      {}
+      {\stripzeros{\thefield{#1}}%
+       \iffieldundef{#2}{}{\nobreakspace}}%
+    \iffieldundef{#2}
+      {}
+      {\mkbibmonth{\thefield{#2}}%
+       \iffieldundef{#3}{}{\space}}%
+    \iffieldundef{#3}
+      {}
+      {\stripzeros{\thefield{#3}}}}%
+  \protected\def\mkbibdateshort#1#2#3{%
+    \iffieldundef{#1}
+      {}
+      {\stripzeros{\thefield{#1}}%
+       \iffieldundef{#2}{}{\nobreakspace}}%
+    \iffieldundef{#2}
+      {}
+      {\mkbibmonth[short]{\thefield{#2}}%
+       \iffieldundef{#3}{}{\space}}%
+    \iffieldundef{#3}
+      {}
+      {\stripzeros{\thefield{#3}}}}%
+  \savecommand\mkbibmonth
+  \savecommand\mkbibseasonal
+  \protected\def\mkbibmonth#1{%
+    \ifcase#1\relax
+      \or 一月%
+      \or 二月%
+      \or 三月%
+      \or 四月%
+      \or 五月%
+      \or 六月%
+      \or 七月%
+      \or 八月%
+      \or 九月%
+      \or 十月%
+      \or 十一月%
+      \or 十二月%
+    \fi}%
+  \protected\def\mkbibmonth[#1]#2{%
+    \ifcase#2\relax
+      \or 1月%
+      \or 2月%
+      \or 3月%
+      \or 4月%
+      \or 5月%
+      \or 6月%
+      \or 7月%
+      \or 8月%
+      \or 9月%
+      \or 10月%
+      \or 11月%
+      \or 12月%
+    \fi}%
+}
+
+\newcommand{\mkbibdateshort}[3]{%
+  \iffieldundef{#3}
+    {}
+    {\thefield{#3}}%
+  \iffieldundef{#2}
+    {}
+    {\iffieldundef{#3}{}{/}\thefield{#2}}%
+  \iffieldundef{#1}
+    {}
+    {\iffieldundef{#2}
+      {\iffieldundef{#3}{}{/}}
+      {/}%
+    \thefield{#1}}%
+}
+
+\endinput 
