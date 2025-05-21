@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  21 MAY 2025 17:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  21 MAY 2025 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -983,21 +983,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 
 Package fontspec Info: 
-(fontspec)             Font family 'PingFangSC(0)' created for font 'PingFang
-(fontspec)             SC' with options [Script={CJK},BoldItalicFont={PingFang
-(fontspec)             SC},BoldFont={PingFang SC},ItalicFont={PingFang SC}].
+(fontspec)             Font family 'SourceHanSansSC(0)' created for font
+(fontspec)             'Source Han Sans SC' with options
+(fontspec)             [Script={CJK},BoldItalicFont={Source Han Sans SC
+(fontspec)             Bold},BoldFont={Source Han Sans SC
+(fontspec)             Bold},ItalicFont={Source Han Sans SC}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"PingFang
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
 (fontspec)             SC/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"PingFang
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans SC
+(fontspec)             Bold/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Source Han Sans
 (fontspec)             SC/OT:script=hani;language=dflt;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"PingFang
-(fontspec)             SC/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"PingFang
-(fontspec)             SC/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC Bold/OT:script=hani;language=dflt;"
 
 
 Package fontspec Info: 
@@ -1539,6 +1541,9 @@ LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/m/n' will be
 [24]) (./chapter1/1-8 归纳和或然性.tex
 
 [25]
+Underfull \vbox (badness 1668) has occurred while \output is active []
+
+
 
 [26]) (./chapter1/1-9 有效性和真实性.tex
 
@@ -1623,14 +1628,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [42]
 
-[43]
-
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
 (biblatex)                If you see this message, the .lbx file could not be
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdateshort.
 
+
+
+[43]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -1815,22 +1821,22 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                for \mkbibdateshort.
 
 
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
 
 [44]
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -2019,22 +2025,22 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                for \mkbibdateshort.
 
 
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
 
 [45]
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -2198,9 +2204,6 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                for \mkbibdateshort.
 
 
-
-[46]
-
 Package biblatex Warning: Bibliography string 'volume' untranslated
 (biblatex)                at entry 'crombie1960' on input line 183.
 
@@ -2211,6 +2214,9 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdateshort.
 
+
+
+[46]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -2374,15 +2380,15 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                for \mkbibdateshort.
 
 
-
-[47]
-
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
 (biblatex)                If you see this message, the .lbx file could not be
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdateshort.
 
+
+
+[47]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -2457,7 +2463,7 @@ Chapter 2.
 ]
 
 [50]) (./chapter2/2-2 多功能话语.tex
-Underfull \vbox (badness 3049) has occurred while \output is active []
+Underfull \vbox (badness 3098) has occurred while \output is active []
 
 
 
@@ -2500,7 +2506,7 @@ Underfull \vbox (badness 3118) has occurred while \output is active []
 ]
 
 [64]) (./chapter3/3-2 定义的类型和论争的解决.tex
-Underfull \vbox (badness 7362) has occurred while \output is active []
+Underfull \vbox (badness 7504) has occurred while \output is active []
 
 
 
@@ -2531,6 +2537,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [75]) (./chapter3/3-6 属加种差定义的五条规则.tex
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
 
 [76]
 
@@ -4348,7 +4357,7 @@ Underfull \vbox (badness 5091) has occurred while \output is active []
 [123]
 
 [124]
-Underfull \vbox (badness 5460) has occurred while \output is active []
+Underfull \vbox (badness 5475) has occurred while \output is active []
 
 
 
@@ -6326,7 +6335,7 @@ Chapter 8.
 [203]
 
 [204]
-Underfull \vbox (badness 2237) has occurred while \output is active []
+Underfull \vbox (badness 2111) has occurred while \output is active []
 
 
 
@@ -6466,7 +6475,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [241]) (./chapter9/9-4 不相容性.tex
-Underfull \vbox (badness 4739) has occurred while \output is active []
+Underfull \vbox (badness 4726) has occurred while \output is active []
 
 
 
@@ -6628,7 +6637,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--121
 [261]
 
 [262]
-Underfull \vbox (badness 1122) has occurred while \output is active []
+Underfull \vbox (badness 1043) has occurred while \output is active []
 
 
 
@@ -6770,6 +6779,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [280]) (./chapter11/11-3 通过逻辑类推进行的反驳.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [281]
 
@@ -9487,23 +9499,23 @@ Underfull \vbox (badness 2310) has occurred while \output is active []
 [346]
 
 Package fontspec Info: 
-(fontspec)             Could not resolve font "PingFang SC/I" (it probably
-(fontspec)             doesn't exist).
+(fontspec)             Could not resolve font "Source Han Sans SC/I" (it
+(fontspec)             probably doesn't exist).
 
 
 Package fontspec Info: 
-(fontspec)             Font family 'PingFangSC(1)' created for font 'PingFang
-(fontspec)             SC' with options [Script={CJK}].
+(fontspec)             Font family 'SourceHanSansSC(1)' created for font
+(fontspec)             'Source Han Sans SC' with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"PingFang
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
 (fontspec)             SC/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"PingFang
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans
 (fontspec)             SC/B/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"PingFang
-(fontspec)             SC/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC/BI/OT:script=hani;language=dflt;"
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -10388,12 +10400,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34078 strings out of 473832
- 751489 string characters out of 5729481
- 1763579 words of memory out of 5000000
- 56305 multiletter control sequences out of 15000+600000
- 572966 words of font info for 182 fonts, out of 8000000 for 9000
+ 34082 strings out of 473832
+ 758495 string characters out of 5729481
+ 1763823 words of memory out of 5000000
+ 56307 multiletter control sequences out of 15000+600000
+ 572974 words of font info for 183 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 74i,16n,107p,926b,5156s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,16n,107p,931b,5156s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (383 pages).

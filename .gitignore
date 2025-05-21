@@ -64,4 +64,15 @@ main.pdf    # 编译生成的主PDF文件
 
 # 自定义忽略文件
 /auto/
-_region_.* 
+_region_.*
+
+# 忽略思源黑体字体及解压目录
+SourceHanSansSC.zip
+SourceHanSansSC/
+OTF/
+OTF/SimplifiedChinese/
+OTF/SimplifiedChinese/*.otf 
+LICENSE.txt
+main.toc
+main.log
+main.aux
