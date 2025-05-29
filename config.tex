@@ -1,103 +1,211 @@
-% 配置文件：包含所有宏包、字体、页面、标题、页眉页脚等设置
-% 仅需在 main.tex 用 \input{config.tex} 引用
+% ===============================================
+% 逻辑学导论 - 专业排版配置文件
+% 优化版本：增强视觉效果和专业性
+% ===============================================
 
-% 宏包加载
+% 文档类设置 - 使用专业书籍格式
+\documentclass[a4paper,12pt,twoside,openright]{book}
 
-% This LaTeX document needs to be compiled with XeLaTeX.
-\documentclass[a4paper,11pt,twoside]{book}
+% ===============================================
+% 核心宏包加载
+% ===============================================
 \usepackage[utf8]{inputenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
+\usepackage{amsmath,amsfonts,amssymb}
 \usepackage[version=4]{mhchem}
-\usepackage{extpfeil}
-\usepackage{stmaryrd}
+\usepackage{extpfeil,stmaryrd}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
 \graphicspath{ {./images/} }
-\usepackage{multirow}
-\usepackage{fvextra, csquotes}
+\usepackage{multirow,array,booktabs}
+\usepackage{fvextra,csquotes}
+
+% 中文支持
 \usepackage{xeCJK}
 \usepackage{polyglossia}
 \usepackage{fontspec}
 \usepackage{unicode-math}
+
+% 页面布局和设计
 \usepackage{geometry}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{indentfirst}
 \usepackage{setspace}
-\usepackage{xcolor}
 
-% 添加 biblatex 支持
+% 颜色和视觉效果
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{tcolorbox}
+\usepackage{mdframed}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% 参考文献支持
 \usepackage[style=gb7714-2015,backend=biber,language=chinese]{biblatex}
 \DeclareLanguageMapping{chinese}{chinese}
 \addbibresource{references.bib}
 
-% 添加hyperref包以启用PDF中的可跳转链接
-\usepackage[hidelinks,bookmarks=true,bookmarksnumbered=true,colorlinks=true,linkcolor=blue,citecolor=blue]{hyperref}
+% PDF链接和书签
+\usepackage[hidelinks,bookmarks=true,bookmarksnumbered=true,colorlinks=true,linkcolor=LogicBlue,citecolor=LogicGreen,urlcolor=LogicRed]{hyperref}
 
-% 设置页面边距
-\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
+% ===============================================
+% 颜色定义 - 专业配色方案
+% ===============================================
+\definecolor{LogicBlue}{RGB}{25,118,210}      % 主色调：深蓝色
+\definecolor{LogicGreen}{RGB}{46,125,50}      % 辅助色：深绿色
+\definecolor{LogicRed}{RGB}{198,40,40}        % 强调色：深红色
+\definecolor{LogicGray}{RGB}{97,97,97}        % 中性色：深灰色
+\definecolor{LogicLightBlue}{RGB}{227,242,253} % 浅蓝色背景
+\definecolor{LogicLightGreen}{RGB}{232,245,233} % 浅绿色背景
+\definecolor{LogicLightGray}{RGB}{250,250,250} % 浅灰色背景
+\definecolor{LogicDarkBlue}{RGB}{13,71,161}   % 深蓝色
+\definecolor{LOGICDARKBLUE}{RGB}{13,71,161}   % 深蓝色（兼容性）
+\definecolor{LogicAccent}{RGB}{255,193,7}     % 金黄色强调
 
-% 设置中文字体
+% ===============================================
+% 页面布局设置
+% ===============================================
+\geometry{
+  top=3cm,
+  bottom=3cm,
+  left=3cm,
+  right=2.5cm,
+  headheight=25pt,
+  headsep=20pt,
+  footskip=30pt,
+  marginparwidth=2cm,
+  marginparsep=0.5cm
+}
+
+% ===============================================
+% 字体设置 - 专业字体配置
+% ===============================================
+
+% 中文字体设置 - 使用思源黑体
 \setCJKmainfont{Source Han Sans SC}[
   BoldFont = Source Han Sans SC Bold,
-  ItalicFont = Source Han Sans SC,
-  BoldItalicFont = Source Han Sans SC Bold
+  ItalicFont = Source Han Sans SC Light,
+  BoldItalicFont = Source Han Sans SC Bold,
+  Scale = 1.0
 ]
-\setCJKmonofont{Source Han Sans SC}
+\setCJKsansfont{Source Han Sans SC}[
+  BoldFont = Source Han Sans SC Bold,
+  Scale = 1.0
+]
+\setCJKmonofont{Source Han Sans SC}[Scale = 0.9]
+
+% 英文字体设置 - 使用专业字体组合
+\setmainfont{Times New Roman}[
+  BoldFont = Times New Roman Bold,
+  ItalicFont = Times New Roman Italic,
+  BoldItalicFont = Times New Roman Bold Italic,
+  Scale = 1.0
+]
+\setsansfont{Arial}[
+  BoldFont = Arial Bold,
+  ItalicFont = Arial Italic,
+  BoldItalicFont = Arial Bold Italic,
+  Scale = 0.95
+]
+\setmonofont{Courier New}[Scale = 0.85]
+
+% 数学字体设置
+\setmathfont{TeX Gyre Termes Math}
+
+% 中文字体命令
 \newCJKfontfamily\cnfont{Source Han Sans SC}
-
-% 设置英文字体
-\setmainfont{Times New Roman}
-
-% 确保特定中文字符始终使用中文字体
+\newCJKfontfamily\cntitle{Source Han Sans SC Bold}
 \DeclareTextFontCommand{\textcn}{\cnfont}
 \DeclareTextFontCommand{\texten}{\normalfont}
 
-% 设置数学字体
-\setmathfont{TeX Gyre Termes Math}
-
-% 简化的标点和符号设置
+% 中文排版设置
 \punctstyle{kaiming}
 \xeCJKsetup{CJKecglue={\hskip 0.15em plus 0.05em minus 0.05em}}
-
-% 确保中文文本和标点符号使用中文字体的命令
-\newcommand{\zhtext}[1]{{\cnfont #1}}
-
-% 添加中英文混排支持
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt
 
-% 确保特定中文字符总是使用中文字体
+% 中文字体命令
+\newcommand{\zhtext}[1]{{\cnfont #1}}
 \newcommand{\cn}[1]{{\cnfont #1}}
 
-% 设置页眉页脚样式
+% ===============================================
+% 页眉页脚设计 - 专业样式
+% ===============================================
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE,RO]{\thepage}
-\fancyhead[RE]{\leftmark}
-\fancyhead[LO]{\rightmark}
-\renewcommand{\headrulewidth}{0.4pt}
+
+% 页眉设置
+\fancyhead[LE]{\color{LogicGray}\small\thepage\quad\textbar\quad\leftmark}
+\fancyhead[RO]{\color{LogicGray}\small\rightmark\quad\textbar\quad\thepage}
+
+% 页眉装饰线
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\headrule}{\hbox to\headwidth{%
+  \color{LogicBlue}\leaders\hrule height \headrulewidth\hfill}}
+
+% 页脚设置
+\fancyfoot[C]{}
 \renewcommand{\footrulewidth}{0pt}
-\setlength{\headheight}{14.5pt}
+\setlength{\headheight}{25pt}
 
-% 设置章节标题格式
+% 章节首页样式
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\color{LogicGray}\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% ===============================================
+% 章节标题设计 - 现代专业样式
+% ===============================================
+
+% 章标题格式
 \titleformat{\chapter}[display]
-{\normalfont\bfseries\Huge}
-{\chaptertitlename\ \thechapter}{20pt}{\Huge}
-\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+{\normalfont\cntitle\color{LogicDarkBlue}}
+{\tikz[remember picture,overlay]{
+  \fill[LogicLightBlue] (current page.north west) rectangle ([yshift=-3cm]current page.north east);
+  \node[anchor=south east,font=\fontsize{60}{60}\selectfont\color{LogicBlue!30}]
+    at ([xshift=-2cm,yshift=-1cm]current page.north east) {\thechapter};
+}
+\vspace{-2cm}\chaptertitlename\ \thechapter}
+{20pt}
+{\Huge\color{LogicDarkBlue}}
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
 
-% 设置节标题格式
+% 节标题格式
 \titleformat{\section}
-{\normalfont\Large\bfseries}
-{\thesection}{1em}{}
+{\normalfont\Large\bfseries\color{LogicBlue}}
+{\colorbox{LogicLightBlue}{\makebox[2em]{\color{LogicDarkBlue}\thesection}}\quad}
+{0pt}
+{}
 \titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
 
-% 设置段落间距和首行缩进
+% 子节标题格式
+\titleformat{\subsection}
+{\normalfont\large\bfseries\color{LogicGreen}}
+{\thesubsection\quad}
+{0pt}
+{}
+\titlespacing*{\subsection}{0pt}{3ex plus 1ex minus .2ex}{2ex plus .2ex}
+
+% 子子节标题格式
+\titleformat{\subsubsection}
+{\normalfont\normalsize\bfseries\color{LogicGray}}
+{\thesubsubsection\quad}
+{0pt}
+{}
+\titlespacing*{\subsubsection}{0pt}{2.5ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+% ===============================================
+% 段落和间距设置
+% ===============================================
 \setlength{\parindent}{2em}
-\setlength{\parskip}{1ex}
+\setlength{\parskip}{0.5ex plus 0.2ex minus 0.1ex}
 \onehalfspacing
+\setlength{\baselineskip}{1.2\baselineskip}
 
 %New command to display footnote whose markers will always be hidden
 \let\svthefootnote\thefootnote
@@ -118,13 +226,124 @@
   \fi
 }
 
-% 设置目录格式
-\renewcommand{\contentsname}{\centerline{\Large\bfseries 目录}}
-% \renewcommand{\cftbeforetoctitleskip}{0pt}
-% \renewcommand{\cftaftertoctitleskip}{2em}
-% \renewcommand{\cftchapdotsep}{\cftdotsep}
-% \renewcommand{\cftchapfont}{\bfseries}
-% \renewcommand{\cftsecfont}{\normalfont}
-% \renewcommand{\cftsubsecfont}{\normalfont\itshape}
+% ===============================================
+% 专业文本框和环境设置
+% ===============================================
 
-% 其他自定义命令 
+% 定义专业的文本框样式
+\tcbuselibrary{skins,breakable,theorems}
+
+% 定义重点提示框
+\newtcolorbox{logicbox}[1][]{
+  enhanced,
+  colback=LogicLightBlue,
+  colframe=LogicBlue,
+  boxrule=1pt,
+  arc=3pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  breakable,
+  #1
+}
+
+% 定义定理框
+\newtcolorbox{theorembox}[1][]{
+  enhanced,
+  colback=LogicLightGreen,
+  colframe=LogicGreen,
+  boxrule=1pt,
+  arc=3pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  breakable,
+  fonttitle=\bfseries,
+  title=定理,
+  #1
+}
+
+% 定义例题框
+\newtcolorbox{examplebox}[1][]{
+  enhanced,
+  colback=LogicLightGray,
+  colframe=LogicGray,
+  boxrule=1pt,
+  arc=3pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  breakable,
+  fonttitle=\bfseries,
+  title=例题,
+  #1
+}
+
+% 定义注意事项框
+\newtcolorbox{notebox}[1][]{
+  enhanced,
+  colback=yellow!10,
+  colframe=LogicAccent,
+  boxrule=1pt,
+  arc=3pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  breakable,
+  fonttitle=\bfseries,
+  title=注意,
+  #1
+}
+
+% ===============================================
+% 列表和枚举优化
+% ===============================================
+\setlist[itemize]{
+  leftmargin=2em,
+  itemsep=0.3ex,
+  parsep=0.2ex,
+  topsep=0.5ex
+}
+
+\setlist[enumerate]{
+  leftmargin=2em,
+  itemsep=0.3ex,
+  parsep=0.2ex,
+  topsep=0.5ex
+}
+
+% ===============================================
+% 目录格式优化
+% ===============================================
+\renewcommand{\contentsname}{\centerline{\Large\bfseries\color{LogicDarkBlue} 目录}}
+
+% ===============================================
+% 图表标题优化
+% ===============================================
+\captionsetup{
+  font={small,bf},
+  labelfont={color=LogicBlue},
+  textfont={color=LogicGray},
+  margin=20pt,
+  skip=10pt
+}
+
+% ===============================================
+% 自定义命令
+% ===============================================
+
+% 强调文本命令
+\newcommand{\logicemph}[1]{\textcolor{LogicBlue}{\textbf{#1}}}
+\newcommand{\logicterm}[1]{\textcolor{LogicGreen}{\textbf{#1}}}
+\newcommand{\logicwarn}[1]{\textcolor{LogicRed}{\textbf{#1}}}
+
+% 章节总结命令
+\newcommand{\chaptersummary}[1]{
+  \begin{logicbox}[title=本章要点]
+    #1
+  \end{logicbox}
+}

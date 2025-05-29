@@ -3,41 +3,96 @@
 
 \begin{document}
 
-% 标题页
+% ===============================================
+% 专业标题页设计
+% ===============================================
 \begin{titlepage}
+\tikz[remember picture,overlay] {
+  % 背景渐变
+  \fill[LogicLightBlue] (current page.north west) rectangle (current page.south east);
+
+  % 顶部装饰条
+  \fill[LogicBlue] (current page.north west) rectangle ([yshift=-1cm]current page.north east);
+
+  % 底部装饰条
+  \fill[LogicDarkBlue] ([yshift=1cm]current page.south west) rectangle (current page.south east);
+
+  % 几何装饰元素
+  \foreach \i in {1,2,3,4,5} {
+    \fill[LogicBlue!20] ([xshift=\i*3cm,yshift=-\i*0.5cm]current page.north east) circle (0.3cm);
+  }
+}
+
 \centering
-\vspace*{2cm}
-{\color{black!80}\rule{\textwidth}{1pt}}
-\vspace{1.5cm}
+\vspace*{3cm}
 
-{\Huge\bfseries\color{black!90} 逻辑学导论 \par}
+% 主标题
+{\fontsize{48}{58}\selectfont\cntitle\color{LogicDarkBlue} 逻辑学导论 \par}
+\vspace{1cm}
+
+% 副标题
+{\Large\color{LogicBlue}\textit{系统梳理逻辑学基本概念与方法} \par}
 \vspace{0.5cm}
-{\large\itshape 系统梳理逻辑学基本概念与方法 \par}
 
-\vspace{1.5cm}
-{\color{black!80}\rule{\textwidth}{1pt}}
+% 装饰线
+\tikz{\draw[LogicBlue,line width=2pt] (0,0) -- (8cm,0);}
+
 \vspace{2cm}
 
-\begin{minipage}{0.8\textwidth}
+% 引言框
+\begin{tcolorbox}[
+  enhanced,
+  colback=white,
+  colframe=LogicBlue,
+  boxrule=2pt,
+  arc=5pt,
+  width=0.8\textwidth,
+  center,
+  drop shadow
+]
 \centering
-\begin{quotation}
-\large\textit{"逻辑将使人们明辨是非，认清谬误，\\
-培养批判性思维，提高分析能力。"}
-\end{quotation}
-\end{minipage}
+\large\color{LogicGray}\textit{
+"逻辑将使人们明辨是非，认清谬误，\\[0.5em]
+培养批判性思维，提高分析能力。"
+}
+\end{tcolorbox}
+
+\vspace{2cm}
+
+% 特色标签
+\begin{tikzpicture}
+\node[
+  rectangle,
+  rounded corners=5pt,
+  fill=LogicAccent,
+  text=white,
+  font=\bfseries,
+  minimum width=6cm,
+  minimum height=1cm
+] {专业教材 \textbullet\ 系统全面 \textbullet\ 实用性强};
+\end{tikzpicture}
 
 \vfill
 
-{\large \today \par}
+% 日期
+{\large\color{LogicGray} \today \par}
+\vspace{1cm}
 \end{titlepage}
 
-% 前言
+% 前言部分
 \frontmatter
+
+% 版本信息
+\input{frontmatter/version}
+\clearpage
+
+% 前言
 \chapter*{前言}
-\input{preface}
+\input{frontmatter/preface}
+\clearpage
 
 % 目录
-\tableofcontents
+\input{frontmatter/tableofcontents}
 \clearpage
 
 % 正文
