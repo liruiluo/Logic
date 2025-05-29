@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  29 MAY 2025 15:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  29 MAY 2025 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2154,12 +2154,8 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 [2
 
 ] (./frontmatter/version.tex
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 5.
-LaTeX Font Info:    Font shape `TU/SourceHanSansSC(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 5.
 LaTeX Font Info:    Font shape `TU/SourceHanSansSC(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 6.
+(Font)              scaled to size 12.0pt on input line 5.
 )
 
 [1]
@@ -2172,169 +2168,79 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 24.88pt on input line 90.
  (./frontmatter/preface.tex
 
-[3])
+[3]
 
-[4] (./frontmatter/tableofcontents.tex
+[4
 
-[5
+])
 
-]
+[5] (./frontmatter/tableofcontents.tex
 
 [6
 
+
 ] (./main.toc
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/m/n' will be
-(Font)              scaled to size 12.00128pt on input line 3.
+(Font)              scaled to size 12.00128pt on input line 4.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/m/n' will be
-(Font)              scaled to size 8.88095pt on input line 3.
+(Font)              scaled to size 8.88095pt on input line 4.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/m/n' will be
-(Font)              scaled to size 6.60071pt on input line 3.
+(Font)              scaled to size 6.60071pt on input line 4.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 3.
+(Font)              scaled to size 11.99872pt on input line 4.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/m/n' will be
-(Font)              scaled to size 8.87904pt on input line 3.
+(Font)              scaled to size 8.87904pt on input line 4.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/m/n' will be
-(Font)              scaled to size 6.59929pt on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(Font)              scaled to size 6.59929pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 3
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 4
 .
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 
 [7]
 
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 39.3766pt, for example:
-(fancyhdr)                \setlength{\headheight}{39.3766pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-14.3766pt}.
-
 [8]
-
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 42.0104pt, for example:
-(fancyhdr)                \setlength{\headheight}{42.0104pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-17.0104pt}.
 
 [9]
 
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 39.3766pt, for example:
-(fancyhdr)                \setlength{\headheight}{39.3766pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-14.3766pt}.
-
 [10]
-
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 42.0104pt, for example:
-(fancyhdr)                \setlength{\headheight}{42.0104pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-17.0104pt}.
 
 [11]
 
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 39.3766pt, for example:
-(fancyhdr)                \setlength{\headheight}{39.3766pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-14.3766pt}.
-
 [12]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 291.
+(Font)              scaled to size 12.0pt on input line 292.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 8.88pt on input line 291.
+(Font)              scaled to size 8.88pt on input line 292.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 6.6pt on input line 291.
+(Font)              scaled to size 6.6pt on input line 292.
 
-
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 42.0104pt, for example:
-(fancyhdr)                \setlength{\headheight}{42.0104pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-17.0104pt}.
 
 [13]
 
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 39.3766pt, for example:
-(fancyhdr)                \setlength{\headheight}{39.3766pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-14.3766pt}.
-
 [14]
-
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 42.0104pt, for example:
-(fancyhdr)                \setlength{\headheight}{42.0104pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-17.0104pt}.
 
 [15]
 
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 39.3766pt, for example:
-(fancyhdr)                \setlength{\headheight}{39.3766pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-14.3766pt}.
-
 [16]
 
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 42.0104pt, for example:
-(fancyhdr)                \setlength{\headheight}{42.0104pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-17.0104pt}.
-
 [17]
-
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 39.3766pt, for example:
-(fancyhdr)                \setlength{\headheight}{39.3766pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-14.3766pt}.
 
 [18])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
-)
 
 
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 42.0104pt, for example:
-(fancyhdr)                \setlength{\headheight}{42.0104pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-17.0104pt}.
-
-[19]
-
-
-Package fancyhdr Warning: \headheight is too small (25.0pt): 
-(fancyhdr)                Make it at least 39.3766pt, for example:
-(fancyhdr)                \setlength{\headheight}{39.3766pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-14.3766pt}.
+[19])
 
 [20
 
@@ -2353,6 +2259,10 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/it' will be
 LaTeX Font Info:    Font shape `TU/SourceHanSansSC(0)/b/it' will be
 (Font)              scaled to size 12.0pt on input line 3.
 ) (./chapter1/1-1 什么是逻辑学.tex
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 1.
+LaTeX Font Info:    Font shape `TU/SourceHanSansSC(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 1.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 9.
 LaTeX Font Info:    Font shape `TU/SourceHanSansSC(0)/b/n' will be
@@ -6432,6 +6342,9 @@ script=math;language=dflt;+ssty=0;!
 [206]
 Chapter 7.
 (./chapter7/7-1 日常语言中的三段论论证.tex
+Underfull \vbox (badness 7486) has occurred while \output is active []
+
+
 
 [207
 
@@ -6440,9 +6353,6 @@ Chapter 7.
 [208]
 
 [209]
-Underfull \vbox (badness 3884) has occurred while \output is active []
-
-
 
 [210]) (./chapter7/7-3 直言命题的标准化.tex
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -6628,7 +6538,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'fearnside1959' on input line 42.
+(biblatex)                at entry 'fearnside1959' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -6646,7 +6556,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'kneale1962' on input line 42.
+(biblatex)                at entry 'kneale1962' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -6751,7 +6661,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'byeditor' untranslated
-(biblatex)                at entry 'aristotle-logic' on input line 42.
+(biblatex)                at entry 'aristotle-logic' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -6818,11 +6728,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'whitehead1911' on input line 42.
+(biblatex)                at entry 'whitehead1911' on input line 43.
 
 
 Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'whitehead1911' on input line 42.
+(biblatex)                at entry 'whitehead1911' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -6993,7 +6903,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'kitagawa1973' on input line 42.
+(biblatex)                at entry 'kitagawa1973' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -7067,7 +6977,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'byeditor' untranslated
-(biblatex)                at entry 'aristotle1950' on input line 42.
+(biblatex)                at entry 'aristotle1950' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -7085,7 +6995,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'crombie1960' on input line 42.
+(biblatex)                at entry 'crombie1960' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -7113,7 +7023,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 [237]
 
 Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'blanshard1939' on input line 42.
+(biblatex)                at entry 'blanshard1939' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -7215,7 +7125,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'watson1953' on input line 42.
+(biblatex)                at entry 'watson1953' on input line 43.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -7471,6 +7381,9 @@ Chapter 9.
 (./chapter9/9-1 有效性的形式证明.tex
 
 [279]
+Underfull \vbox (badness 3108) has occurred while \output is active []
+
+
 
 [280]
 
@@ -7483,9 +7396,6 @@ Chapter 9.
 [284]
 
 [285]
-Underfull \vbox (badness 4454) has occurred while \output is active []
-
-
 
 [286]
 
@@ -7493,113 +7403,121 @@ Underfull \vbox (badness 4454) has occurred while \output is active []
 
 [288]
 
-[289]) (./chapter9/9-4 不相容性.tex
+[289]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[290]
+
+
+[290]) (./chapter9/9-4 不相容性.tex
 
 [291]
 
 [292]
 
-[293])
+[293]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[294]
-Chapter 10.
-(./chapter10/10-1 单称命题.tex
 
-[295
+
+[294])
+
+[295]
+
+[296
 
 ]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-Underfull \vbox (badness 1540) has occurred while \output is active []
+Chapter 10.
+(./chapter10/10-1 单称命题.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-[296]) (./chapter10/10-2 量化.tex
 
 [297]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
 
 [298]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
 
-[299]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[299]) (./chapter10/10-2 量化.tex
+
+[300]
+
+[301]
+
+[302]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[300]
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[301]) (./chapter10/10-3 传统主谓命题.tex
-
-[302]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
 
 [303]
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+) (./chapter10/10-3 传统主谓命题.tex
 
 [304]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
+
+[305]
+
+[306]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg>
 
 
-[305]
+[307]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -7615,65 +7533,50 @@ script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
-
-[306]
-Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-
-
-[307]) (./chapter10/10-4 有效性证明.tex
 
 [308]
 
 [309]
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+) (./chapter10/10-4 有效性证明.tex
+
+[310]
+
+[311]
 Underfull \vbox (badness 1038) has occurred while \output is active []
 
 
 
-[310]
+[312]
 Underfull \hbox (badness 10000) in paragraph at lines 118--121
 
  []
 
 
 
-[311]
-
-[312]
-
 [313]
 
 [314]
+
+[315]
+
+[316]
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 ) (./chapter10/10-5 无效性证明.tex
 
-[315]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[316]
-
 [317]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -7683,6 +7586,21 @@ script=math;language=dflt;!
 
 
 [318]
+
+[319]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
+
+[320]
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
@@ -7704,7 +7622,7 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[319]
+[321]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
@@ -7712,11 +7630,11 @@ Underfull \vbox (badness 1314) has occurred while \output is active []
 
 
 
-[320]
-
-[321]
-
 [322]
+
+[323]
+
+[324]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -7732,60 +7650,60 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[323])
+[325])
 
-[324]
+[326]
 Chapter 11.
 (./chapter11/11-1 类比论证.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[325
+
+
+[327
 
 ]
 
-[326]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[327]) (./chapter11/11-2 类比论证的评价.tex
-
 [328]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
 
-[329]
+
+[329]) (./chapter11/11-2 类比论证的评价.tex
 
 [330]
 
-[331]) (./chapter11/11-3 通过逻辑类推进行的反驳.tex
+[331]
 
 [332]
 
-[333]
+[333]) (./chapter11/11-3 通过逻辑类推进行的反驳.tex
+
+[334]
+
+[335]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[334]
+[336]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -7858,7 +7776,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[335]
+[337]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8023,7 +7941,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[336]
+[338]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8185,7 +8103,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[337]
+[339]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8311,7 +8229,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[338]
+[340]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8452,7 +8370,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[339]
+[341]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8592,7 +8510,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[340]
+[342]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8616,62 +8534,37 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 )
 
-[341]
+[343]
 
-[342
+[344
 
 ]
 Chapter 12.
 (./chapter12/12-1 因果连接：基本概念.tex
 
-[343]
-
-[344]
-
 [345]
 
 [346]
+
+[347]
+
+[348]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
 
 
-[347]) (./chapter12/12-2 密尔方法.tex
-
-[348]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[349]
+[349]) (./chapter12/12-2 密尔方法.tex
 
 [350]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
-Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
@@ -8679,60 +8572,85 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
-Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
-Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
 
 [351]
 
 [352]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
 
 [353]
 
 [354]
 
 [355]
+
+[356]
+
+[357]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[356]) (./chapter12/12-3 对密尔方法的批评.tex
+[358]) (./chapter12/12-3 对密尔方法的批评.tex
 
-[357]
+[359]
 Underfull \vbox (badness 1400) has occurred while \output is active []
 
 
 
-[358]
+[360]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[359]
+[361]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8777,7 +8695,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[360]
+[362]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -8949,7 +8867,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[361]
+[363]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -9104,7 +9022,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[362]
+[364]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -9230,7 +9148,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[363]
+[365]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -9371,7 +9289,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[364]
+[366]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -9504,7 +9422,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[365]
+[367]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -9563,53 +9481,53 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 )
 
-[366]
+[368]
 Chapter 13.
 (./chapter13/13-1 科学的价值.tex
 Underfull \vbox (badness 6910) has occurred while \output is active []
 
 
 
-[367
+[369
 
 ]) (./chapter13/13-2 说明：科学的和非科学的.tex
 
-[368]
+[370]
 
-[369]) (./chapter13/13-3 对科学说明的评价.tex
+[371]) (./chapter13/13-3 对科学说明的评价.tex
 Underfull \vbox (badness 3525) has occurred while \output is active []
 
 
 
-[370]
-
-[371]
-
 [372]
+
+[373]
+
+[374]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[373]) (./chapter13/13-4 科学研究的七个阶段.tex
-
-[374]
-
-[375]
+[375]) (./chapter13/13-4 科学研究的七个阶段.tex
 
 [376]
 
-[377]) (./chapter13/13-5 实际工作中的科学家：科学研究的模式.tex
+[377]
 
 [378]
 
-[379]
+[379]) (./chapter13/13-5 实际工作中的科学家：科学研究的模式.tex
 
 [380]
+
+[381]
+
+[382]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
 
-[381]
+[383]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg>
 
@@ -9617,41 +9535,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[382]
+[384]
 Overfull \vbox (579.7468pt too high) has occurred while \output is active []
 
 
 
-[383]
+[385]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[384]) (./chapter13/13-6 判决性实验和特设性假说.tex
+[386]) (./chapter13/13-6 判决性实验和特设性假说.tex
 
-[385]
+[387]
 Underfull \vbox (badness 1655) has occurred while \output is active []
 
 
 
-[386]
-
-[387]
-
-[388]) (./chapter13/13-7 作为假说的分类.tex
+[388]
 
 [389]
 
-[390]
+[390]) (./chapter13/13-7 作为假说的分类.tex
 
 [391]
 
 [392]
+
+[393]
+
+[394]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[393]
+[395]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -9724,7 +9642,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[394]
+[396]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -9889,7 +9807,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[395]
+[397]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -10051,7 +9969,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[396]
+[398]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -10177,7 +10095,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[397]
+[399]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -10318,7 +10236,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[398]
+[400]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -10458,7 +10376,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[399]
+[401]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -10482,29 +10400,29 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 )
 
-[400]
+[402]
 Chapter 14.
 (./chapter14/14-1 概率与归纳逻辑.tex
 
-[401
+[403
 
 ]
 
-[402]
-
-[403]) (./chapter14/14-2 概率计算.tex
-
 [404]
 
-[405]) (./chapter14/14-3 共同发生的概率.tex
+[405]) (./chapter14/14-2 概率计算.tex
 
 [406]
 
-[407]
+[407]) (./chapter14/14-3 共同发生的概率.tex
 
 [408]
 
 [409]
+
+[410]
+
+[411]
 
 Package fontspec Info: 
 (fontspec)             Could not resolve font "Source Han Sans SC/I" (it
@@ -10530,47 +10448,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[410]) (./chapter14/14-4 替代性发生的概率.tex
+[412]) (./chapter14/14-4 替代性发生的概率.tex
 Underfull \vbox (badness 7099) has occurred while \output is active []
 
 
-
-[411]
-
-[412]
 
 [413]
 
 [414]
 
-[415]) (./chapter14/14-5 期望值.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[415]
 
 [416]
 
-[417]
-
-[418]) (./chapter14/summary.tex
-
-[419]
+[417]) (./chapter14/14-5 期望值.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[420]) (./chapter14/notes.tex
+[418]
 
-[421])
+[419]
 
-[422]
+[420]) (./chapter14/summary.tex
 
-[423
+[421]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[422]) (./chapter14/notes.tex
+
+[423])
+
+[424]
+
+[425
 
 
 ]
 
-[424
+[426
 
 ]
 
@@ -10723,7 +10641,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[425]
+[427]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -10884,7 +10802,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[426]
+[428]
 
 Package biblatex Warning: Bibliography string 'and' untranslated
 (biblatex)                at entry 'whitehead1911' on input line 256.
@@ -11028,7 +10946,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[427]
+[429]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -11162,7 +11080,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[428]
+[430]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -11299,7 +11217,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[429]
+[431]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -11400,7 +11318,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[430] (./main.aux)
+[432] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -11412,25 +11330,19 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B28CA8F1AC7D2634F50D3146F22B221C;64618
-(rerunfilecheck)             After:  63E98D28F85FEFEBB11B3ECBEF997D0C;64502.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: DAE5DBFAA12C7AD6513230B6E50A7C23;64448.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51086 strings out of 473832
- 1150837 string characters out of 5729481
+ 51068 strings out of 473832
+ 1148621 string characters out of 5729481
  2147204 words of memory out of 5000000
- 72985 multiletter control sequences out of 15000+600000
- 569843 words of font info for 184 fonts, out of 8000000 for 9000
+ 72968 multiletter control sequences out of 15000+600000
+ 569835 words of font info for 183 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,16n,120p,931b,5197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,16n,120p,928b,5197s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (452 pages).
+Output written on main.pdf (454 pages).
