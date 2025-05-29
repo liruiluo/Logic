@@ -55,376 +55,376 @@
 \contentsline {section}{\numberline {1.11}推理}{43}{section.1.11}%
 \contentsline {subsection}{\numberline {1.11.1}推理问题的类型与解法}{43}{subsection.1.11.1}%
 \contentsline {subsection}{\numberline {1.11.2}矩阵分析法}{44}{subsection.1.11.2}%
-\contentsline {chapter}{\numberline {2}语言与交流}{57}{chapter.2}%
-\contentsline {section}{\numberline {2.1}语言的三种基本功能}{57}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}语言功能的多样性}{57}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}信息性用法}{58}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}表达性用法}{58}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}指令性用法}{59}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}多功能话语}{60}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}语言功能的融合}{60}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}行动的复杂动机}{61}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}语言的特殊用法}{61}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}话语形式}{62}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}陈述句与功能的关系}{63}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}其他语句形式的功能多样性}{63}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}多功能话语的评价标准}{63}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}语境在功能判定中的重要性}{64}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}论证与说明的进一步探讨}{65}{subsection.2.3.5}%
-\contentsline {section}{\numberline {2.4}情感词汇}{66}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}字面意义与情感意义}{66}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}委婉语的应用}{67}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}情感意义的力量}{67}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}情感意义的创造性应用}{68}{subsection.2.4.4}%
-\contentsline {section}{\numberline {2.5}一致与歧见的种类}{69}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}一致与歧见的四种关系}{69}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}解决不同类型歧见的方法}{70}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}情感语言与伦理判断}{70}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}实质歧见与言辞歧见}{71}{subsection.2.5.4}%
-\contentsline {section}{\numberline {2.6}情感中性语言}{72}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}中性语言在追求真理中的价值}{72}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}面对价值冲突的语言选择}{72}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}民意调查中的情感陷阱}{73}{subsection.2.6.3}%
-\contentsline {subsection}{\numberline {2.6.4}警惕情感语言的操纵}{73}{subsection.2.6.4}%
-\contentsline {chapter}{\numberline {3}论争与定义}{75}{chapter.3}%
-\contentsline {section}{\numberline {3.1}论争、言辞之争与定义}{75}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}三种不同类型的论争}{75}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}纯粹的言辞之争}{76}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}表面上的言辞之争与实质论争}{77}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}标准之争与概念之争}{77}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}识别不同类型的论争}{77}{subsection.3.1.5}%
-\contentsline {section}{\numberline {3.2}定义的类型和论争的解决}{78}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}报告性定义与规定性定义}{79}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}精确定义的作用}{79}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}规定定义的应用场景}{79}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}理论定义与说服定义}{80}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}定义在解决论争中的应用}{80}{subsection.3.2.5}%
-\contentsline {section}{\numberline {3.3}外延和内涵}{81}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}外延意义与内涵意义}{81}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}外延与内涵的关系}{81}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}内涵决定外延而非相反}{82}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}内涵与外延的反变关系}{82}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}外延为空的词项与意义歧义}{83}{subsection.3.3.5}%
-\contentsline {section}{\numberline {3.4}外延定义}{84}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}外延定义的基本局限}{84}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}部分列举的困难}{84}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}通过子类列举的方法}{85}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}实指定义及其局限}{85}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}实指定义的非原初性}{85}{subsection.3.4.5}%
-\contentsline {subsection}{\numberline {3.4.6}空外延词项的问题}{86}{subsection.3.4.6}%
-\contentsline {section}{\numberline {3.5}内涵定义}{86}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}内涵的三种含义}{87}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}识别规约内涵的方法}{87}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}同义定义}{87}{subsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.5.4}操作定义}{88}{subsection.3.5.4}%
-\contentsline {subsection}{\numberline {3.5.5}属加种差定义}{88}{subsection.3.5.5}%
-\contentsline {subsection}{\numberline {3.5.6}属和种的关系}{89}{subsection.3.5.6}%
-\contentsline {subsection}{\numberline {3.5.7}属加种差定义的应用}{89}{subsection.3.5.7}%
-\contentsline {subsection}{\numberline {3.5.8}属加种差定义的局限性}{90}{subsection.3.5.8}%
-\contentsline {section}{\numberline {3.6}属加种差定义的五条规则}{91}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}规则一：定义应当揭示种的本质属性}{91}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}规则二：定义不能循环}{92}{subsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.6.3}规则三：定义既不能过宽又不能过窄}{92}{subsection.3.6.3}%
-\contentsline {subsection}{\numberline {3.6.4}规则四：定义不能用歧义的、晦涩的或比喻的语言}{93}{subsection.3.6.4}%
-\contentsline {subsection}{\numberline {3.6.5}规则五：定义在可以用肯定的地方就不应当用否定定义}{93}{subsection.3.6.5}%
-\contentsline {section}{\numberline {3.7}第3章概要}{94}{section.3.7}%
-\contentsline {chapter}{\numberline {4}谬误}{103}{chapter.4}%
-\contentsline {section}{\numberline {4.1}什么是谬误？}{103}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}谬误的定义与本质}{103}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}谬误的心理说服力}{103}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}谬误分析的复杂性}{104}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}谬误的分类体系}{104}{subsection.4.1.4}%
-\contentsline {section}{\numberline {4.2}相干谬误}{105}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}相干谬误的本质}{105}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}R1．诉诸无知论证（The Argument from Ignorance：Argument Ad Ignorantiam）}{105}{subsection.4.2.2}%
-\contentsline {paragraph}{历史案例：伽利略的望远镜}{105}{paragraph*.3}%
-\contentsline {paragraph}{政治变革中的诉诸无知}{106}{paragraph*.4}%
-\contentsline {paragraph}{合理应用的情况}{106}{paragraph*.5}%
-\contentsline {paragraph}{法律中的诉诸无知}{106}{paragraph*.6}%
-\contentsline {subsection}{\numberline {4.2.3}R2．诉诸不当权威（The Appeal to Inappropriate Authority：Argument Ad Verecundiam）}{107}{subsection.4.2.3}%
-\contentsline {paragraph}{广告中的不当权威诉诸}{107}{paragraph*.7}%
-\contentsline {paragraph}{政治和国际关系中的权威问题}{108}{paragraph*.8}%
-\contentsline {paragraph}{确定合理权威的标准}{108}{paragraph*.9}%
-\contentsline {subsection}{\numberline {4.2.4}R3．人身攻击论证（Argument Ad Hominem）}{109}{subsection.4.2.4}%
-\contentsline {paragraph}{A．诽谤型人身攻击}{109}{paragraph*.10}%
-\contentsline {paragraph}{哲学辩论中的诽谤现象}{109}{paragraph*.11}%
-\contentsline {paragraph}{连带罪恶与证人可信度}{109}{paragraph*.12}%
-\contentsline {paragraph}{B．背景谬误}{110}{paragraph*.13}%
-\contentsline {paragraph}{职业与身份的背景影响}{110}{paragraph*.14}%
-\contentsline {paragraph}{tu quoque与偏见指控}{110}{paragraph*.15}%
-\contentsline {paragraph}{污泉谬误}{111}{paragraph*.16}%
-\contentsline {subsection}{\numberline {4.2.5}R4．诉诸情感（The Appeal to Emotion：Argument Ad Populum）}{111}{subsection.4.2.5}%
-\contentsline {paragraph}{诉诸情感的本质}{111}{paragraph*.17}%
-\contentsline {paragraph}{广告中的诉诸情感}{112}{paragraph*.18}%
-\contentsline {paragraph}{产品与情感的隐性联系}{112}{paragraph*.19}%
-\contentsline {paragraph}{民意调查中的情感影响}{112}{paragraph*.20}%
-\contentsline {paragraph}{大众接受不等于真理}{113}{paragraph*.21}%
-\contentsline {subsection}{\numberline {4.2.6}R5．诉诸同情（The Appeal to Pity：Argument Ad Misericordiam）}{113}{subsection.4.2.6}%
-\contentsline {paragraph}{法庭辩护中的同情诉求}{113}{paragraph*.22}%
-\contentsline {paragraph}{苏格拉底对诉诸同情的批判}{113}{paragraph*.23}%
-\contentsline {paragraph}{荒谬的同情诉求案例}{114}{paragraph*.24}%
-\contentsline {subsection}{\numberline {4.2.7}R6．诉诸暴力（The Appeal to Force：Argument Ad Baculum）}{114}{subsection.4.2.7}%
-\contentsline {paragraph}{暴力的多种形式}{114}{paragraph*.25}%
-\contentsline {paragraph}{隐蔽的暴力威胁}{115}{paragraph*.26}%
-\contentsline {paragraph}{理性与强制的对立}{115}{paragraph*.27}%
-\contentsline {subsection}{\numberline {4.2.8}R7．不相干结论（Irrelevant Conclusion：Ignoratio Elenchi）}{115}{subsection.4.2.8}%
-\contentsline {paragraph}{政策辩论中的不相干结论}{115}{paragraph*.28}%
-\contentsline {paragraph}{不相干结论的常见形式}{115}{paragraph*.29}%
-\contentsline {section}{\numberline {4.3}预设谬误}{116}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}P1．复杂问语（Complex Question）}{116}{subsection.4.3.1}%
-\contentsline {paragraph}{经典的复杂问语例子}{116}{paragraph*.30}%
-\contentsline {paragraph}{司法询问中的复杂问语}{117}{paragraph*.31}%
-\contentsline {paragraph}{政治辩论中的预设问题}{117}{paragraph*.32}%
-\contentsline {paragraph}{识别和避免复杂问语}{117}{paragraph*.33}%
-\contentsline {subsection}{\numberline {4.3.2}P2．虚假原因（False Cause）}{118}{subsection.4.3.2}%
-\contentsline {paragraph}{因果关系与争议}{118}{paragraph*.34}%
-\contentsline {paragraph}{时间连续性与因果错误}{118}{paragraph*.35}%
-\contentsline {subsection}{\numberline {4.3.3}P3．乞题（Begging the Question：Petitio Principii）}{119}{subsection.4.3.3}%
-\contentsline {paragraph}{循环论证}{119}{paragraph*.36}%
-\contentsline {paragraph}{归纳原理的证明困境}{120}{paragraph*.37}%
-\contentsline {subsection}{\numberline {4.3.4}P4．和 P5．偶然和逆偶然（Accident and Converse Accident）}{120}{subsection.4.3.4}%
-\contentsline {paragraph}{概括的例外性}{120}{paragraph*.38}%
-\contentsline {paragraph}{苏格拉底与欧西德姆斯的对话}{121}{paragraph*.39}%
-\contentsline {paragraph}{由特殊到一般的错误推理}{121}{paragraph*.40}%
-\contentsline {section}{\numberline {4.4}含混谬误}{122}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}A1．歧义}{122}{subsection.4.4.1}%
-\contentsline {paragraph}{文学中的歧义}{122}{paragraph*.41}%
-\contentsline {paragraph}{相对词的歧义问题}{123}{paragraph*.42}%
-\contentsline {subsection}{\numberline {4.4.2}A2．双关}{123}{subsection.4.4.2}%
-\contentsline {paragraph}{政治中的双关现象}{124}{paragraph*.43}%
-\contentsline {paragraph}{垂悬分词与短语}{124}{paragraph*.44}%
-\contentsline {subsection}{\numberline {4.4.3}A3．重读}{124}{subsection.4.4.3}%
-\contentsline {paragraph}{重音与语气的影响}{124}{paragraph*.45}%
-\contentsline {paragraph}{广告中的重读谬误}{125}{paragraph*.46}%
-\contentsline {paragraph}{通过位置操纵的重读}{125}{paragraph*.47}%
-\contentsline {subsection}{\numberline {4.4.4}A4．合成}{125}{subsection.4.4.4}%
-\contentsline {paragraph}{性质的转移问题}{126}{paragraph*.48}%
-\contentsline {paragraph}{个体与集体的性质差异}{126}{paragraph*.49}%
-\contentsline {paragraph}{两种谬误形式的区别}{126}{paragraph*.50}%
-\contentsline {subsection}{\numberline {4.4.5}A5．分解}{127}{subsection.4.4.5}%
-\contentsline {paragraph}{从整体到部分的错误推理}{127}{paragraph*.51}%
-\contentsline {paragraph}{有效推理与分解谬误的区别}{127}{paragraph*.52}%
-\contentsline {paragraph}{R1．诉诸无知论证}{128}{paragraph*.53}%
-\contentsline {paragraph}{R2．诉诸不当权威}{128}{paragraph*.54}%
-\contentsline {paragraph}{R3．人身攻击论证}{128}{paragraph*.55}%
-\contentsline {paragraph}{R4．诉诸情感}{128}{paragraph*.56}%
-\contentsline {paragraph}{R5．诉诸同情}{128}{paragraph*.57}%
-\contentsline {paragraph}{R6．诉诸武力}{128}{paragraph*.58}%
-\contentsline {paragraph}{R7．不相干结论}{128}{paragraph*.59}%
-\contentsline {paragraph}{P1．复杂问语}{128}{paragraph*.60}%
-\contentsline {paragraph}{P2．虚假原因}{128}{paragraph*.61}%
-\contentsline {paragraph}{P3．乞题}{129}{paragraph*.62}%
-\contentsline {paragraph}{P4．偶然}{129}{paragraph*.63}%
-\contentsline {paragraph}{P5．逆偶然}{129}{paragraph*.64}%
-\contentsline {paragraph}{A1．歧义}{129}{paragraph*.65}%
-\contentsline {paragraph}{A2．双关}{129}{paragraph*.66}%
-\contentsline {paragraph}{A3．重读}{129}{paragraph*.67}%
-\contentsline {paragraph}{A4．合成}{129}{paragraph*.68}%
-\contentsline {paragraph}{A5．分解}{129}{paragraph*.69}%
-\contentsline {chapter}{\numberline {5}演绎推理}{137}{chapter.5}%
-\contentsline {section}{\numberline {5.1}演绎理论}{137}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}演绎论证的本质}{137}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}亚里士多德的逻辑贡献}{137}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}直言命题及其类别}{138}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}直言命题的基本概念}{138}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}类之间的关系}{138}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}直言命题的四种标准形式}{139}{subsection.5.2.3}%
-\contentsline {paragraph}{全称肯定命题}{139}{paragraph*.70}%
-\contentsline {paragraph}{全称否定命题}{139}{paragraph*.71}%
-\contentsline {paragraph}{特称肯定命题}{139}{paragraph*.72}%
-\contentsline {paragraph}{特称否定命题}{140}{paragraph*.73}%
-\contentsline {subsection}{\numberline {5.2.4}标准式直言命题的多样性}{140}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}直言命题的传统符号}{140}{subsection.5.2.5}%
-\contentsline {section}{\numberline {5.3}质、量与周延性}{141}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}质}{141}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}量}{141}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}标准式直言命题的一般模式}{142}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}周延性}{142}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.3.5}各类命题的周延性分析}{143}{subsection.5.3.5}%
-\contentsline {subsubsection}{A命题的周延性}{143}{subsubsection*.74}%
-\contentsline {subsubsection}{E命题的周延性}{143}{subsubsection*.75}%
-\contentsline {subsubsection}{I命题的周延性}{143}{subsubsection*.76}%
-\contentsline {subsubsection}{O命题的周延性}{143}{subsubsection*.77}%
-\contentsline {subsection}{\numberline {5.3.6}周延性总结}{144}{subsection.5.3.6}%
-\contentsline {section}{\numberline {5.4}传统对当方阵}{144}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}矛盾关系（Contradictories）}{145}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}反对关系（Contraries）}{145}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}下反对关系（Subcontraries）}{146}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}差等关系（Subalternation）}{146}{subsection.5.4.4}%
-\contentsline {subsection}{\numberline {5.4.5}对当方阵}{147}{subsection.5.4.5}%
-\contentsline {section}{\numberline {5.5}其他直接推论}{149}{section.5.5}%
-\contentsline {subsection}{\numberline {5.5.1}换位法（Conversion）}{149}{subsection.5.5.1}%
-\contentsline {subsection}{\numberline {5.5.2}换质法（Obversion）}{150}{subsection.5.5.2}%
-\contentsline {subsection}{\numberline {5.5.3}换质位法（Contraposition）}{152}{subsection.5.5.3}%
-\contentsline {section}{\numberline {5.6}存在含义与直言命题的解释}{156}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}特称命题的存在含义}{157}{subsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.6.2}传统解释的困境}{157}{subsection.5.6.2}%
-\contentsline {subsection}{\numberline {5.6.3}全面存在预设的尝试}{157}{subsection.5.6.3}%
-\contentsline {subsection}{\numberline {5.6.4}为何全面存在预设不可接受}{158}{subsection.5.6.4}%
-\contentsline {subsection}{\numberline {5.6.5}布尔解释}{158}{subsection.5.6.5}%
-\contentsline {section}{\numberline {5.7}直言命题的符号系统与图解}{160}{section.5.7}%
-\contentsline {subsection}{\numberline {5.7.1}直言命题的符号表示}{160}{subsection.5.7.1}%
-\contentsline {subsection}{\numberline {5.7.2}文恩图及其应用}{161}{subsection.5.7.2}%
-\contentsline {section}{\numberline {5.8}第5章概要}{169}{section.5.8}%
-\contentsline {subsection}{\numberline {5.8.1}类与标准式直言命题}{169}{subsection.5.8.1}%
-\contentsline {subsection}{\numberline {5.8.2}命题的质与量}{170}{subsection.5.8.2}%
-\contentsline {subsection}{\numberline {5.8.3}对当关系}{170}{subsection.5.8.3}%
-\contentsline {subsection}{\numberline {5.8.4}直接推论方法}{170}{subsection.5.8.4}%
-\contentsline {subsection}{\numberline {5.8.5}存在含义问题}{170}{subsection.5.8.5}%
-\contentsline {subsection}{\numberline {5.8.6}命题的符号化与图示化}{170}{subsection.5.8.6}%
-\contentsline {chapter}{\numberline {6}直言三段论}{177}{chapter.6}%
-\contentsline {section}{\numberline {6.1}标准式直言三段论}{177}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}大项、小项和中项}{177}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}式}{178}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}格}{178}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}三段论论证的形式性质}{180}{section.6.2}%
-\contentsline {section}{\numberline {6.3}检验三段论：文恩图解法}{182}{section.6.3}%
-\contentsline {section}{\numberline {6.4}三段论规则和三段论谬误}{192}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}规则1 避免四项}{192}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}规则2 中项至少在一个前提中周延}{192}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}规则3 在结论中周延的项在前提中也必须周延}{193}{subsection.6.4.3}%
-\contentsline {subsection}{\numberline {6.4.4}规则4 避免出现两个否定前提}{194}{subsection.6.4.4}%
-\contentsline {subsection}{\numberline {6.4.5}规则5 如果有一个前提是否定的，那么结论必须是否定的}{194}{subsection.6.4.5}%
-\contentsline {subsection}{\numberline {6.4.6}规则6 两个全称前提得不出特称结论}{195}{subsection.6.4.6}%
-\contentsline {section}{\numberline {6.5}直言三段论的15个有效形式}{196}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}标准式直言三段论的15个有效形式}{199}{subsection.6.5.1}%
-\contentsline {section}{\numberline {6.6}直言三段论15个有效形式的演绎推导}{201}{section.6.6}%
-\contentsline {subsection}{\numberline {6.6.1}情形1：如果三段论的结论是$\mathbf {A}$命题}{202}{subsection.6.6.1}%
-\contentsline {subsection}{\numberline {6.6.2}情形2：如果三段论的结论是$\mathbf {E}$命题}{202}{subsection.6.6.2}%
-\contentsline {subsection}{\numberline {6.6.3}情形3：如果三段论的结论是I命题}{202}{subsection.6.6.3}%
-\contentsline {subsection}{\numberline {6.6.4}情形4：如果结论是$\mathbf {O}$命题}{203}{subsection.6.6.4}%
-\contentsline {subsection}{\numberline {6.6.5}三段论的基本元素}{204}{subsection.6.6.5}%
-\contentsline {subsection}{\numberline {6.6.6}检验三段论有效性}{205}{subsection.6.6.6}%
-\contentsline {subsection}{\numberline {6.6.7}有效三段论形式}{206}{subsection.6.6.7}%
-\contentsline {chapter}{\numberline {7}逻辑与语言}{207}{chapter.7}%
-\contentsline {section}{\numberline {7.1}日常语言中的三段论论证}{207}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}非标准形式的三种偏离情形}{208}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}三段论词项数量的归约}{208}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}去除同义词}{209}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}去除补类}{209}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}多重词项的归约}{210}{subsection.7.2.3}%
-\contentsline {section}{\numberline {7.3}直言命题的标准化}{211}{section.7.3}%
-\contentsline {section}{\numberline {7.4}协同翻译}{217}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}参项的选择}{218}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}应用协同翻译}{218}{subsection.7.4.2}%
-\contentsline {subsection}{\numberline {7.4.3}协同翻译的进阶案例}{219}{subsection.7.4.3}%
-\contentsline {section}{\numberline {7.5}省略三段论（Enthymemes）}{219}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}省略三段论的原因与特点}{220}{subsection.7.5.1}%
-\contentsline {subsection}{\numberline {7.5.2}补充隐藏前提的原则}{220}{subsection.7.5.2}%
-\contentsline {subsection}{\numberline {7.5.3}省略三段论的类型}{221}{subsection.7.5.3}%
-\contentsline {subsection}{\numberline {7.5.4}省略三段论的检验}{221}{subsection.7.5.4}%
-\contentsline {section}{\numberline {7.6}连锁三段论（Sorites）}{222}{section.7.6}%
-\contentsline {subsection}{\numberline {7.6.1}连锁三段论的拆解分析}{223}{subsection.7.6.1}%
-\contentsline {subsection}{\numberline {7.6.2}标准式连锁三段论}{224}{subsection.7.6.2}%
-\contentsline {subsection}{\numberline {7.6.3}连锁三段论的检验}{225}{subsection.7.6.3}%
-\contentsline {section}{\numberline {7.7}析取三段论和假言三段论}{225}{section.7.7}%
-\contentsline {subsection}{\numberline {7.7.1}析取三段论（Disjunctive Syllogisms）}{225}{subsection.7.7.1}%
-\contentsline {subsection}{\numberline {7.7.2}假言三段论（Hypothetical Syllogisms）}{226}{subsection.7.7.2}%
-\contentsline {section}{\numberline {7.8}二难推论（The Dilemma）}{228}{section.7.8}%
-\contentsline {subsection}{\numberline {7.8.1}避开二难推论的方法}{229}{subsection.7.8.1}%
-\contentsline {subsubsection}{绕过死角法}{229}{subsubsection*.78}%
-\contentsline {subsubsection}{直击一角法}{230}{subsubsection*.79}%
-\contentsline {subsubsection}{构造反二难法}{230}{subsubsection*.80}%
-\contentsline {subsection}{\numberline {7.8.2}普罗塔哥拉与欧提勒士的二难困境}{231}{subsection.7.8.2}%
-\contentsline {chapter}{\numberline {8}现代符号逻辑}{241}{chapter.8}%
-\contentsline {section}{\numberline {8.1}现代逻辑的符号语言}{241}{section.8.1}%
-\contentsline {section}{\numberline {8.2}合取、否定和析取符号}{242}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}合取}{243}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}否定}{245}{subsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.2.3}析取}{246}{subsection.8.2.3}%
-\contentsline {subsection}{\numberline {8.2.4}标点符号}{247}{subsection.8.2.4}%
-\contentsline {section}{\numberline {8.3}条件陈述与实质蕴涵}{250}{section.8.3}%
-\contentsline {section}{\numberline {8.4}论证形式与论证}{256}{section.8.4}%
-\contentsline {subsection}{\numberline {8.4.1}运用逻辑类推进行反驳}{257}{subsection.8.4.1}%
-\contentsline {subsection}{\numberline {8.4.2}根据真值表检验论证}{259}{subsection.8.4.2}%
-\contentsline {subsection}{\numberline {8.4.3}一些常见的有效论证形式}{260}{subsection.8.4.3}%
-\contentsline {subsubsection}{析取三段论}{260}{subsubsection*.81}%
-\contentsline {subsubsection}{肯定前件式}{261}{subsubsection*.82}%
-\contentsline {subsubsection}{否定后件式}{262}{subsubsection*.83}%
-\contentsline {section}{\numberline {8.5}陈述形式与实质等值}{265}{section.8.5}%
-\contentsline {subsection}{\numberline {8.5.1}陈述形式与陈述}{265}{subsection.8.5.1}%
-\contentsline {subsection}{\numberline {8.5.2}重言的、矛盾的和偶真的陈述形式}{266}{subsection.8.5.2}%
-\contentsline {subsection}{\numberline {8.5.3}实质等值}{267}{subsection.8.5.3}%
-\contentsline {subsection}{\numberline {8.5.4}真值函项联结词}{268}{subsection.8.5.4}%
-\contentsline {subsection}{\numberline {8.5.5}论证、条件陈述与重言式}{268}{subsection.8.5.5}%
-\contentsline {section}{\numberline {8.6}逻辑等价}{269}{section.8.6}%
-\contentsline {section}{\numberline {8.7}实质蕴涵怪论}{273}{section.8.7}%
-\contentsline {section}{\numberline {8.8}三大＂思想法则＂}{275}{section.8.8}%
-\contentsline {chapter}{\numberline {9}命题逻辑}{279}{chapter.9}%
-\contentsline {section}{\numberline {9.1}有效性的形式证明}{279}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}推论规则}{281}{subsection.9.1.1}%
-\contentsline {section}{\numberline {9.2}替换规则}{282}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}替换规则列表}{283}{subsection.9.2.1}%
-\contentsline {subsection}{\numberline {9.2.2}替换与代入的区别}{284}{subsection.9.2.2}%
-\contentsline {subsection}{\numberline {9.2.3}推论规则表的完备性}{284}{subsection.9.2.3}%
-\contentsline {subsection}{\numberline {9.2.4}形式证明的能行性}{285}{subsection.9.2.4}%
-\contentsline {subsection}{\numberline {9.2.5}前九条与后十条规则的区别}{286}{subsection.9.2.5}%
-\contentsline {subsection}{\numberline {9.2.6}构造形式证明的技巧}{286}{subsection.9.2.6}%
-\contentsline {section}{\numberline {9.3}无效性的证明}{288}{section.9.3}%
-\contentsline {subsection}{\numberline {9.3.1}与真值表方法的关系}{289}{subsection.9.3.1}%
-\contentsline {subsection}{\numberline {9.3.2}真值指派的策略}{290}{subsection.9.3.2}%
-\contentsline {section}{\numberline {9.4}不相容性}{291}{section.9.4}%
-\contentsline {subsection}{\numberline {9.4.1}前提不相容与有效性}{292}{subsection.9.4.1}%
-\contentsline {subsection}{\numberline {9.4.2}不相容前提的问题}{293}{subsection.9.4.2}%
-\contentsline {subsection}{\numberline {9.4.3}相容性的重要性}{294}{subsection.9.4.3}%
-\contentsline {subsection}{\numberline {9.4.4}不相容性与幽默}{294}{subsection.9.4.4}%
-\contentsline {chapter}{\numberline {10}谓词逻辑}{297}{chapter.10}%
-\contentsline {section}{\numberline {10.1}单称命题}{297}{section.10.1}%
-\contentsline {subsection}{\numberline {10.1.1}单称命题的结构}{298}{subsection.10.1.1}%
-\contentsline {subsection}{\numberline {10.1.2}单称命题的符号化}{298}{subsection.10.1.2}%
-\contentsline {subsection}{\numberline {10.1.3}命题函项}{299}{subsection.10.1.3}%
-\contentsline {section}{\numberline {10.2}量化}{300}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}从命题函项到命题}{300}{subsection.10.2.1}%
-\contentsline {subsection}{\numberline {10.2.2}存在量化与全称量化}{301}{subsection.10.2.2}%
-\contentsline {subsection}{\numberline {10.2.3}否定与量化}{301}{subsection.10.2.3}%
-\contentsline {subsection}{\numberline {10.2.4}量词间的逻辑关系}{302}{subsection.10.2.4}%
-\contentsline {subsection}{\numberline {10.2.5}量词逻辑方阵}{303}{subsection.10.2.5}%
-\contentsline {section}{\numberline {10.3}传统主——谓命题}{304}{section.10.3}%
-\contentsline {subsection}{\numberline {10.3.1}四种基本命题形式}{305}{subsection.10.3.1}%
-\contentsline {subsection}{\numberline {10.3.2}A型命题的符号化}{305}{subsection.10.3.2}%
-\contentsline {subsection}{\numberline {10.3.3}其他类型命题的符号化}{306}{subsection.10.3.3}%
-\contentsline {subsection}{\numberline {10.3.4}命题形式间的逻辑关系}{307}{subsection.10.3.4}%
-\contentsline {subsection}{\numberline {10.3.5}命题类型间的关键区别}{308}{subsection.10.3.5}%
-\contentsline {subsection}{\numberline {10.3.6}命题变形技巧}{309}{subsection.10.3.6}%
-\contentsline {section}{\numberline {10.4}有效性证明}{310}{section.10.4}%
-\contentsline {subsection}{\numberline {10.4.1}扩充推论规则}{310}{subsection.10.4.1}%
-\contentsline {subsection}{\numberline {10.4.2}全称概括原则}{311}{subsection.10.4.2}%
-\contentsline {subsection}{\numberline {10.4.3}存在量化规则}{314}{subsection.10.4.3}%
-\contentsline {subsection}{\numberline {10.4.4}使用限制}{315}{subsection.10.4.4}%
-\contentsline {subsection}{\numberline {10.4.5}四个附加推论规则总结}{316}{subsection.10.4.5}%
-\contentsline {paragraph}{1．全称列举}{316}{paragraph*.84}%
-\contentsline {paragraph}{2．全称概括}{316}{paragraph*.85}%
-\contentsline {paragraph}{3．存在列举}{316}{paragraph*.86}%
-\contentsline {paragraph}{4．存在概括}{317}{paragraph*.87}%
-\contentsline {section}{\numberline {10.5}无效性证明}{317}{section.10.5}%
-\contentsline {subsection}{\numberline {10.5.1}逻辑类比的局限性}{318}{subsection.10.5.1}%
-\contentsline {subsection}{\numberline {10.5.2}真值指派方法的扩展}{318}{subsection.10.5.2}%
-\contentsline {subsection}{\numberline {10.5.3}有限域模型中的量化}{318}{subsection.10.5.3}%
-\contentsline {subsection}{\numberline {10.5.4}使用模型证明无效性}{319}{subsection.10.5.4}%
-\contentsline {subsection}{\numberline {10.5.5}逐渐扩大模型的方法}{319}{subsection.10.5.5}%
-\contentsline {subsection}{\numberline {10.5.6}无效性证明的一般步骤}{320}{subsection.10.5.6}%
-\contentsline {section}{\numberline {10.6}非三段论推论}{321}{section.10.6}%
-\contentsline {subsection}{\numberline {10.6.1}超越三段论的限制}{322}{subsection.10.6.1}%
-\contentsline {subsection}{\numberline {10.6.2}适当符号化的重要性}{322}{subsection.10.6.2}%
-\contentsline {subsection}{\numberline {10.6.3}自然语言符号化的潜在问题}{323}{subsection.10.6.3}%
-\contentsline {subsection}{\numberline {10.6.4}除外命题的处理}{324}{subsection.10.6.4}%
-\contentsline {subsection}{\numberline {10.6.5}非三段论论证的有效性判断}{325}{subsection.10.6.5}%
-\contentsline {chapter}{\numberline {11}模态逻辑}{327}{chapter.11}%
-\contentsline {section}{\numberline {11.1}类比论证}{327}{section.11.1}%
-\contentsline {section}{\numberline {11.2}类比论证的评价}{330}{section.11.2}%
-\contentsline {section}{\numberline {11.3}通过逻辑类推进行的反驳}{335}{section.11.3}%
-\contentsline {chapter}{\numberline {12}逻辑悖论}{345}{chapter.12}%
-\contentsline {section}{\numberline {12.1}因果连接：基本概念}{345}{section.12.1}%
-\contentsline {subsection}{\numberline {12.1.1}"\textcolor {LogicGreen}{\textbf {原因}}"的意义}{345}{subsection.12.1.1}%
-\contentsline {subsection}{\numberline {12.1.2}遥远与最近的原因}{347}{subsection.12.1.2}%
-\contentsline {subsection}{\numberline {12.1.3}因果律和自然的齐一性}{348}{subsection.12.1.3}%
-\contentsline {subsection}{\numberline {12.1.4}简单枚举归纳法}{348}{subsection.12.1.4}%
-\contentsline {section}{\numberline {12.2}密尔方法}{350}{section.12.2}%
-\contentsline {subsection}{\numberline {12.2.1}求同法}{351}{subsection.12.2.1}%
-\contentsline {subsection}{\numberline {12.2.2}求异法}{353}{subsection.12.2.2}%
-\contentsline {subsection}{\numberline {12.2.3}求同求异并用法}{355}{subsection.12.2.3}%
-\contentsline {subsection}{\numberline {12.2.4}剩余法}{356}{subsection.12.2.4}%
-\contentsline {subsection}{\numberline {12.2.5}共变法}{357}{subsection.12.2.5}%
-\contentsline {section}{\numberline {12.3}对密尔方法的批评}{359}{section.12.3}%
-\contentsline {subsection}{\numberline {12.3.1}密尔方法的局限}{359}{subsection.12.3.1}%
-\contentsline {subsection}{\numberline {12.3.2}密尔方法的威力}{361}{subsection.12.3.2}%
+\contentsline {chapter}{\numberline {2}语言与交流}{51}{chapter.2}%
+\contentsline {section}{\numberline {2.1}语言的三种基本功能}{51}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}语言功能的多样性}{51}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}信息性用法}{52}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}表达性用法}{52}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}指令性用法}{53}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}多功能话语}{54}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}语言功能的融合}{54}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}行动的复杂动机}{55}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}语言的特殊用法}{55}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}话语形式}{56}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}陈述句与功能的关系}{57}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}其他语句形式的功能多样性}{57}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}多功能话语的评价标准}{57}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}语境在功能判定中的重要性}{58}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}论证与说明的进一步探讨}{59}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}情感词汇}{60}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}字面意义与情感意义}{60}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}委婉语的应用}{61}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}情感意义的力量}{61}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}情感意义的创造性应用}{62}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}一致与歧见的种类}{63}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}一致与歧见的四种关系}{63}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}解决不同类型歧见的方法}{64}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}情感语言与伦理判断}{64}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}实质歧见与言辞歧见}{65}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}情感中性语言}{66}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}中性语言在追求真理中的价值}{66}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}面对价值冲突的语言选择}{66}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}民意调查中的情感陷阱}{67}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}警惕情感语言的操纵}{67}{subsection.2.6.4}%
+\contentsline {chapter}{\numberline {3}论争与定义}{69}{chapter.3}%
+\contentsline {section}{\numberline {3.1}论争、言辞之争与定义}{69}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}三种不同类型的论争}{69}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}纯粹的言辞之争}{70}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}表面上的言辞之争与实质论争}{71}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}标准之争与概念之争}{71}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}识别不同类型的论争}{71}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}定义的类型和论争的解决}{72}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}报告性定义与规定性定义}{73}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}精确定义的作用}{73}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}规定定义的应用场景}{73}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}理论定义与说服定义}{74}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}定义在解决论争中的应用}{74}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}外延和内涵}{75}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}外延意义与内涵意义}{75}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}外延与内涵的关系}{75}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}内涵决定外延而非相反}{76}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}内涵与外延的反变关系}{76}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}外延为空的词项与意义歧义}{77}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}外延定义}{78}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}外延定义的基本局限}{78}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}部分列举的困难}{78}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}通过子类列举的方法}{79}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}实指定义及其局限}{79}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}实指定义的非原初性}{79}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}空外延词项的问题}{80}{subsection.3.4.6}%
+\contentsline {section}{\numberline {3.5}内涵定义}{80}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}内涵的三种含义}{81}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}识别规约内涵的方法}{81}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}同义定义}{81}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}操作定义}{82}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}属加种差定义}{82}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.5.6}属和种的关系}{83}{subsection.3.5.6}%
+\contentsline {subsection}{\numberline {3.5.7}属加种差定义的应用}{83}{subsection.3.5.7}%
+\contentsline {subsection}{\numberline {3.5.8}属加种差定义的局限性}{84}{subsection.3.5.8}%
+\contentsline {section}{\numberline {3.6}属加种差定义的五条规则}{85}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}规则一：定义应当揭示种的本质属性}{85}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}规则二：定义不能循环}{86}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}规则三：定义既不能过宽又不能过窄}{86}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}规则四：定义不能用歧义的、晦涩的或比喻的语言}{87}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}规则五：定义在可以用肯定的地方就不应当用否定定义}{87}{subsection.3.6.5}%
+\contentsline {section}{\numberline {3.7}第3章概要}{88}{section.3.7}%
+\contentsline {chapter}{\numberline {4}谬误}{91}{chapter.4}%
+\contentsline {section}{\numberline {4.1}什么是谬误？}{91}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}谬误的定义与本质}{91}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}谬误的心理说服力}{91}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}谬误分析的复杂性}{92}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}谬误的分类体系}{92}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}相干谬误}{93}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}相干谬误的本质}{93}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}R1．诉诸无知论证（The Argument from Ignorance：Argument Ad Ignorantiam）}{93}{subsection.4.2.2}%
+\contentsline {paragraph}{历史案例：伽利略的望远镜}{93}{paragraph*.3}%
+\contentsline {paragraph}{政治变革中的诉诸无知}{94}{paragraph*.4}%
+\contentsline {paragraph}{合理应用的情况}{94}{paragraph*.5}%
+\contentsline {paragraph}{法律中的诉诸无知}{94}{paragraph*.6}%
+\contentsline {subsection}{\numberline {4.2.3}R2．诉诸不当权威（The Appeal to Inappropriate Authority：Argument Ad Verecundiam）}{95}{subsection.4.2.3}%
+\contentsline {paragraph}{广告中的不当权威诉诸}{95}{paragraph*.7}%
+\contentsline {paragraph}{政治和国际关系中的权威问题}{96}{paragraph*.8}%
+\contentsline {paragraph}{确定合理权威的标准}{96}{paragraph*.9}%
+\contentsline {subsection}{\numberline {4.2.4}R3．人身攻击论证（Argument Ad Hominem）}{97}{subsection.4.2.4}%
+\contentsline {paragraph}{A．诽谤型人身攻击}{97}{paragraph*.10}%
+\contentsline {paragraph}{哲学辩论中的诽谤现象}{97}{paragraph*.11}%
+\contentsline {paragraph}{连带罪恶与证人可信度}{97}{paragraph*.12}%
+\contentsline {paragraph}{B．背景谬误}{98}{paragraph*.13}%
+\contentsline {paragraph}{职业与身份的背景影响}{98}{paragraph*.14}%
+\contentsline {paragraph}{tu quoque与偏见指控}{98}{paragraph*.15}%
+\contentsline {paragraph}{污泉谬误}{99}{paragraph*.16}%
+\contentsline {subsection}{\numberline {4.2.5}R4．诉诸情感（The Appeal to Emotion：Argument Ad Populum）}{99}{subsection.4.2.5}%
+\contentsline {paragraph}{诉诸情感的本质}{99}{paragraph*.17}%
+\contentsline {paragraph}{广告中的诉诸情感}{100}{paragraph*.18}%
+\contentsline {paragraph}{产品与情感的隐性联系}{100}{paragraph*.19}%
+\contentsline {paragraph}{民意调查中的情感影响}{100}{paragraph*.20}%
+\contentsline {paragraph}{大众接受不等于真理}{101}{paragraph*.21}%
+\contentsline {subsection}{\numberline {4.2.6}R5．诉诸同情（The Appeal to Pity：Argument Ad Misericordiam）}{101}{subsection.4.2.6}%
+\contentsline {paragraph}{法庭辩护中的同情诉求}{101}{paragraph*.22}%
+\contentsline {paragraph}{苏格拉底对诉诸同情的批判}{101}{paragraph*.23}%
+\contentsline {paragraph}{荒谬的同情诉求案例}{102}{paragraph*.24}%
+\contentsline {subsection}{\numberline {4.2.7}R6．诉诸暴力（The Appeal to Force：Argument Ad Baculum）}{102}{subsection.4.2.7}%
+\contentsline {paragraph}{暴力的多种形式}{102}{paragraph*.25}%
+\contentsline {paragraph}{隐蔽的暴力威胁}{103}{paragraph*.26}%
+\contentsline {paragraph}{理性与强制的对立}{103}{paragraph*.27}%
+\contentsline {subsection}{\numberline {4.2.8}R7．不相干结论（Irrelevant Conclusion：Ignoratio Elenchi）}{103}{subsection.4.2.8}%
+\contentsline {paragraph}{政策辩论中的不相干结论}{103}{paragraph*.28}%
+\contentsline {paragraph}{不相干结论的常见形式}{103}{paragraph*.29}%
+\contentsline {section}{\numberline {4.3}预设谬误}{104}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}P1．复杂问语（Complex Question）}{104}{subsection.4.3.1}%
+\contentsline {paragraph}{经典的复杂问语例子}{104}{paragraph*.30}%
+\contentsline {paragraph}{司法询问中的复杂问语}{105}{paragraph*.31}%
+\contentsline {paragraph}{政治辩论中的预设问题}{105}{paragraph*.32}%
+\contentsline {paragraph}{识别和避免复杂问语}{105}{paragraph*.33}%
+\contentsline {subsection}{\numberline {4.3.2}P2．虚假原因（False Cause）}{106}{subsection.4.3.2}%
+\contentsline {paragraph}{因果关系与争议}{106}{paragraph*.34}%
+\contentsline {paragraph}{时间连续性与因果错误}{106}{paragraph*.35}%
+\contentsline {subsection}{\numberline {4.3.3}P3．乞题（Begging the Question：Petitio Principii）}{107}{subsection.4.3.3}%
+\contentsline {paragraph}{循环论证}{107}{paragraph*.36}%
+\contentsline {paragraph}{归纳原理的证明困境}{108}{paragraph*.37}%
+\contentsline {subsection}{\numberline {4.3.4}P4．和 P5．偶然和逆偶然（Accident and Converse Accident）}{108}{subsection.4.3.4}%
+\contentsline {paragraph}{概括的例外性}{108}{paragraph*.38}%
+\contentsline {paragraph}{苏格拉底与欧西德姆斯的对话}{109}{paragraph*.39}%
+\contentsline {paragraph}{由特殊到一般的错误推理}{109}{paragraph*.40}%
+\contentsline {section}{\numberline {4.4}含混谬误}{110}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}A1．歧义}{110}{subsection.4.4.1}%
+\contentsline {paragraph}{文学中的歧义}{110}{paragraph*.41}%
+\contentsline {paragraph}{相对词的歧义问题}{111}{paragraph*.42}%
+\contentsline {subsection}{\numberline {4.4.2}A2．双关}{111}{subsection.4.4.2}%
+\contentsline {paragraph}{政治中的双关现象}{112}{paragraph*.43}%
+\contentsline {paragraph}{垂悬分词与短语}{112}{paragraph*.44}%
+\contentsline {subsection}{\numberline {4.4.3}A3．重读}{112}{subsection.4.4.3}%
+\contentsline {paragraph}{重音与语气的影响}{112}{paragraph*.45}%
+\contentsline {paragraph}{广告中的重读谬误}{113}{paragraph*.46}%
+\contentsline {paragraph}{通过位置操纵的重读}{113}{paragraph*.47}%
+\contentsline {subsection}{\numberline {4.4.4}A4．合成}{113}{subsection.4.4.4}%
+\contentsline {paragraph}{性质的转移问题}{114}{paragraph*.48}%
+\contentsline {paragraph}{个体与集体的性质差异}{114}{paragraph*.49}%
+\contentsline {paragraph}{两种谬误形式的区别}{114}{paragraph*.50}%
+\contentsline {subsection}{\numberline {4.4.5}A5．分解}{115}{subsection.4.4.5}%
+\contentsline {paragraph}{从整体到部分的错误推理}{115}{paragraph*.51}%
+\contentsline {paragraph}{有效推理与分解谬误的区别}{115}{paragraph*.52}%
+\contentsline {paragraph}{R1．诉诸无知论证}{116}{paragraph*.53}%
+\contentsline {paragraph}{R2．诉诸不当权威}{116}{paragraph*.54}%
+\contentsline {paragraph}{R3．人身攻击论证}{116}{paragraph*.55}%
+\contentsline {paragraph}{R4．诉诸情感}{116}{paragraph*.56}%
+\contentsline {paragraph}{R5．诉诸同情}{116}{paragraph*.57}%
+\contentsline {paragraph}{R6．诉诸武力}{116}{paragraph*.58}%
+\contentsline {paragraph}{R7．不相干结论}{116}{paragraph*.59}%
+\contentsline {paragraph}{P1．复杂问语}{116}{paragraph*.60}%
+\contentsline {paragraph}{P2．虚假原因}{116}{paragraph*.61}%
+\contentsline {paragraph}{P3．乞题}{117}{paragraph*.62}%
+\contentsline {paragraph}{P4．偶然}{117}{paragraph*.63}%
+\contentsline {paragraph}{P5．逆偶然}{117}{paragraph*.64}%
+\contentsline {paragraph}{A1．歧义}{117}{paragraph*.65}%
+\contentsline {paragraph}{A2．双关}{117}{paragraph*.66}%
+\contentsline {paragraph}{A3．重读}{117}{paragraph*.67}%
+\contentsline {paragraph}{A4．合成}{117}{paragraph*.68}%
+\contentsline {paragraph}{A5．分解}{117}{paragraph*.69}%
+\contentsline {chapter}{\numberline {5}演绎推理}{119}{chapter.5}%
+\contentsline {section}{\numberline {5.1}演绎理论}{119}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}演绎论证的本质}{119}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}亚里士多德的逻辑贡献}{119}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}直言命题及其类别}{120}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}直言命题的基本概念}{120}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}类之间的关系}{120}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}直言命题的四种标准形式}{121}{subsection.5.2.3}%
+\contentsline {paragraph}{全称肯定命题}{121}{paragraph*.70}%
+\contentsline {paragraph}{全称否定命题}{121}{paragraph*.71}%
+\contentsline {paragraph}{特称肯定命题}{121}{paragraph*.72}%
+\contentsline {paragraph}{特称否定命题}{122}{paragraph*.73}%
+\contentsline {subsection}{\numberline {5.2.4}标准式直言命题的多样性}{122}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}直言命题的传统符号}{122}{subsection.5.2.5}%
+\contentsline {section}{\numberline {5.3}质、量与周延性}{123}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}质}{123}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}量}{123}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}标准式直言命题的一般模式}{124}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}周延性}{124}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}各类命题的周延性分析}{125}{subsection.5.3.5}%
+\contentsline {subsubsection}{A命题的周延性}{125}{subsubsection*.74}%
+\contentsline {subsubsection}{E命题的周延性}{125}{subsubsection*.75}%
+\contentsline {subsubsection}{I命题的周延性}{125}{subsubsection*.76}%
+\contentsline {subsubsection}{O命题的周延性}{125}{subsubsection*.77}%
+\contentsline {subsection}{\numberline {5.3.6}周延性总结}{126}{subsection.5.3.6}%
+\contentsline {section}{\numberline {5.4}传统对当方阵}{126}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}矛盾关系（Contradictories）}{127}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}反对关系（Contraries）}{127}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}下反对关系（Subcontraries）}{128}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}差等关系（Subalternation）}{128}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}对当方阵}{129}{subsection.5.4.5}%
+\contentsline {section}{\numberline {5.5}其他直接推论}{131}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}换位法（Conversion）}{131}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}换质法（Obversion）}{132}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}换质位法（Contraposition）}{134}{subsection.5.5.3}%
+\contentsline {section}{\numberline {5.6}存在含义与直言命题的解释}{138}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}特称命题的存在含义}{139}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}传统解释的困境}{139}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5.6.3}全面存在预设的尝试}{139}{subsection.5.6.3}%
+\contentsline {subsection}{\numberline {5.6.4}为何全面存在预设不可接受}{140}{subsection.5.6.4}%
+\contentsline {subsection}{\numberline {5.6.5}布尔解释}{140}{subsection.5.6.5}%
+\contentsline {section}{\numberline {5.7}直言命题的符号系统与图解}{142}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}直言命题的符号表示}{142}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2}文恩图及其应用}{143}{subsection.5.7.2}%
+\contentsline {section}{\numberline {5.8}第5章概要}{151}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}类与标准式直言命题}{151}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.8.2}命题的质与量}{152}{subsection.5.8.2}%
+\contentsline {subsection}{\numberline {5.8.3}对当关系}{152}{subsection.5.8.3}%
+\contentsline {subsection}{\numberline {5.8.4}直接推论方法}{152}{subsection.5.8.4}%
+\contentsline {subsection}{\numberline {5.8.5}存在含义问题}{152}{subsection.5.8.5}%
+\contentsline {subsection}{\numberline {5.8.6}命题的符号化与图示化}{152}{subsection.5.8.6}%
+\contentsline {chapter}{\numberline {6}直言三段论}{153}{chapter.6}%
+\contentsline {section}{\numberline {6.1}标准式直言三段论}{153}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}大项、小项和中项}{153}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}式}{154}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}格}{154}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}三段论论证的形式性质}{156}{section.6.2}%
+\contentsline {section}{\numberline {6.3}检验三段论：文恩图解法}{158}{section.6.3}%
+\contentsline {section}{\numberline {6.4}三段论规则和三段论谬误}{168}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}规则1 避免四项}{168}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}规则2 中项至少在一个前提中周延}{168}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}规则3 在结论中周延的项在前提中也必须周延}{169}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}规则4 避免出现两个否定前提}{170}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.5}规则5 如果有一个前提是否定的，那么结论必须是否定的}{170}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6.4.6}规则6 两个全称前提得不出特称结论}{171}{subsection.6.4.6}%
+\contentsline {section}{\numberline {6.5}直言三段论的15个有效形式}{172}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}标准式直言三段论的15个有效形式}{175}{subsection.6.5.1}%
+\contentsline {section}{\numberline {6.6}直言三段论15个有效形式的演绎推导}{177}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}情形1：如果三段论的结论是$\mathbf {A}$命题}{178}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}情形2：如果三段论的结论是$\mathbf {E}$命题}{178}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}情形3：如果三段论的结论是I命题}{178}{subsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.6.4}情形4：如果结论是$\mathbf {O}$命题}{179}{subsection.6.6.4}%
+\contentsline {subsection}{\numberline {6.6.5}三段论的基本元素}{180}{subsection.6.6.5}%
+\contentsline {subsection}{\numberline {6.6.6}检验三段论有效性}{181}{subsection.6.6.6}%
+\contentsline {subsection}{\numberline {6.6.7}有效三段论形式}{182}{subsection.6.6.7}%
+\contentsline {chapter}{\numberline {7}逻辑与语言}{183}{chapter.7}%
+\contentsline {section}{\numberline {7.1}日常语言中的三段论论证}{183}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}非标准形式的三种偏离情形}{184}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}三段论词项数量的归约}{184}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}去除同义词}{185}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}去除补类}{185}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}多重词项的归约}{186}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7.3}直言命题的标准化}{187}{section.7.3}%
+\contentsline {section}{\numberline {7.4}协同翻译}{193}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}参项的选择}{194}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}应用协同翻译}{194}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}协同翻译的进阶案例}{195}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}省略三段论（Enthymemes）}{196}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}省略三段论的原因与特点}{196}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}补充隐藏前提的原则}{197}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}省略三段论的类型}{197}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}省略三段论的检验}{197}{subsection.7.5.4}%
+\contentsline {section}{\numberline {7.6}连锁三段论（Sorites）}{199}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}连锁三段论的拆解分析}{199}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}标准式连锁三段论}{200}{subsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.6.3}连锁三段论的检验}{201}{subsection.7.6.3}%
+\contentsline {section}{\numberline {7.7}析取三段论和假言三段论}{201}{section.7.7}%
+\contentsline {subsection}{\numberline {7.7.1}析取三段论（Disjunctive Syllogisms）}{202}{subsection.7.7.1}%
+\contentsline {subsection}{\numberline {7.7.2}假言三段论（Hypothetical Syllogisms）}{202}{subsection.7.7.2}%
+\contentsline {section}{\numberline {7.8}二难推论（The Dilemma）}{204}{section.7.8}%
+\contentsline {subsection}{\numberline {7.8.1}避开二难推论的方法}{205}{subsection.7.8.1}%
+\contentsline {subsubsection}{绕过死角法}{205}{subsubsection*.78}%
+\contentsline {subsubsection}{直击一角法}{206}{subsubsection*.79}%
+\contentsline {subsubsection}{构造反二难法}{206}{subsubsection*.80}%
+\contentsline {subsection}{\numberline {7.8.2}普罗塔哥拉与欧提勒士的二难困境}{207}{subsection.7.8.2}%
+\contentsline {chapter}{\numberline {8}现代符号逻辑}{211}{chapter.8}%
+\contentsline {section}{\numberline {8.1}现代逻辑的符号语言}{211}{section.8.1}%
+\contentsline {section}{\numberline {8.2}合取、否定和析取符号}{212}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}合取}{213}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}否定}{215}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}析取}{216}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}标点符号}{217}{subsection.8.2.4}%
+\contentsline {section}{\numberline {8.3}条件陈述与实质蕴涵}{220}{section.8.3}%
+\contentsline {section}{\numberline {8.4}论证形式与论证}{226}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}运用逻辑类推进行反驳}{227}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}根据真值表检验论证}{229}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}一些常见的有效论证形式}{230}{subsection.8.4.3}%
+\contentsline {subsubsection}{析取三段论}{230}{subsubsection*.81}%
+\contentsline {subsubsection}{肯定前件式}{231}{subsubsection*.82}%
+\contentsline {subsubsection}{否定后件式}{232}{subsubsection*.83}%
+\contentsline {section}{\numberline {8.5}陈述形式与实质等值}{235}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}陈述形式与陈述}{235}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}重言的、矛盾的和偶真的陈述形式}{236}{subsection.8.5.2}%
+\contentsline {subsection}{\numberline {8.5.3}实质等值}{237}{subsection.8.5.3}%
+\contentsline {subsection}{\numberline {8.5.4}真值函项联结词}{238}{subsection.8.5.4}%
+\contentsline {subsection}{\numberline {8.5.5}论证、条件陈述与重言式}{238}{subsection.8.5.5}%
+\contentsline {section}{\numberline {8.6}逻辑等价}{239}{section.8.6}%
+\contentsline {section}{\numberline {8.7}实质蕴涵怪论}{243}{section.8.7}%
+\contentsline {section}{\numberline {8.8}三大＂思想法则＂}{245}{section.8.8}%
+\contentsline {chapter}{\numberline {9}命题逻辑}{249}{chapter.9}%
+\contentsline {section}{\numberline {9.1}有效性的形式证明}{249}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}推论规则}{251}{subsection.9.1.1}%
+\contentsline {section}{\numberline {9.2}替换规则}{252}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}替换规则列表}{253}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}替换与代入的区别}{254}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}推论规则表的完备性}{254}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}形式证明的能行性}{255}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}前九条与后十条规则的区别}{256}{subsection.9.2.5}%
+\contentsline {subsection}{\numberline {9.2.6}构造形式证明的技巧}{256}{subsection.9.2.6}%
+\contentsline {section}{\numberline {9.3}无效性的证明}{259}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}与真值表方法的关系}{260}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}真值指派的策略}{260}{subsection.9.3.2}%
+\contentsline {section}{\numberline {9.4}不相容性}{261}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}前提不相容与有效性}{262}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}不相容前提的问题}{263}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}相容性的重要性}{264}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.4}不相容性与幽默}{264}{subsection.9.4.4}%
+\contentsline {chapter}{\numberline {10}谓词逻辑}{267}{chapter.10}%
+\contentsline {section}{\numberline {10.1}单称命题}{267}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}单称命题的结构}{268}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}单称命题的符号化}{268}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}命题函项}{269}{subsection.10.1.3}%
+\contentsline {section}{\numberline {10.2}量化}{270}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}从命题函项到命题}{270}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}存在量化与全称量化}{271}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}否定与量化}{271}{subsection.10.2.3}%
+\contentsline {subsection}{\numberline {10.2.4}量词间的逻辑关系}{272}{subsection.10.2.4}%
+\contentsline {subsection}{\numberline {10.2.5}量词逻辑方阵}{273}{subsection.10.2.5}%
+\contentsline {section}{\numberline {10.3}传统主——谓命题}{275}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}四种基本命题形式}{275}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}A型命题的符号化}{275}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}其他类型命题的符号化}{276}{subsection.10.3.3}%
+\contentsline {subsection}{\numberline {10.3.4}命题形式间的逻辑关系}{277}{subsection.10.3.4}%
+\contentsline {subsection}{\numberline {10.3.5}命题类型间的关键区别}{279}{subsection.10.3.5}%
+\contentsline {subsection}{\numberline {10.3.6}命题变形技巧}{279}{subsection.10.3.6}%
+\contentsline {section}{\numberline {10.4}有效性证明}{281}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}扩充推论规则}{281}{subsection.10.4.1}%
+\contentsline {subsection}{\numberline {10.4.2}全称概括原则}{282}{subsection.10.4.2}%
+\contentsline {subsection}{\numberline {10.4.3}存在量化规则}{285}{subsection.10.4.3}%
+\contentsline {subsection}{\numberline {10.4.4}使用限制}{286}{subsection.10.4.4}%
+\contentsline {subsection}{\numberline {10.4.5}四个附加推论规则总结}{287}{subsection.10.4.5}%
+\contentsline {paragraph}{1．全称列举}{287}{paragraph*.84}%
+\contentsline {paragraph}{2．全称概括}{287}{paragraph*.85}%
+\contentsline {paragraph}{3．存在列举}{287}{paragraph*.86}%
+\contentsline {paragraph}{4．存在概括}{288}{paragraph*.87}%
+\contentsline {section}{\numberline {10.5}无效性证明}{288}{section.10.5}%
+\contentsline {subsection}{\numberline {10.5.1}逻辑类比的局限性}{289}{subsection.10.5.1}%
+\contentsline {subsection}{\numberline {10.5.2}真值指派方法的扩展}{289}{subsection.10.5.2}%
+\contentsline {subsection}{\numberline {10.5.3}有限域模型中的量化}{289}{subsection.10.5.3}%
+\contentsline {subsection}{\numberline {10.5.4}使用模型证明无效性}{290}{subsection.10.5.4}%
+\contentsline {subsection}{\numberline {10.5.5}逐渐扩大模型的方法}{290}{subsection.10.5.5}%
+\contentsline {subsection}{\numberline {10.5.6}无效性证明的一般步骤}{291}{subsection.10.5.6}%
+\contentsline {section}{\numberline {10.6}非三段论推论}{293}{section.10.6}%
+\contentsline {subsection}{\numberline {10.6.1}超越三段论的限制}{293}{subsection.10.6.1}%
+\contentsline {subsection}{\numberline {10.6.2}适当符号化的重要性}{293}{subsection.10.6.2}%
+\contentsline {subsection}{\numberline {10.6.3}自然语言符号化的潜在问题}{294}{subsection.10.6.3}%
+\contentsline {subsection}{\numberline {10.6.4}除外命题的处理}{295}{subsection.10.6.4}%
+\contentsline {subsection}{\numberline {10.6.5}非三段论论证的有效性判断}{296}{subsection.10.6.5}%
+\contentsline {chapter}{\numberline {11}模态逻辑}{299}{chapter.11}%
+\contentsline {section}{\numberline {11.1}类比论证}{299}{section.11.1}%
+\contentsline {section}{\numberline {11.2}类比论证的评价}{302}{section.11.2}%
+\contentsline {section}{\numberline {11.3}通过逻辑类推进行的反驳}{307}{section.11.3}%
+\contentsline {chapter}{\numberline {12}逻辑悖论}{311}{chapter.12}%
+\contentsline {section}{\numberline {12.1}因果连接：基本概念}{311}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}"\textcolor {LogicGreen}{\textbf {原因}}"的意义}{311}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}遥远与最近的原因}{313}{subsection.12.1.2}%
+\contentsline {subsection}{\numberline {12.1.3}因果律和自然的齐一性}{314}{subsection.12.1.3}%
+\contentsline {subsection}{\numberline {12.1.4}简单枚举归纳法}{314}{subsection.12.1.4}%
+\contentsline {section}{\numberline {12.2}密尔方法}{316}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}求同法}{317}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}求异法}{319}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}求同求异并用法}{321}{subsection.12.2.3}%
+\contentsline {subsection}{\numberline {12.2.4}剩余法}{322}{subsection.12.2.4}%
+\contentsline {subsection}{\numberline {12.2.5}共变法}{323}{subsection.12.2.5}%
+\contentsline {section}{\numberline {12.3}对密尔方法的批评}{325}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}密尔方法的局限}{325}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}密尔方法的威力}{327}{subsection.12.3.2}%
