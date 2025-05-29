@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  29 MAY 2025 17:41
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  29 MAY 2025 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3676,32 +3676,113 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [328]
 Chapter 13.
 (./chapter13/13-1 科学的价值.tex
-Runaway argument?
-{logicbox> 
-! Paragraph ended before \end  was complete.
-<to be read again> 
-                   \par 
-l.6 
-    
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (./chapter13/13-2 说明：科学的和非科学的.tex) (./chapter13/13-3 对科学说明的评价.tex)
-(./chapter13/13-4 科学研究的七个阶段.tex) (./chapter13/13-5 实际工作中的科学家：科学研究的模式.tex
+
+
+[329
+
+]) (./chapter13/13-2 说明：科学的和非科学的.tex
+
+[330]
+
+[331]) (./chapter13/13-3 对科学说明的评价.tex
+
+[332]
+
+[333]
+
+[334]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[335]) (./chapter13/13-4 科学研究的七个阶段.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[336]
+
+[337]
+
+[338]
+
+[339]) (./chapter13/13-5 实际工作中的科学家：科学研究的模式.tex
+
+[340]
+
+[341]
+
+[342]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
+
+
+[343]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg>
-) (./chapter13/13-6 判决性实验和特设性假说.tex) (./chapter13/13-7 作为假说的分类.tex
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 8.88pt on input line 34.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 7.0pt on input line 34.
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[344]
+Overfull \vbox (579.7468pt too high) has occurred while \output is active []
+
+
+
+[345]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[346]) (./chapter13/13-6 判决性实验和特设性假说.tex
+
+[347]
+
+[348]
+
+[349]
+
+[350]) (./chapter13/13-7 作为假说的分类.tex
+
+[351]
+
+[352]
+
+[353]
+
+[354]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[355])
+
+[356]
 Chapter 14.
-(./chapter14/14-1 概率与归纳逻辑.tex) (./chapter14/14-2 概率计算.tex)
-(./chapter14/14-3 共同发生的概率.tex
+(./chapter14/14-1 概率与归纳逻辑.tex
+
+[357
+
+]
+
+[358]
+
+[359]) (./chapter14/14-2 概率计算.tex
+
+[360]
+
+[361]) (./chapter14/14-3 共同发生的概率.tex
+
+[362]
+
+[363]
+
+[364]
+
+[365]
 
 Package fontspec Info: 
 (fontspec)             Could not resolve font "Source Han Sans SC/I" (it
@@ -3722,8 +3803,54 @@ Package fontspec Info:
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
 (fontspec)             Sans SC/BI/OT:script=hani;language=dflt;"
 
-) (./chapter14/14-4 替代性发生的概率.tex)
-(./chapter14/14-5 期望值.tex) (./chapter14/summary.tex) (./chapter14/notes.tex)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[366]) (./chapter14/14-4 替代性发生的概率.tex
+Underfull \vbox (badness 7099) has occurred while \output is active []
+
+
+
+[367]
+
+[368]
+
+[369]
+
+[370]
+
+[371]) (./chapter14/14-5 期望值.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[372]
+
+[373]
+
+[374]) (./chapter14/summary.tex
+
+[375]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[376]) (./chapter14/notes.tex
+
+[377])
+
+[378]
+
+[379
+
+
+]
+
+[380
+
+]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -3872,6 +3999,9 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdateshort.
 
+
+
+[381]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4031,6 +4161,9 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                for \mkbibdateshort.
 
 
+
+[382]
+
 Package biblatex Warning: Bibliography string 'and' untranslated
 (biblatex)                at entry 'whitehead1911' on input line 255.
 
@@ -4171,6 +4304,9 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdateshort.
 
+
+
+[383]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4302,6 +4438,9 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdateshort.
 
+
+
+[384]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4437,12 +4576,8 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                for \mkbibdateshort.
 
 
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
 
+[385]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4535,19 +4670,15 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                for \mkbibdateshort.
 
 
-! LaTeX Error: \begin{tcb@savebox} on input line 3 ended by \end{document}.
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.257 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
-(./main.aux)
+
+[386] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -4559,47 +4690,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D73A95BB7C856C2304B4B663D024E6C6;55833.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D73A95BB7C856C2304B4B663D024E6C6;55833
+(rerunfilecheck)             After:  CC8FF06A83D4C76F31BBABFD6EDA85E7;64442.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-! You can't use `\end' in internal vertical mode.
-\enddocument ...cument/end}\deadcycles \z@ \@@end 
-                                                  
-l.257 \end{document}
-                    
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{tcb@savebox} on input line 3 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.257 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-)
-! Emergency stop.
-<*> main.tex
-            
-*** (job aborted, no legal \end found)
-
- 
+ ) 
 Here is how much of TeX's memory you used:
- 51097 strings out of 473832
- 1149313 string characters out of 5729481
- 2856136 words of memory out of 5000000
- 72995 multiletter control sequences out of 15000+600000
- 569851 words of font info for 185 fonts, out of 8000000 for 9000
+ 51082 strings out of 473832
+ 1148863 string characters out of 5729481
+ 2147136 words of memory out of 5000000
+ 72982 multiletter control sequences out of 15000+600000
+ 569835 words of font info for 183 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,16n,120p,928b,5647s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on main.pdf (346 pages).
+ 89i,16n,120p,928b,5194s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (404 pages).
