@@ -1,5 +1,5 @@
 \xpg@aux {}{latex}
-\contentsline {chapter}{前言}{v}{chapter*.2}%
+\contentsline {chapter}{前言}{iii}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}逻辑与语言}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}什么是逻辑学}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}逻辑学的研究对象}{1}{subsection.1.1.1}%
@@ -137,90 +137,90 @@
 \contentsline {section}{\numberline {4.2}相干谬误}{105}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}相干谬误的本质}{105}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}R1．诉诸无知论证（The Argument from Ignorance：Argument Ad Ignorantiam）}{105}{subsection.4.2.2}%
-\contentsline {paragraph}{历史案例：伽利略的望远镜}{105}{paragraph*.4}%
-\contentsline {paragraph}{政治变革中的诉诸无知}{106}{paragraph*.5}%
-\contentsline {paragraph}{合理应用的情况}{106}{paragraph*.6}%
-\contentsline {paragraph}{法律中的诉诸无知}{106}{paragraph*.7}%
+\contentsline {paragraph}{历史案例：伽利略的望远镜}{105}{paragraph*.3}%
+\contentsline {paragraph}{政治变革中的诉诸无知}{106}{paragraph*.4}%
+\contentsline {paragraph}{合理应用的情况}{106}{paragraph*.5}%
+\contentsline {paragraph}{法律中的诉诸无知}{106}{paragraph*.6}%
 \contentsline {subsection}{\numberline {4.2.3}R2．诉诸不当权威（The Appeal to Inappropriate Authority：Argument Ad Verecundiam）}{107}{subsection.4.2.3}%
-\contentsline {paragraph}{广告中的不当权威诉诸}{107}{paragraph*.8}%
-\contentsline {paragraph}{政治和国际关系中的权威问题}{108}{paragraph*.9}%
-\contentsline {paragraph}{确定合理权威的标准}{108}{paragraph*.10}%
+\contentsline {paragraph}{广告中的不当权威诉诸}{107}{paragraph*.7}%
+\contentsline {paragraph}{政治和国际关系中的权威问题}{108}{paragraph*.8}%
+\contentsline {paragraph}{确定合理权威的标准}{108}{paragraph*.9}%
 \contentsline {subsection}{\numberline {4.2.4}R3．人身攻击论证（Argument Ad Hominem）}{109}{subsection.4.2.4}%
-\contentsline {paragraph}{A．诽谤型人身攻击}{109}{paragraph*.11}%
-\contentsline {paragraph}{哲学辩论中的诽谤现象}{109}{paragraph*.12}%
-\contentsline {paragraph}{连带罪恶与证人可信度}{109}{paragraph*.13}%
-\contentsline {paragraph}{B．背景谬误}{110}{paragraph*.14}%
-\contentsline {paragraph}{职业与身份的背景影响}{110}{paragraph*.15}%
-\contentsline {paragraph}{tu quoque与偏见指控}{110}{paragraph*.16}%
-\contentsline {paragraph}{污泉谬误}{111}{paragraph*.17}%
+\contentsline {paragraph}{A．诽谤型人身攻击}{109}{paragraph*.10}%
+\contentsline {paragraph}{哲学辩论中的诽谤现象}{109}{paragraph*.11}%
+\contentsline {paragraph}{连带罪恶与证人可信度}{109}{paragraph*.12}%
+\contentsline {paragraph}{B．背景谬误}{110}{paragraph*.13}%
+\contentsline {paragraph}{职业与身份的背景影响}{110}{paragraph*.14}%
+\contentsline {paragraph}{tu quoque与偏见指控}{110}{paragraph*.15}%
+\contentsline {paragraph}{污泉谬误}{111}{paragraph*.16}%
 \contentsline {subsection}{\numberline {4.2.5}R4．诉诸情感（The Appeal to Emotion：Argument Ad Populum）}{111}{subsection.4.2.5}%
-\contentsline {paragraph}{诉诸情感的本质}{111}{paragraph*.18}%
-\contentsline {paragraph}{广告中的诉诸情感}{112}{paragraph*.19}%
-\contentsline {paragraph}{产品与情感的隐性联系}{112}{paragraph*.20}%
-\contentsline {paragraph}{民意调查中的情感影响}{112}{paragraph*.21}%
-\contentsline {paragraph}{大众接受不等于真理}{113}{paragraph*.22}%
+\contentsline {paragraph}{诉诸情感的本质}{111}{paragraph*.17}%
+\contentsline {paragraph}{广告中的诉诸情感}{112}{paragraph*.18}%
+\contentsline {paragraph}{产品与情感的隐性联系}{112}{paragraph*.19}%
+\contentsline {paragraph}{民意调查中的情感影响}{112}{paragraph*.20}%
+\contentsline {paragraph}{大众接受不等于真理}{113}{paragraph*.21}%
 \contentsline {subsection}{\numberline {4.2.6}R5．诉诸同情（The Appeal to Pity：Argument Ad Misericordiam）}{113}{subsection.4.2.6}%
-\contentsline {paragraph}{法庭辩护中的同情诉求}{113}{paragraph*.23}%
-\contentsline {paragraph}{苏格拉底对诉诸同情的批判}{113}{paragraph*.24}%
-\contentsline {paragraph}{荒谬的同情诉求案例}{114}{paragraph*.25}%
+\contentsline {paragraph}{法庭辩护中的同情诉求}{113}{paragraph*.22}%
+\contentsline {paragraph}{苏格拉底对诉诸同情的批判}{113}{paragraph*.23}%
+\contentsline {paragraph}{荒谬的同情诉求案例}{114}{paragraph*.24}%
 \contentsline {subsection}{\numberline {4.2.7}R6．诉诸暴力（The Appeal to Force：Argument Ad Baculum）}{114}{subsection.4.2.7}%
-\contentsline {paragraph}{暴力的多种形式}{114}{paragraph*.26}%
-\contentsline {paragraph}{隐蔽的暴力威胁}{115}{paragraph*.27}%
-\contentsline {paragraph}{理性与强制的对立}{115}{paragraph*.28}%
+\contentsline {paragraph}{暴力的多种形式}{114}{paragraph*.25}%
+\contentsline {paragraph}{隐蔽的暴力威胁}{115}{paragraph*.26}%
+\contentsline {paragraph}{理性与强制的对立}{115}{paragraph*.27}%
 \contentsline {subsection}{\numberline {4.2.8}R7．不相干结论（Irrelevant Conclusion：Ignoratio Elenchi）}{115}{subsection.4.2.8}%
-\contentsline {paragraph}{政策辩论中的不相干结论}{115}{paragraph*.29}%
-\contentsline {paragraph}{不相干结论的常见形式}{115}{paragraph*.30}%
+\contentsline {paragraph}{政策辩论中的不相干结论}{115}{paragraph*.28}%
+\contentsline {paragraph}{不相干结论的常见形式}{115}{paragraph*.29}%
 \contentsline {section}{\numberline {4.3}预设谬误}{116}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}P1．复杂问语（Complex Question）}{116}{subsection.4.3.1}%
-\contentsline {paragraph}{经典的复杂问语例子}{116}{paragraph*.31}%
-\contentsline {paragraph}{司法询问中的复杂问语}{117}{paragraph*.32}%
-\contentsline {paragraph}{政治辩论中的预设问题}{117}{paragraph*.33}%
-\contentsline {paragraph}{识别和避免复杂问语}{117}{paragraph*.34}%
+\contentsline {paragraph}{经典的复杂问语例子}{116}{paragraph*.30}%
+\contentsline {paragraph}{司法询问中的复杂问语}{117}{paragraph*.31}%
+\contentsline {paragraph}{政治辩论中的预设问题}{117}{paragraph*.32}%
+\contentsline {paragraph}{识别和避免复杂问语}{117}{paragraph*.33}%
 \contentsline {subsection}{\numberline {4.3.2}P2．虚假原因（False Cause）}{118}{subsection.4.3.2}%
-\contentsline {paragraph}{因果关系与争议}{118}{paragraph*.35}%
-\contentsline {paragraph}{时间连续性与因果错误}{118}{paragraph*.36}%
+\contentsline {paragraph}{因果关系与争议}{118}{paragraph*.34}%
+\contentsline {paragraph}{时间连续性与因果错误}{118}{paragraph*.35}%
 \contentsline {subsection}{\numberline {4.3.3}P3．乞题（Begging the Question：Petitio Principii）}{119}{subsection.4.3.3}%
-\contentsline {paragraph}{循环论证}{119}{paragraph*.37}%
-\contentsline {paragraph}{归纳原理的证明困境}{120}{paragraph*.38}%
+\contentsline {paragraph}{循环论证}{119}{paragraph*.36}%
+\contentsline {paragraph}{归纳原理的证明困境}{120}{paragraph*.37}%
 \contentsline {subsection}{\numberline {4.3.4}P4．和 P5．偶然和逆偶然（Accident and Converse Accident）}{120}{subsection.4.3.4}%
-\contentsline {paragraph}{概括的例外性}{120}{paragraph*.39}%
-\contentsline {paragraph}{苏格拉底与欧西德姆斯的对话}{121}{paragraph*.40}%
-\contentsline {paragraph}{由特殊到一般的错误推理}{121}{paragraph*.41}%
+\contentsline {paragraph}{概括的例外性}{120}{paragraph*.38}%
+\contentsline {paragraph}{苏格拉底与欧西德姆斯的对话}{121}{paragraph*.39}%
+\contentsline {paragraph}{由特殊到一般的错误推理}{121}{paragraph*.40}%
 \contentsline {section}{\numberline {4.4}含混谬误}{122}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}A1．歧义}{122}{subsection.4.4.1}%
-\contentsline {paragraph}{文学中的歧义}{122}{paragraph*.42}%
-\contentsline {paragraph}{相对词的歧义问题}{123}{paragraph*.43}%
+\contentsline {paragraph}{文学中的歧义}{122}{paragraph*.41}%
+\contentsline {paragraph}{相对词的歧义问题}{123}{paragraph*.42}%
 \contentsline {subsection}{\numberline {4.4.2}A2．双关}{123}{subsection.4.4.2}%
-\contentsline {paragraph}{政治中的双关现象}{124}{paragraph*.44}%
-\contentsline {paragraph}{垂悬分词与短语}{124}{paragraph*.45}%
+\contentsline {paragraph}{政治中的双关现象}{124}{paragraph*.43}%
+\contentsline {paragraph}{垂悬分词与短语}{124}{paragraph*.44}%
 \contentsline {subsection}{\numberline {4.4.3}A3．重读}{124}{subsection.4.4.3}%
-\contentsline {paragraph}{重音与语气的影响}{124}{paragraph*.46}%
-\contentsline {paragraph}{广告中的重读谬误}{125}{paragraph*.47}%
-\contentsline {paragraph}{通过位置操纵的重读}{125}{paragraph*.48}%
+\contentsline {paragraph}{重音与语气的影响}{124}{paragraph*.45}%
+\contentsline {paragraph}{广告中的重读谬误}{125}{paragraph*.46}%
+\contentsline {paragraph}{通过位置操纵的重读}{125}{paragraph*.47}%
 \contentsline {subsection}{\numberline {4.4.4}A4．合成}{125}{subsection.4.4.4}%
-\contentsline {paragraph}{性质的转移问题}{126}{paragraph*.49}%
-\contentsline {paragraph}{个体与集体的性质差异}{126}{paragraph*.50}%
-\contentsline {paragraph}{两种谬误形式的区别}{126}{paragraph*.51}%
+\contentsline {paragraph}{性质的转移问题}{126}{paragraph*.48}%
+\contentsline {paragraph}{个体与集体的性质差异}{126}{paragraph*.49}%
+\contentsline {paragraph}{两种谬误形式的区别}{126}{paragraph*.50}%
 \contentsline {subsection}{\numberline {4.4.5}A5．分解}{127}{subsection.4.4.5}%
-\contentsline {paragraph}{从整体到部分的错误推理}{127}{paragraph*.52}%
-\contentsline {paragraph}{有效推理与分解谬误的区别}{127}{paragraph*.53}%
-\contentsline {paragraph}{R1．诉诸无知论证}{128}{paragraph*.54}%
-\contentsline {paragraph}{R2．诉诸不当权威}{128}{paragraph*.55}%
-\contentsline {paragraph}{R3．人身攻击论证}{128}{paragraph*.56}%
-\contentsline {paragraph}{R4．诉诸情感}{128}{paragraph*.57}%
-\contentsline {paragraph}{R5．诉诸同情}{128}{paragraph*.58}%
-\contentsline {paragraph}{R6．诉诸武力}{128}{paragraph*.59}%
-\contentsline {paragraph}{R7．不相干结论}{128}{paragraph*.60}%
-\contentsline {paragraph}{P1．复杂问语}{128}{paragraph*.61}%
-\contentsline {paragraph}{P2．虚假原因}{128}{paragraph*.62}%
-\contentsline {paragraph}{P3．乞题}{129}{paragraph*.63}%
-\contentsline {paragraph}{P4．偶然}{129}{paragraph*.64}%
-\contentsline {paragraph}{P5．逆偶然}{129}{paragraph*.65}%
-\contentsline {paragraph}{A1．歧义}{129}{paragraph*.66}%
-\contentsline {paragraph}{A2．双关}{129}{paragraph*.67}%
-\contentsline {paragraph}{A3．重读}{129}{paragraph*.68}%
-\contentsline {paragraph}{A4．合成}{129}{paragraph*.69}%
-\contentsline {paragraph}{A5．分解}{129}{paragraph*.70}%
+\contentsline {paragraph}{从整体到部分的错误推理}{127}{paragraph*.51}%
+\contentsline {paragraph}{有效推理与分解谬误的区别}{127}{paragraph*.52}%
+\contentsline {paragraph}{R1．诉诸无知论证}{128}{paragraph*.53}%
+\contentsline {paragraph}{R2．诉诸不当权威}{128}{paragraph*.54}%
+\contentsline {paragraph}{R3．人身攻击论证}{128}{paragraph*.55}%
+\contentsline {paragraph}{R4．诉诸情感}{128}{paragraph*.56}%
+\contentsline {paragraph}{R5．诉诸同情}{128}{paragraph*.57}%
+\contentsline {paragraph}{R6．诉诸武力}{128}{paragraph*.58}%
+\contentsline {paragraph}{R7．不相干结论}{128}{paragraph*.59}%
+\contentsline {paragraph}{P1．复杂问语}{128}{paragraph*.60}%
+\contentsline {paragraph}{P2．虚假原因}{128}{paragraph*.61}%
+\contentsline {paragraph}{P3．乞题}{129}{paragraph*.62}%
+\contentsline {paragraph}{P4．偶然}{129}{paragraph*.63}%
+\contentsline {paragraph}{P5．逆偶然}{129}{paragraph*.64}%
+\contentsline {paragraph}{A1．歧义}{129}{paragraph*.65}%
+\contentsline {paragraph}{A2．双关}{129}{paragraph*.66}%
+\contentsline {paragraph}{A3．重读}{129}{paragraph*.67}%
+\contentsline {paragraph}{A4．合成}{129}{paragraph*.68}%
+\contentsline {paragraph}{A5．分解}{129}{paragraph*.69}%
 \contentsline {chapter}{\numberline {5}演绎推理}{137}{chapter.5}%
 \contentsline {section}{\numberline {5.1}演绎理论}{137}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}演绎论证的本质}{137}{subsection.5.1.1}%
@@ -229,10 +229,10 @@
 \contentsline {subsection}{\numberline {5.2.1}直言命题的基本概念}{138}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5.2.2}类之间的关系}{138}{subsection.5.2.2}%
 \contentsline {subsection}{\numberline {5.2.3}直言命题的四种标准形式}{139}{subsection.5.2.3}%
-\contentsline {paragraph}{全称肯定命题}{139}{paragraph*.71}%
-\contentsline {paragraph}{全称否定命题}{139}{paragraph*.72}%
-\contentsline {paragraph}{特称肯定命题}{139}{paragraph*.73}%
-\contentsline {paragraph}{特称否定命题}{140}{paragraph*.74}%
+\contentsline {paragraph}{全称肯定命题}{139}{paragraph*.70}%
+\contentsline {paragraph}{全称否定命题}{139}{paragraph*.71}%
+\contentsline {paragraph}{特称肯定命题}{139}{paragraph*.72}%
+\contentsline {paragraph}{特称否定命题}{140}{paragraph*.73}%
 \contentsline {subsection}{\numberline {5.2.4}标准式直言命题的多样性}{140}{subsection.5.2.4}%
 \contentsline {subsection}{\numberline {5.2.5}直言命题的传统符号}{140}{subsection.5.2.5}%
 \contentsline {section}{\numberline {5.3}质、量与周延性}{141}{section.5.3}%
@@ -241,10 +241,10 @@
 \contentsline {subsection}{\numberline {5.3.3}标准式直言命题的一般模式}{142}{subsection.5.3.3}%
 \contentsline {subsection}{\numberline {5.3.4}周延性}{142}{subsection.5.3.4}%
 \contentsline {subsection}{\numberline {5.3.5}各类命题的周延性分析}{143}{subsection.5.3.5}%
-\contentsline {subsubsection}{A命题的周延性}{143}{subsubsection*.75}%
-\contentsline {subsubsection}{E命题的周延性}{143}{subsubsection*.76}%
-\contentsline {subsubsection}{I命题的周延性}{143}{subsubsection*.77}%
-\contentsline {subsubsection}{O命题的周延性}{143}{subsubsection*.78}%
+\contentsline {subsubsection}{A命题的周延性}{143}{subsubsection*.74}%
+\contentsline {subsubsection}{E命题的周延性}{143}{subsubsection*.75}%
+\contentsline {subsubsection}{I命题的周延性}{143}{subsubsection*.76}%
+\contentsline {subsubsection}{O命题的周延性}{143}{subsubsection*.77}%
 \contentsline {subsection}{\numberline {5.3.6}周延性总结}{144}{subsection.5.3.6}%
 \contentsline {section}{\numberline {5.4}传统对当方阵}{144}{section.5.4}%
 \contentsline {subsection}{\numberline {5.4.1}矛盾关系（Contradictories）}{145}{subsection.5.4.1}%
@@ -322,9 +322,9 @@
 \contentsline {subsection}{\numberline {7.7.2}假言三段论（Hypothetical Syllogisms）}{226}{subsection.7.7.2}%
 \contentsline {section}{\numberline {7.8}二难推论（The Dilemma）}{228}{section.7.8}%
 \contentsline {subsection}{\numberline {7.8.1}避开二难推论的方法}{229}{subsection.7.8.1}%
-\contentsline {subsubsection}{绕过死角法}{229}{subsubsection*.79}%
-\contentsline {subsubsection}{直击一角法}{230}{subsubsection*.80}%
-\contentsline {subsubsection}{构造反二难法}{230}{subsubsection*.81}%
+\contentsline {subsubsection}{绕过死角法}{229}{subsubsection*.78}%
+\contentsline {subsubsection}{直击一角法}{230}{subsubsection*.79}%
+\contentsline {subsubsection}{构造反二难法}{230}{subsubsection*.80}%
 \contentsline {subsection}{\numberline {7.8.2}普罗塔哥拉与欧提勒士的二难困境}{231}{subsection.7.8.2}%
 \contentsline {chapter}{\numberline {8}现代符号逻辑}{241}{chapter.8}%
 \contentsline {section}{\numberline {8.1}现代逻辑的符号语言}{241}{section.8.1}%
@@ -338,9 +338,9 @@
 \contentsline {subsection}{\numberline {8.4.1}运用逻辑类推进行反驳}{257}{subsection.8.4.1}%
 \contentsline {subsection}{\numberline {8.4.2}根据真值表检验论证}{259}{subsection.8.4.2}%
 \contentsline {subsection}{\numberline {8.4.3}一些常见的有效论证形式}{260}{subsection.8.4.3}%
-\contentsline {subsubsection}{析取三段论}{260}{subsubsection*.82}%
-\contentsline {subsubsection}{肯定前件式}{261}{subsubsection*.83}%
-\contentsline {subsubsection}{否定后件式}{262}{subsubsection*.84}%
+\contentsline {subsubsection}{析取三段论}{260}{subsubsection*.81}%
+\contentsline {subsubsection}{肯定前件式}{261}{subsubsection*.82}%
+\contentsline {subsubsection}{否定后件式}{262}{subsubsection*.83}%
 \contentsline {section}{\numberline {8.5}陈述形式与实质等值}{265}{section.8.5}%
 \contentsline {subsection}{\numberline {8.5.1}陈述形式与陈述}{265}{subsection.8.5.1}%
 \contentsline {subsection}{\numberline {8.5.2}重言的、矛盾的和偶真的陈述形式}{266}{subsection.8.5.2}%
@@ -392,10 +392,10 @@
 \contentsline {subsection}{\numberline {10.4.3}存在量化规则}{314}{subsection.10.4.3}%
 \contentsline {subsection}{\numberline {10.4.4}使用限制}{315}{subsection.10.4.4}%
 \contentsline {subsection}{\numberline {10.4.5}四个附加推论规则总结}{316}{subsection.10.4.5}%
-\contentsline {paragraph}{1．全称列举}{316}{paragraph*.85}%
-\contentsline {paragraph}{2．全称概括}{316}{paragraph*.86}%
-\contentsline {paragraph}{3．存在列举}{316}{paragraph*.87}%
-\contentsline {paragraph}{4．存在概括}{317}{paragraph*.88}%
+\contentsline {paragraph}{1．全称列举}{316}{paragraph*.84}%
+\contentsline {paragraph}{2．全称概括}{316}{paragraph*.85}%
+\contentsline {paragraph}{3．存在列举}{316}{paragraph*.86}%
+\contentsline {paragraph}{4．存在概括}{317}{paragraph*.87}%
 \contentsline {section}{\numberline {10.5}无效性证明}{317}{section.10.5}%
 \contentsline {subsection}{\numberline {10.5.1}逻辑类比的局限性}{318}{subsection.10.5.1}%
 \contentsline {subsection}{\numberline {10.5.2}真值指派方法的扩展}{318}{subsection.10.5.2}%
