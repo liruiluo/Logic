@@ -1,19 +1,98 @@
 \subsection{A5．分解}
 
 \begin{theorembox}[title=分解谬误的定义]
-\logicwarn{分解谬误}是\logicwarn{合成谬误}的简单颠倒；在\logicwarn{分解谬误}中，存在相同的混淆，但推论是以相反方向进行的。与合成的情形相应，我们也可以区分出两种\logicwarn{分解谬误}。第一种\logicwarn{分解谬误}断言对一个整体为\logicemph{真}的东西一定对它的部分也\logicemph{真}。因为某公司非常重要，并且某先生是那个公司的官员，因此某先生就是非常重要的，这个论证就犯了\logicwarn{分解谬误}。同样，从某机器沉重、复杂或者贵重这个前提而得出该机器的任何部分都一定沉重、复杂或者贵重，这个结论也属于\logicwarn{分解谬误}。一个学生一定住着一个大房间，因为该房间位于一座大楼中，这也是这种\logicwarn{分解谬误}的实例。
+\logicterm{分解谬误}：是合成谬误的简单颠倒；在分解谬误中，存在相同的混淆，但推论是以相反方向进行的。
+
+\logicwarn{两种分解谬误}：与合成的情形相应，我们也可以区分出两种分解谬误。
+
+\logicemph{第一种分解谬误}：断言对一个整体为真的东西一定对它的部分也真。
+
+\logicwarn{公司官员的例子}：
+\begin{itemize}
+  \item \logicemph{前提}：某公司非常重要，并且某先生是那个公司的官员
+  \item \logicwarn{错误结论}：因此某先生就是非常重要的
+  \item \logicemph{谬误分析}：这个论证就犯了分解谬误
+\end{itemize}
+
+\logicwarn{机器部件的例子}：从某机器沉重、复杂或者贵重这个前提而得出该机器的任何部分都一定沉重、复杂或者贵重，这个结论也属于分解谬误。
+
+\logicemph{房间大小的例子}：一个学生一定住着一个大房间，因为该房间位于一座大楼中，这也是这种分解谬误的实例。
+
+\logicwarn{核心错误}：
+\begin{itemize}
+  \item 错误地假设整体的性质必然属于部分
+  \item 忽略了整体与部分之间的质的差异
+  \item 混淆了不同层次的属性归属
+  \item 违反了系统论的基本原理
+\end{itemize}
 \end{theorembox}
 
 \paragraph{从整体到部分的错误推理}
 \begin{examplebox}[title=从整体到部分的错误推理]
-第二种\logicwarn{分解谬误}是从元素的汇集性质而得出元素自身的性质。因为大学生学习医学、法律、工程、牙科和建筑学，所以任何大学生都学习医学、法律、工程、牙科和建筑学，这个论证就犯了这种\logicwarn{分解谬误}。汇集地看，大学生学习所有这些科目是\logicemph{真的}，但分布地看，大学生学习所有这些科目却是\logicwarn{假的}。这种\logicwarn{分解谬误}的例子常常看起来好像是\logicemph{有效}论证，因为对一个类分布地为\logicemph{真}的东西，肯定对其每一成员也是\logicemph{真的}。例如如下论证：
+\logicwarn{第二种分解谬误}：是从元素的汇集性质而得出元素自身的性质。
+
+\logicemph{大学生专业的例子}：
+\begin{itemize}
+  \item \logicwarn{前提}：大学生学习医学、法律、工程、牙科和建筑学
+  \item \logicwarn{错误结论}：所以任何大学生都学习医学、法律、工程、牙科和建筑学
+  \item \logicemph{谬误分析}：这个论证就犯了这种分解谬误
+\end{itemize}
+
+\logicwarn{汇集与分布的区别}：
+\begin{itemize}
+  \item \logicemph{汇集地看}：大学生学习所有这些科目是真的
+  \item \logicwarn{分布地看}：大学生学习所有这些科目却是假的
+\end{itemize}
+
+\logicemph{谬误的欺骗性}：这种分解谬误的例子常常看起来好像是有效论证，因为对一个类分布地为真的东西，肯定对其每一成员也是真的。
+
+\logicwarn{概念澄清}：
+\begin{itemize}
+  \item \logicterm{汇集性质}：整个群体作为一个整体所具有的性质
+  \item \logicterm{分布性质}：群体中每个成员都具有的性质
+  \item \logicterm{集合谬误}：将汇集性质错误地归属于个体成员
+  \item \logicterm{量词混淆}：混淆"所有"与"每个"的不同含义
+\end{itemize}
 \end{examplebox}
 
 \paragraph{有效推理与分解谬误的区别}
 \begin{examplebox}[title=有效推理与分解谬误的区别]
+\logicemph{有效推理的例子}：
+
+\begin{quote}
 狗是肉食的。
 
 阿富汗猎犬都是狗。
 
 因此，阿富汗猎犬都是肉食的。
+\end{quote}
+
+\logicwarn{有效性分析}：这个论证是有效的，因为：
+\begin{itemize}
+  \item "狗是肉食的"是一个分布性陈述，适用于所有狗
+  \item 阿富汗猎犬属于狗这个类别
+  \item 因此可以正确地推出阿富汗猎犬具有狗的分布性质
+\end{itemize}
+
+\logicemph{区别关键}：
+\begin{itemize}
+  \item \logicterm{有效推理}：从类的分布性质推向成员的性质
+  \item \logicwarn{分解谬误}：从类的汇集性质推向成员的性质
+\end{itemize}
+
+\logicwarn{判断标准}：
+\begin{itemize}
+  \item 检查前提中的性质是分布性的还是汇集性的
+  \item 分析该性质是否可以合理地归属于个体成员
+  \item 考虑整体与部分之间的逻辑关系
+  \item 避免混淆不同层次的属性归属
+\end{itemize}
+
+\logicemph{实践指导}：
+\begin{itemize}
+  \item 明确区分集体属性和个体属性
+  \item 注意量词的准确使用
+  \item 分析属性的可传递性
+  \item 考虑系统的层次结构
+\end{itemize}
 \end{examplebox}

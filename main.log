@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  30 MAY 2025 11:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  30 MAY 2025 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2731,80 +2731,74 @@ Underfull \vbox (badness 1303) has occurred while \output is active []
 
 [144]) (./chapter4/4-2-R2 诉诸不当权威.tex
 
-[145]) (./chapter4/4-2-R3 人身攻击论证.tex
+[145]
+Underfull \vbox (badness 6741) has occurred while \output is active []
 
-[146]
+
+
+[146]) (./chapter4/4-2-R3 人身攻击论证.tex
+Underfull \vbox (badness 4467) has occurred while \output is active []
+
+
 
 [147]
 
-[148]) (./chapter4/4-2-R4 诉诸情感.tex
+[148]
 
-[149]
-
-[150]) (./chapter4/4-2-R5 诉诸同情.tex
-Underfull \vbox (badness 1122) has occurred while \output is active []
-
-
-
-[151]) (./chapter4/4-2-R6 诉诸暴力.tex
-
-[152]) (./chapter4/4-2-R7 不相干结论.tex) (./chapter4/4-3 预设谬误.tex
-
-[153]) (./chapter4/4-3-P1 复杂问语.tex
-
-[154]) (./chapter4/4-3-P2 虚假原因.tex
-
-[155]) (./chapter4/4-3-P3 乞题.tex
+[149]) (./chapter4/4-2-R4 诉诸情感.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[156]
+[150]
 
-[157]) (./chapter4/4-3-P4-P5 偶然与逆偶然.tex
+[151]) (./chapter4/4-2-R5 诉诸同情.tex
 
-[158]) (./chapter4/4-4 含混谬误.tex
+[152]) (./chapter4/4-2-R6 诉诸暴力.tex
 
-[159]) (./chapter4/4-4-A1 歧义谬误.tex
+[153]) (./chapter4/4-2-R7 不相干结论.tex
 
-[160]) (./chapter4/4-4-A2 双关谬误.tex
-Underfull \vbox (badness 2229) has occurred while \output is active []
+[154]) (./chapter4/4-3 预设谬误.tex
 
+[155]) (./chapter4/4-3-P1 复杂问语.tex
 
+[156]) (./chapter4/4-3-P2 虚假原因.tex
 
-[161]) (./chapter4/4-4-A3 重读谬误.tex
+[157]) (./chapter4/4-3-P3 乞题.tex
 
-[162]) (./chapter4/4-4-A4 合成谬误.tex
+[158]
 
-[163]) (./chapter4/4-4-A5 分解谬误.tex
+[159]) (./chapter4/4-3-P4-P5 偶然与逆偶然.tex
 
-[164]) (./chapter4/summary.tex
+[160]) (./chapter4/4-4 含混谬误.tex
 
-[165]
+[161]) (./chapter4/4-4-A1 歧义谬误.tex
 
-[166])
+[162]
 
-[167]
+[163]) (./chapter4/4-4-A2 双关谬误.tex) (./chapter4/4-4-A3 重读谬误.tex
 
-[168
+[164]
 
-]
+[165]) (./chapter4/4-4-A4 合成谬误.tex
+
+[166]) (./chapter4/4-4-A5 分解谬误.tex
+
+[167]) (./chapter4/summary.tex
+
+[168]
+
+[169])
+
+[170]
 Chapter 5.
 (./chapter5/5-1 演绎理论.tex
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
 
-Underfull \vbox (badness 1286) has occurred while \output is active []
+[171
 
+]) (./chapter5/5-2 直言命题及其类别.tex
 
-
-[169]) (./chapter5/5-2 直言命题及其类别.tex
+[172]
 
 LaTeX Font Warning: Font shape `TU/TeXGyreTermesMath(1)/b/n' undefined
 (Font)              using `TU/TeXGyreTermesMath(1)/m/n' instead on input line 1
@@ -2838,62 +2832,62 @@ LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/b/n' will be
 (Font)              scaled to size 11.99872pt on input line 19.
 
 
-[170]
-
-[171]
-
-[172]) (./chapter5/5-3 质、量与周延性.tex
-
 [173]
 
-[174]
+[174]) (./chapter5/5-3 质、量与周延性.tex
 
 [175]
-File: images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg Graphic file (type bmp)
-<images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg>
-) (./chapter5/5-4 传统对当方阵.tex
 
 [176]
 
 [177]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg>
 
-[178]
-File: images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg Graphic file (type bmp)
-<images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg>
 
-Underfull \vbox (badness 4621) has occurred while \output is active []
+[178]) (./chapter5/5-4 传统对当方阵.tex
+Underfull \vbox (badness 1675) has occurred while \output is active []
 
 
 
 [179]
 
-[180]) (./chapter5/5-5 其他直接推论.tex
+[180]
 
 [181]
+File: images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg>
 
-[182]
+
+[182]) (./chapter5/5-5 其他直接推论.tex
 
 [183]
 
 [184]
 
 [185]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [186]
+
+[187]
+
+[188]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[187]) (./chapter5/5-6 存在含义与直言命题的解释.tex
-
-[188]
-
 [189]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[190]
+
+
+[190]) (./chapter5/5-6 存在含义与直言命题的解释.tex
+
+[191]
+
+[192]
+
+[193]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
@@ -2901,9 +2895,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[191]) (./chapter5/5-7 直言命题的符号系统与图解.tex
+[194]) (./chapter5/5-7 直言命题的符号系统与图解.tex
 
-[192]
+[195]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg>
@@ -2912,7 +2906,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[193]
+[196]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg>
 
@@ -2920,7 +2914,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[194]
+[197]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg>
@@ -2929,18 +2923,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[195]
+[198]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg>
 
 
-[196]
+[199]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg>
 
 
-[197]
+[200]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg>
@@ -2949,7 +2943,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[198]
+[201]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg>
 
@@ -2957,7 +2951,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[199]
+[202]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 15.60004pt on input line 115.
 
@@ -2965,25 +2959,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[200]) (./chapter5/summary.tex
+[203]) (./chapter5/summary.tex
 
-[201])
-
-[202]
-Chapter 6.
-(./chapter6/6-1 标准式直言三段论.tex
-
-[203
-
-]
-
-[204]) (./chapter6/6-2 三段论论证的形式性质.tex
+[204])
 
 [205]
 
-[206]
+[206
 
-[207]) (./chapter6/6-3 检验三段论：文恩图解法.tex
+]
+Chapter 6.
+(./chapter6/6-1 标准式直言三段论.tex
+
+[207]
+
+[208]) (./chapter6/6-2 三段论论证的形式性质.tex
+
+[209]
+
+[210]
+
+[211]) (./chapter6/6-3 检验三段论：文恩图解法.tex
 File: images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg>
 
@@ -2991,9 +2987,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[208]
+[212]
 
-[209]
+[213]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg>
@@ -3005,7 +3001,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[210]
+[214]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg>
 
@@ -3013,19 +3009,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[211]
+[215]
 
-[212]
+[216]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg>
 
 
-[213]
+[217]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg>
 
 
-[214]
+[218]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg>
 File: images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg Graphic file (type bmp
@@ -3036,19 +3032,19 @@ Underfull \vbox (badness 6559) has occurred while \output is active []
 
 
 
-[215]
-
-[216]) (./chapter6/6-4 三段论规则和三段论谬误.tex
-
-[217]
-
-[218]
-
 [219]
 
-[220]
+[220]) (./chapter6/6-4 三段论规则和三段论谬误.tex
 
-[221]) (./chapter6/6-5 直言三段论的15个有效形式.tex
+[221]
+
+[222]
+
+[223]
+
+[224]
+
+[225]) (./chapter6/6-5 直言三段论的15个有效形式.tex
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 7.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
@@ -3060,7 +3056,7 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[222]
+[226]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg>
 File: images/2025_05_15_6a28331d5e7c993ad07ag-288(1).jpg Graphic file (type bmp
@@ -3071,11 +3067,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[223]
+[227]
 
-[224]
+[228]
 
-[225]
+[229]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 78.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
@@ -3087,7 +3083,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[226]) (./chapter6/6-6 直言三段论15个有效形式的演绎推导.tex
+[230]) (./chapter6/6-6 直言三段论15个有效形式的演绎推导.tex
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 15.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/m/n' will be
@@ -3111,7 +3107,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[227]
+[231]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 20.
@@ -3126,7 +3122,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[228]
+[232]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 34.
@@ -3141,119 +3137,108 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-[229]
+[233]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;+ssty=0;!
 ) (./chapter6/summary.tex
 
-[230]
+[234]
 
-[231])
+[235])
 
-[232]
+[236]
 Chapter 7.
 (./chapter7/7-1 日常语言中的三段论论证.tex
 Underfull \vbox (badness 7486) has occurred while \output is active []
 
 
 
-[233
+[237
 
 ]) (./chapter7/7-2 三段论词项数量的归约.tex
 
-[234]
+[238]
 
-[235]
+[239]
 
-[236]) (./chapter7/7-3 直言命题的标准化.tex
+[240]) (./chapter7/7-3 直言命题的标准化.tex
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
 
-[237]
+[241]
 
-[238]
+[242]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg>
 
 
-[239]
-
-[240]
-
-[241]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[242]) (./chapter7/7-4 协同翻译.tex
-
 [243]
 
-[244]) (./chapter7/7-5 省略三段论（Enthymemes）.tex
+[244]
+
+[245]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[245]
+[246]) (./chapter7/7-4 协同翻译.tex
 
-[246]
+[247]
 
-[247]) (./chapter7/7-6 连锁三段论（Sorites）.tex
+[248]) (./chapter7/7-5 省略三段论（Enthymemes）.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[248]
+
 
 [249]
 
-[250]) (./chapter7/7-7 析取三段论和假言三段论.tex
+[250]
 
-[251]
+[251]) (./chapter7/7-6 连锁三段论（Sorites）.tex
 
 [252]
-Underfull \vbox (badness 3449) has occurred while \output is active []
 
+[253]
 
-
-[253]) (./chapter7/7-8 二难推论（The Dilemma）.tex
-
-[254]
+[254]) (./chapter7/7-7 析取三段论和假言三段论.tex
 
 [255]
 
 [256]
+Underfull \vbox (badness 3449) has occurred while \output is active []
 
-[257]) (./chapter7/summary.tex
 
-[258])
+
+[257]) (./chapter7/7-8 二难推论（The Dilemma）.tex
+
+[258]
 
 [259]
 
-[260
+[260]
+
+[261]) (./chapter7/summary.tex
+
+[262])
+
+[263]
+
+[264
 
 ]
 Chapter 8.
 (./chapter8/8-1 现代逻辑的符号语言.tex
 
-[261]) (./chapter8/8-2 合取、否定和析取符号.tex
-
-[262]
-
-[263]
-
-[264]
-
-[265]
+[265]) (./chapter8/8-2 合取、否定和析取符号.tex
 
 [266]
 
 [267]
 
 [268]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[269]) (./chapter8/8-3 条件陈述与实质蕴涵.tex
+[269]
 
 [270]
 
@@ -3264,36 +3249,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[273]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
+[273]) (./chapter8/8-3 条件陈述与实质蕴涵.tex
 
 [274]
 
-[275]) (./chapter8/8-4 论证形式与论证.tex
+[275]
 
 [276]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [277]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
 
 [278]
 
-[279]
+[279]) (./chapter8/8-4 论证形式与论证.tex
+
+[280]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
+
+[281]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
+
+[282]
+
+[283]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
@@ -3301,44 +3297,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[280]
-
-[281]
-
-[282]
-
-[283]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[284]) (./chapter8/8-5 陈述形式与实质等值.tex
+[284]
 
 [285]
 
 [286]
 
 [287]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[288]) (./chapter8/8-6 逻辑等价.tex
+
+
+[288]) (./chapter8/8-5 陈述形式与实质等值.tex
 
 [289]
 
 [290]
 
 [291]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[292]) (./chapter8/8-7 实质蕴涵怪论.tex
+[292]) (./chapter8/8-6 逻辑等价.tex
 
 [293]
+
+[294]
+
+[295]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[294]) (./chapter8/8-8 三大思想法则.tex
+[296]) (./chapter8/8-7 实质蕴涵怪论.tex
+
+[297]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[298]) (./chapter8/8-8 三大思想法则.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
@@ -3350,52 +3346,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
 
 
-[295]
+[299]
 
-[296])
+[300])
 
-[297]
+[301]
 
-[298
+[302
 
 ]
 Chapter 9.
 (./chapter9/9-1 有效性的形式证明.tex
 
-[299]
+[303]
 Underfull \vbox (badness 3108) has occurred while \output is active []
 
 
 
-[300]
-
-[301]) (./chapter9/9-2 替换规则.tex
-
-[302]
-
-[303]
-
 [304]
 
-[305]
+[305]) (./chapter9/9-2 替换规则.tex
 
 [306]
 
-[307]) (./chapter9/9-3 无效性的证明.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[307]
 
 [308]
 
 [309]
+
+[310]
+
+[311]) (./chapter9/9-3 无效性的证明.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-
-[310]) (./chapter9/9-4 不相容性.tex
-
-[311]
 
 [312]
 
@@ -3404,11 +3389,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[314])
+[314]) (./chapter9/9-4 不相容性.tex
 
 [315]
 
-[316
+[316]
+
+[317]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[318])
+
+[319]
+
+[320
 
 ]
 Chapter 10.
@@ -3417,7 +3413,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[317]
+[321]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3440,7 +3436,7 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[318]
+[322]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3450,18 +3446,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[319]) (./chapter10/10-2 量化.tex
+[323]) (./chapter10/10-2 量化.tex
 
-[320]
+[324]
 
-[321]
+[325]
 
-[322]
+[326]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg>
 
 
-[323]
+[327]
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
@@ -3477,7 +3473,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[324]
+[328]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3486,7 +3482,7 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[325]
+[329]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3501,7 +3497,7 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[326]
+[330]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg>
 
@@ -3509,7 +3505,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[327]
+[331]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3526,9 +3522,9 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[328]
+[332]
 
-[329]
+[333]
 Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
@@ -3544,36 +3540,36 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[330]) (./chapter10/10-4 有效性证明.tex
+[334]) (./chapter10/10-4 有效性证明.tex
 
-[331]
+[335]
 
-[332]
+[336]
 Underfull \vbox (badness 1038) has occurred while \output is active []
 
 
 
-[333]
+[337]
 Underfull \hbox (badness 10000) in paragraph at lines 118--121
 
  []
 
 
 
-[334]
+[338]
 
-[335]
+[339]
 
-[336]
+[340]
 
-[337]
+[341]
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 ) (./chapter10/10-5 无效性证明.tex
 
-[338]
+[342]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3582,9 +3578,9 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[339]
+[343]
 
-[340]
+[344]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3597,7 +3593,7 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[341]
+[345]
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
@@ -3615,7 +3611,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[342]
+[346]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3626,11 +3622,11 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 
 
-[343]
+[347]
 
-[344]
+[348]
 
-[345]
+[349]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3646,11 +3642,11 @@ Underfull \vbox (badness 1571) has occurred while \output is active []
 
 
 
-[346])
+[350])
 
-[347]
+[351]
 
-[348
+[352
 
 ]
 Chapter 11.
@@ -3659,206 +3655,206 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[349]
-
-[350]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[351]) (./chapter11/11-2 类比论证的评价.tex
-
-[352]
-
 [353]
 
 [354]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
 
-[355]) (./chapter11/11-3 通过逻辑类推进行的反驳.tex
+
+[355]) (./chapter11/11-2 类比论证的评价.tex
 
 [356]
 
 [357]
 
-[358])
+[358]
 
-[359]
+[359]) (./chapter11/11-3 通过逻辑类推进行的反驳.tex
 
-[360
+[360]
+
+[361]
+
+[362])
+
+[363]
+
+[364
 
 ]
 Chapter 12.
 (./chapter12/12-1 因果连接：基本概念.tex
 
-[361]
-
-[362]
-
-[363]
-
-[364]
-
-[365]) (./chapter12/12-2 密尔方法.tex
+[365]
 
 [366]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
 
 [367]
 
 [368]
 
-[369]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
+[369]) (./chapter12/12-2 密尔方法.tex
 
 [370]
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
 
 [371]
 
 [372]
 
 [373]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
 
 
-
-[374]) (./chapter12/12-3 对密尔方法的批评.tex
+[374]
 
 [375]
 
 [376]
+
+[377]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[377])
+[378]) (./chapter12/12-3 对密尔方法的批评.tex
 
-[378]
+[379]
+
+[380]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[381])
+
+[382]
 Chapter 13.
 (./chapter13/13-1 科学的价值.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[379
+[383
 
 ]) (./chapter13/13-2 说明：科学的和非科学的.tex
 
-[380]
-
-[381]) (./chapter13/13-3 对科学说明的评价.tex
-
-[382]
-
-[383]
-
 [384]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[385]) (./chapter13/13-4 科学研究的七个阶段.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[385]) (./chapter13/13-3 对科学说明的评价.tex
 
 [386]
 
 [387]
 
 [388]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[389]) (./chapter13/13-5 实际工作中的科学家：科学研究的模式.tex
+
+
+[389]) (./chapter13/13-4 科学研究的七个阶段.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [390]
 
 [391]
 
 [392]
+
+[393]) (./chapter13/13-5 实际工作中的科学家：科学研究的模式.tex
+
+[394]
+
+[395]
+
+[396]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
 
-[393]
+[397]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg>
 
@@ -3866,25 +3862,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[394]
+[398]
 Overfull \vbox (579.7468pt too high) has occurred while \output is active []
 
 
 
-[395]
+[399]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[396]) (./chapter13/13-6 判决性实验和特设性假说.tex
-
-[397]
-
-[398]
-
-[399]
-
-[400]) (./chapter13/13-7 作为假说的分类.tex
+[400]) (./chapter13/13-6 判决性实验和特设性假说.tex
 
 [401]
 
@@ -3892,36 +3880,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [403]
 
-[404]
+[404]) (./chapter13/13-7 作为假说的分类.tex
+
+[405]
+
+[406]
+
+[407]
+
+[408]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[405])
+[409])
 
-[406]
+[410]
 Chapter 14.
 (./chapter14/14-1 概率与归纳逻辑.tex
 
-[407
+[411
 
 ]
 
-[408]
-
-[409]) (./chapter14/14-2 概率计算.tex
-
-[410]
-
-[411]) (./chapter14/14-3 共同发生的概率.tex
-
 [412]
 
-[413]
+[413]) (./chapter14/14-2 概率计算.tex
 
 [414]
 
-[415]
+[415]) (./chapter14/14-3 共同发生的概率.tex
+
+[416]
+
+[417]
+
+[418]
+
+[419]
 
 Package fontspec Info: 
 (fontspec)             Could not resolve font "Source Han Sans SC/I" (it
@@ -3947,47 +3943,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[416]) (./chapter14/14-4 替代性发生的概率.tex
+[420]) (./chapter14/14-4 替代性发生的概率.tex
 Underfull \vbox (badness 7099) has occurred while \output is active []
 
 
 
-[417]
-
-[418]
-
-[419]
-
-[420]
-
-[421]) (./chapter14/14-5 期望值.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[421]
 
 [422]
 
 [423]
 
-[424]) (./chapter14/summary.tex
+[424]
 
-[425]
+[425]) (./chapter14/14-5 期望值.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[426]) (./chapter14/notes.tex
+[426]
 
-[427])
+[427]
 
-[428]
+[428]) (./chapter14/summary.tex
 
-[429
+[429]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[430]) (./chapter14/notes.tex
+
+[431])
+
+[432]
+
+[433
 
 
 ]
 
-[430
+[434
 
 ]
 
@@ -4140,7 +4136,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[431]
+[435]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4301,7 +4297,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[432]
+[436]
 
 Package biblatex Warning: Bibliography string 'and' untranslated
 (biblatex)                at entry 'whitehead1911' on input line 255.
@@ -4445,7 +4441,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[433]
+[437]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4579,7 +4575,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[434]
+[438]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4716,7 +4712,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[435]
+[439]
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -4817,7 +4813,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 
-[436] (./main.aux)
+[440] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -4839,7 +4835,7 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  CFB73A69099B11361671592FC5EF6463;66261.
+(rerunfilecheck)             After:  314197997CFEA332C0497937F81BF2DE;65241.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -4850,12 +4846,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51314 strings out of 473832
- 1153628 string characters out of 5729481
+ 51331 strings out of 473832
+ 1153917 string characters out of 5729481
  2132937 words of memory out of 5000000
- 73219 multiletter control sequences out of 15000+600000
+ 73236 multiletter control sequences out of 15000+600000
  568654 words of font info for 174 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,16n,120p,928b,5194s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (444 pages).
+Output written on main.pdf (448 pages).
