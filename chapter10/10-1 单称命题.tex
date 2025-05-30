@@ -4,7 +4,23 @@
 本节引入了\logicterm{单称命题}的概念及其符号化方法。通过分析命题的内在逻辑结构，我们将学习如何区分\logicterm{个体}与\logicterm{属性}，以及如何使用\logicterm{个体常元}和\logicterm{谓词符号}来表示各种类型的单称命题，从而为分析更复杂的论证奠定基础。
 \end{logicbox}
 
-前两章的逻辑技术使得我们可以对某种类型的\logicemph{有效}论证和\logicwarn{无效}论证进行区分。该类型的论证可以粗略地刻画为：其\logicemph{有效性}仅取决于简单陈述通过\logicterm{真值函项}结合成复合陈述的方式。然而，还有另外一些类型的论证，前两章的\logicemph{有效性}标准对它们不够用。一个明显\logicemph{有效的}不同类型论证的例子是：
+\subsection{命题逻辑的局限性与谓词逻辑的必要性}
+
+前两章的逻辑技术使得我们可以对某种类型的\logicemph{有效}论证和\logicwarn{无效}论证进行区分。该类型的论证可以粗略地刻画为：其\logicemph{有效性}仅取决于简单陈述通过\logicterm{真值函项}结合成复合陈述的方式。
+
+\begin{theorembox}[title=命题逻辑的适用范围与局限]
+命题逻辑具有以下特征和局限性：
+
+\textbf{1. 适用范围}：命题逻辑能够有效处理那些有效性完全依赖于逻辑联结词（合取、析取、条件、双条件、否定）的论证。
+
+\textbf{2. 分析单位}：命题逻辑将简单陈述视为不可分析的原子单位，不考虑其内部结构。
+
+\textbf{3. 主要局限}：对于那些有效性依赖于陈述内部结构的论证，命题逻辑无法提供充分的分析工具。
+
+\textbf{4. 历史意义}：这种局限性的发现推动了现代逻辑学向更精细的分析方向发展，催生了谓词逻辑的诞生。
+\end{theorembox}
+
+然而，还有另外一些类型的论证，前两章的\logicemph{有效性}标准对它们不够用。一个明显\logicemph{有效的}不同类型论证的例子是：
 
 \begin{examplebox}[title=经典三段论实例]
 所有人都是有死的。
@@ -15,11 +31,37 @@
 \end{examplebox}
 
 如果把前面介绍的评估方法运用到这个论证上，我们可以将之符号化为：
-A
-H
-$\therefore M$
+$$
+\begin{aligned}
+& A \\
+& H \\
+& \therefore M
+\end{aligned}
+$$
 
-在这种符号式中，该论证显然\logicwarn{无效}。因此，到目前为止所介绍的符号逻辑技术不能直接运用到这种新型论证上。该论证的\logicemph{有效性}并不取决于简单陈述的复合方式，因为在该论证中没有出现任何复合陈述。毋宁说它的\logicemph{有效性}取决于所涉及非复合陈述的内在逻辑结构。要阐明检验这种新型论证\logicemph{有效性}的方法，就必须依据它们的内在逻辑结构，设计出一些描述和符号化非复合陈述的技术。
+在这种符号式中，该论证显然\logicwarn{无效}。
+
+\begin{theorembox}[title=命题逻辑分析的失败与原因]
+这个例子清楚地展示了命题逻辑的根本局限性：
+
+\textbf{1. 分析失败}：到目前为止所介绍的符号逻辑技术不能直接运用到这种新型论证上。
+
+\textbf{2. 有效性来源}：该论证的\logicemph{有效性}并不取决于简单陈述的复合方式，因为在该论证中没有出现任何复合陈述。
+
+\textbf{3. 真正原因}：毋宁说它的\logicemph{有效性}取决于所涉及非复合陈述的内在逻辑结构。
+
+\textbf{4. 解决方案}：要阐明检验这种新型论证\logicemph{有效性}的方法，就必须依据它们的内在逻辑结构，设计出一些描述和符号化非复合陈述的技术。
+\end{theorembox}
+
+\begin{examplebox}[title=谓词逻辑的历史必然性]
+这种分析需求在逻辑学史上具有重要意义：
+
+\textbf{亚里士多德的贡献}：早在古希腊时期，亚里士多德就认识到了这类论证的重要性，并发展了三段论理论来处理它们。
+
+\textbf{现代发展}：19世纪末20世纪初，弗雷格、罗素等逻辑学家发展了现代谓词逻辑，为这类论证提供了更精确的分析工具。
+
+\textbf{理论意义}：这标志着逻辑学从关注陈述间关系转向关注陈述内部结构的重大转变。
+\end{examplebox}
 
 \subsection{单称命题的结构}
 
@@ -29,7 +71,37 @@ $\therefore M$
 
 显然，同一主项可以在不同的\logicterm{单称命题}中出现。因此，在下述每个命题中，我们都以词项"苏格拉底"做主项："苏格拉底是有死的"，"苏格拉底是胖的"，"苏格拉底是聪明的"和"苏格拉底是漂亮的"。当然，有些是\logicemph{真的}（第一和第三个），有些是\logicwarn{假的}（第二和第四个）。\cite{quine1953} 同一谓项显然也可以出现在不同的\logicterm{单称命题}中。因此在下述每个命题中，我们都以词项"人"做谓项："亚里士多德是人"，"巴西是人"，"芝加哥是人"和"奥基夫是人"。当然，有些是\logicemph{真的}（第一和第四个），有些是\logicwarn{假的}（第二和第三个）。
 
-从前所述，我们应该清楚语词"\logicterm{个体}"不仅用来指人，还可以指事物，譬如，国家、城市，实际上可以指谓像是人或有死的这样能被有意义地断言为其\logicterm{属性}的任何事物。前面所举的例子中，有些谓项是形容词。从日常语法的观点看，形容词与名词的区分是相当重要的。但在本章中这种区别并不重要，我们并不区分"苏格拉底是有死的"和"苏格拉底是有死者"，或"苏格拉底是聪明的"和"苏格拉底是一个聪明的人"。一个谓项可以是一个形容词或者是一个名词，甚或是一个动词。如在"亚里士多德写作"中，它有时可以被表述为"亚里士多德是一个写作者"。
+\begin{theorembox}[title=个体概念的哲学分析]
+从前所述，我们应该清楚语词"\logicterm{个体}"不仅用来指人，还可以指事物，譬如，国家、城市，实际上可以指谓像是人或有死的这样能被有意义地断言为其\logicterm{属性}的任何事物。
+
+\textbf{个体的本体论地位}：
+\begin{itemize}
+\item \textbf{具体个体}：如苏格拉底、这张桌子、巴黎等具有时空位置的实体
+\item \textbf{抽象个体}：如数字、概念、命题等不具有时空位置但可被指称的对象
+\item \textbf{虚构个体}：如哈姆雷特、独角兽等在现实中不存在但可被谈论的对象
+\end{itemize}
+
+\textbf{个体识别的标准}：
+\begin{itemize}
+\item \textbf{同一性原则}：每个个体都与自身同一，与其他个体不同
+\item \textbf{不可分辨者同一性}：具有完全相同属性的个体是同一个体
+\item \textbf{指称的唯一性}：每个个体常元在给定语境中指称唯一确定的个体
+\end{itemize}
+\end{theorembox}
+
+\begin{examplebox}[title=谓项的语法灵活性]
+前面所举的例子中，有些谓项是形容词。从日常语法的观点看，形容词与名词的区分是相当重要的。但在本章中这种区别并不重要，我们并不区分"苏格拉底是有死的"和"苏格拉底是有死者"，或"苏格拉底是聪明的"和"苏格拉底是一个聪明的人"。
+
+\textbf{谓项的多样表现形式}：
+\begin{itemize}
+\item \textbf{形容词形式}：有死的、聪明的、漂亮的
+\item \textbf{名词形式}：有死者、智者、美人
+\item \textbf{动词形式}：写作、思考、存在
+\item \textbf{介词短语}：在雅典、属于希腊、来自古代
+\end{itemize}
+
+一个谓项可以是一个形容词或者是一个名词，甚或是一个动词。如在"亚里士多德写作"中，它有时可以被表述为"亚里士多德是一个写作者"。这种语法灵活性表明，逻辑结构比表面语法更为根本。
+\end{examplebox}
 
 \subsection{单称命题的符号化}
 
@@ -37,35 +109,145 @@ $\therefore M$
 假定我们能区分开具有某\logicterm{属性}的\logicterm{个体}和它们所具有的\logicterm{属性}，我们引进并使用两种不同的符号来指称它们。在随后的讨论中，我们将用从 $a$ 到 $w$的小写字母来指谓\logicterm{个体}。这些符号是\logicterm{个体常元}。在它们出现的任何特定上下文，每个在该整个上下文中都指称一个特定的\logicterm{个体}。用它（他，或她）的名称的第一个字母指称一个\logicterm{个体}，通常是很方便的。因此在当前的上下文中，我们应分别用字母 $s 、 a 、 b 、 c 、 o$ 指称苏格拉底、亚里士多德、巴西、芝加哥和奥基夫。我们将用大写字母来符号化\logicterm{属性}，在此使用同样的指导原则是很便利的。因此，我们用字母 $H 、 M 、 F 、 W 、 B$ 分别符号化\logicterm{属性}是人、有死的、胖的、聪明的、漂亮的。
 \end{theorembox}
 
-有两组符号，一组是\logicterm{个体}的符号，另一组是\logicterm{个体属性}的符号。我们采取这样一个约定：把\logicterm{属性}符号直接写在\logicterm{个体}符号的左边，表征被命名的\logicterm{个体}具有规定的\logicterm{属性}这样一个\logicterm{单称命题}。于是，\logicterm{单称命题}"苏格拉底是人"可以符号化为 $H s$ 。上面提到的涉及谓项"人"的其他一些\logicterm{单称命题}，分别可以符号化为 $H a 、 H b 、 H c$ 和 $H o$ 。我们注意到它们都有某种共同的模式，即它们不是被符号化为 $H$ 自身，而是 $H$ —。在此，"一"表示在谓项符号的右边有另一个符号即\logicterm{个体}符号出现。习惯上用字母 $x$（这是可以的，因为我们只用从 $a$ 到 $w$ 的字母做\logicterm{个体变元}）而不是用破折号 （"——"）作替代标示。我们用 $H x$［有时写成 $H(x)$ ］来符号化所有以 "是人"作为\logicterm{个体属性}的\logicterm{单称命题}的共同模式。被称做\logicterm{个体变元}的字母 $\boldsymbol{x}$只是一个位置标示，用来指示从 $a$ 到 $w$ 的各个字母——\logicterm{个体常元}——可以填入以便产生\logicterm{单称命题}的位置。
+有两组符号，一组是\logicterm{个体}的符号，另一组是\logicterm{个体属性}的符号。
+
+\begin{theorembox}[title=符号化约定的理论基础]
+我们采取这样一个约定：把\logicterm{属性}符号直接写在\logicterm{个体}符号的左边，表征被命名的\logicterm{个体}具有规定的\logicterm{属性}这样一个\logicterm{单称命题}。
+
+\textbf{符号化的语法规则}：
+\begin{itemize}
+\item \textbf{基本形式}：$Px$表示"$x$具有属性$P$"
+\item \textbf{语序约定}：谓词符号在前，个体符号在后
+\item \textbf{括号使用}：可写成$P(x)$以强调函数关系
+\item \textbf{多元谓词}：$R(x,y)$表示"$x$与$y$具有关系$R$"
+\end{itemize}
+
+\textbf{约定的理论意义}：
+\begin{itemize}
+\item 体现了谓词逻辑的函数-论元结构
+\item 与数学函数记号保持一致性
+\item 便于处理复杂的逻辑表达式
+\item 为计算机处理提供了标准格式
+\end{itemize}
+\end{theorembox}
+
+于是，\logicterm{单称命题}"苏格拉底是人"可以符号化为 $H s$ 。上面提到的涉及谓项"人"的其他一些\logicterm{单称命题}，分别可以符号化为 $H a 、 H b 、 H c$ 和 $H o$ 。
+
+\begin{examplebox}[title=模式识别与变元引入]
+我们注意到它们都有某种共同的模式，即它们不是被符号化为 $H$ 自身，而是 $H$ —。在此，"一"表示在谓项符号的右边有另一个符号即\logicterm{个体}符号出现。
+
+\textbf{变元的引入}：习惯上用字母 $x$（这是可以的，因为我们只用从 $a$ 到 $w$ 的字母做\logicterm{个体常元}）而不是用破折号（"——"）作替代标示。
+
+\textbf{模式表示}：我们用 $H x$［有时写成 $H(x)$ ］来符号化所有以 "是人"作为\logicterm{个体属性}的\logicterm{单称命题}的共同模式。
+
+\textbf{变元的本质}：被称做\logicterm{个体变元}的字母 $\boldsymbol{x}$只是一个位置标示，用来指示从 $a$ 到 $w$ 的各个字母——\logicterm{个体常元}——可以填入以便产生\logicterm{单称命题}的位置。
+
+这种抽象化过程体现了从具体到一般的重要逻辑思维方式。
+\end{examplebox}
 
 \subsection{命题函项}
 
-\begin{theorembox}[title=命题函项的定义]
-各种\logicterm{单称命题} $H a 、 H b 、 H c$ 和 $H d$ 是或\logicemph{真}或\logicwarn{假}的；但由于 $H x$ 根本不是陈述或命题，它既不\logicemph{真}也不\logicwarn{假}。表达式 $H x$ 是一个\logicterm{命题函项}，它可以被定义成这样一个表达式：（1）含有\logicterm{个体变元}；（2）当一个\logicterm{个体常元}代入\logicterm{个体变元}时，它就变成一个陈述。\cite{reichenbach1947} \logicterm{个体常元}被认为是\logicterm{个体}的专名。任何\logicterm{单称命题}都是一个\logicterm{命题函项}的代入例，是用\logicterm{个体常元}代人该\logicterm{命题函项}中的\logicterm{个体变元}所产生的结果。一般说来，一个\logicterm{命题函项}有\logicemph{真}代人例和\logicwarn{假}代入例。到目前为止所讨论的\logicterm{命题函项}——Hx、Mx、Fx、Bx 和 $W x$ ——都是这种类型。为了把它们与后面几节将介绍的更复杂的\logicterm{命题函项}区分开，我们把这些\logicterm{命题函项}叫\logicterm{简单谓述}。因此，一个\logicterm{简单谓述}是一个有一些\logicemph{真}代人例和\logicwarn{假}代人例的\logicterm{命题函项}，并且每个代人例都是一个\logicterm{单称肯定命题}。
+\begin{theorembox}[title=命题函项的精确定义]
+各种\logicterm{单称命题} $H a 、 H b 、 H c$ 和 $H d$ 是或\logicemph{真}或\logicwarn{假}的；但由于 $H x$ 根本不是陈述或命题，它既不\logicemph{真}也不\logicwarn{假}。
+
+表达式 $H x$ 是一个\logicterm{命题函项}，它可以被定义成这样一个表达式：
+\begin{enumerate}
+\item 含有\logicterm{个体变元}
+\item 当一个\logicterm{个体常元}代入\logicterm{个体变元}时，它就变成一个陈述
+\end{enumerate}
+
+\textbf{命题函项的本质特征}：
+\begin{itemize}
+\item \textbf{开放性}：含有自由变元，因此不具有确定的真值
+\item \textbf{模板性}：为生成具体命题提供结构模板
+\item \textbf{抽象性}：表达了一类命题的共同逻辑形式
+\item \textbf{函数性}：从个体到真值的映射关系
+\end{itemize}
+\end{theorembox}
+
+\begin{examplebox}[title=命题函项的数学类比]
+命题函项与数学中的函数概念有深刻的类比关系：
+
+\textbf{数学函数}：$f(x) = x^2 + 1$
+\begin{itemize}
+\item $x$是变元，$f(x)$不是数值
+\item 代入具体值：$f(3) = 10$得到具体数值
+\item 函数定义了从数到数的映射
+\end{itemize}
+
+\textbf{命题函项}：$H(x)$ = "$x$是人"
+\begin{itemize}
+\item $x$是个体变元，$H(x)$不是命题
+\item 代入具体个体：$H(s)$ = "苏格拉底是人"得到具体命题
+\item 命题函项定义了从个体到真值的映射
+\end{itemize}
+
+这种类比揭示了逻辑与数学的深层联系。
+\end{examplebox}
+
+\logicterm{个体常元}被认为是\logicterm{个体}的专名。任何\logicterm{单称命题}都是一个\logicterm{命题函项}的代入例，是用\logicterm{个体常元}代人该\logicterm{命题函项}中的\logicterm{个体变元}所产生的结果。\cite{reichenbach1947}
+
+\begin{theorembox}[title=简单谓述的特征]
+一般说来，一个\logicterm{命题函项}有\logicemph{真}代人例和\logicwarn{假}代入例。到目前为止所讨论的\logicterm{命题函项}——Hx、Mx、Fx、Bx 和 $W x$ ——都是这种类型。
+
+为了把它们与后面几节将介绍的更复杂的\logicterm{命题函项}区分开，我们把这些\logicterm{命题函项}叫\logicterm{简单谓述}。
+
+\textbf{简单谓述的定义}：一个\logicterm{简单谓述}是一个有一些\logicemph{真}代人例和\logicwarn{假}代入例的\logicterm{命题函项}，并且每个代人例都是一个\logicterm{单称肯定命题}。
+
+\textbf{简单谓述的重要性}：
+\begin{itemize}
+\item 构成谓词逻辑的基本构建块
+\item 为更复杂的逻辑结构提供基础
+\item 体现了属性归属的基本逻辑关系
+\item 连接语言表达与逻辑形式的桥梁
+\end{itemize}
 \end{theorembox}
 
 \begin{center}
 \fbox{\parbox{0.95\textwidth}{
 \textbf{本节要点}
 \begin{itemize}
-\item \logicterm{单称命题}的本质：
+\item \textbf{命题逻辑的局限性与谓词逻辑的必要性}：
+  \begin{itemize}
+  \item 命题逻辑只能处理依赖于逻辑联结词的论证有效性
+  \item 对于依赖于陈述内部结构的论证，命题逻辑无法提供充分分析
+  \item 这种局限性推动了现代逻辑学向谓词逻辑的发展
+  \item 亚里士多德的三段论理论是早期处理此类论证的尝试
+  \end{itemize}
+\item \textbf{单称命题的结构与特征}：
   \begin{itemize}
   \item 断言特定\logicterm{个体}具有某种\logicterm{属性}的命题
-  \item 由主项（\logicterm{个体}）和谓项（\logicterm{属性}）构成
-  \item \logicemph{有效性}取决于命题的内在逻辑结构
+  \item 由主项（指称个体）和谓项（表示属性）构成
+  \item \logicemph{有效性}取决于命题的内在逻辑结构而非复合方式
+  \item 个体概念包括具体个体、抽象个体和虚构个体
   \end{itemize}
-\item 符号化系统：
+\item \textbf{符号化系统的理论基础}：
   \begin{itemize}
   \item \logicterm{个体常元}：小写字母a到w，指称特定\logicterm{个体}
   \item \logicterm{属性}符号：大写字母，表示\logicterm{个体}可能具有的\logicterm{属性}
-  \item \logicterm{单称命题}形式：\logicterm{属性}符号写在\logicterm{个体}符号左边（如Hs）
+  \item 符号化约定：谓词符号在前，个体符号在后（如$Hs$）
+  \item 体现函数-论元结构，与数学函数记号保持一致性
   \end{itemize}
-\item \logicterm{命题函项}：
+\item \textbf{个体概念的哲学分析}：
   \begin{itemize}
-  \item 含有\logicterm{个体变元}的表达式（如Hx）
-  \item 代入\logicterm{个体常元}后变成\logicemph{真}或\logicwarn{假}的陈述
-  \item \logicterm{简单谓述}是最基本的\logicterm{命题函项}形式
+  \item \textbf{本体论地位}：具体个体、抽象个体、虚构个体的区分
+  \item \textbf{识别标准}：同一性原则、不可分辨者同一性、指称唯一性
+  \item 谓项的语法灵活性：形容词、名词、动词、介词短语等多种形式
+  \item 逻辑结构比表面语法更为根本
+  \end{itemize}
+\item \textbf{命题函项的精确定义}：
+  \begin{itemize}
+  \item 含有\logicterm{个体变元}且代入常元后变成陈述的表达式
+  \item \textbf{四大本质特征}：开放性、模板性、抽象性、函数性
+  \item 与数学函数的深刻类比：从个体到真值的映射关系
+  \item 不具有确定真值，但为生成具体命题提供结构模板
+  \end{itemize}
+\item \textbf{简单谓述的特征与重要性}：
+  \begin{itemize}
+  \item 有真代入例和假代入例的命题函项
+  \item 每个代入例都是单称肯定命题
+  \item \textbf{四大重要性}：基本构建块、提供基础、体现逻辑关系、连接桥梁
+  \item 为更复杂的逻辑结构奠定基础
   \end{itemize}
 \end{itemize}
 }}

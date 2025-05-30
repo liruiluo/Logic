@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  30 MAY 2025 11:30
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.15)  30 MAY 2025 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2000,7 +2000,7 @@ Package csquotes Warning: No style for language 'latex'.
 (csquotes)                Using fallback style on input line 4.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
-(./main.aux)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -2025,7 +2025,6 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
 Package chemgreek Info: Activating mapping `fontspec' on line 4.
-
 
 
 Package unicode-math Warning: Using \overbracket and \underbracket from
@@ -2095,15 +2094,13 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
-(./main.bbl)
+Package biblatex Info: ... file 'main.bbl' not found.
+No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 4.
 Package biblatex Info: Reference segment=0 on input line 4.
 Package hyperref Info: Link coloring ON on input line 4.
- (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
-
 
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
@@ -2177,7 +2174,8 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 [4
 
 
-] (./main.toc)
+]
+No file main.toc.
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
@@ -2254,13 +2252,44 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 8.88pt on input line 95.
 
 
-[5]) (./chapter1/1-3 论证前提与结论.tex
+LaTeX Warning: Citation 'shirer1960' on page 5 undefined on input line 95.
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 8.88pt on input line 95.
+
+
+[5]
+
+LaTeX Warning: Citation 'lincoln1861' on page 6 undefined on input line 109.
+
+
+LaTeX Warning: Citation 'voltaire1770' on page 6 undefined on input line 120.
+
+) (./chapter1/1-3 论证前提与结论.tex
 
 [6]
 
 [7]
 
+LaTeX Warning: Citation 'hayden2000' on page 8 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'ban1992' on page 8 undefined on input line 69.
+
+
+LaTeX Warning: Citation 'bentham1802' on page 8 undefined on input line 82.
+
+
+
 [8]
+
+LaTeX Warning: Citation 'zare1996' on page 9 undefined on input line 115.
+
+
+LaTeX Warning: Citation 'langewiesche1996' on page 9 undefined on input line 13
+4.
+
+
 
 [9]) (./chapter1/1-4 论证的分析.tex
 
@@ -2490,11 +2519,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [70]
 
+LaTeX Warning: Citation 'palmbeach2000' on page 71 undefined on input line 79.
+
+
+
 [71]
 
 [72]
 
 [73]
+
+LaTeX Warning: Citation 'lander1988' on page 74 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'rescher1996' on page 74 undefined on input line 236.
+
+
 
 [74]) (./chapter2/2-2 多功能话语.tex
 
@@ -2571,6 +2611,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [95]
 
+LaTeX Warning: Citation 'perot1993' on page 96 undefined on input line 131.
+
+
+LaTeX Warning: Citation 'timecnn1993' on page 96 undefined on input line 131.
+
+
+
 [96]
 
 [97])
@@ -2588,7 +2635,18 @@ Underfull \vbox (badness 5217) has occurred while \output is active []
 
 [100]
 
+LaTeX Warning: Citation 'james1907' on page 101 undefined on input line 128.
+
+
+
 [101]
+
+LaTeX Warning: Citation 'james1907' on page 102 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'rudin1992' on page 102 undefined on input line 172.
+
+
 
 [102]
 
@@ -2636,7 +2694,15 @@ Underfull \vbox (badness 1852) has occurred while \output is active []
 
 [115]
 
+LaTeX Warning: Citation 'gombocz1997' on page 116 undefined on input line 241.
+
+
+
 [116]
+
+LaTeX Warning: Citation 'sisk1988' on page 117 undefined on input line 250.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2713,6 +2779,17 @@ Chapter 4.
 
 [138]
 
+LaTeX Warning: Citation 'aristotle' on page 139 undefined on input line 89.
+
+
+LaTeX Warning: Citation 'fearnside1959' on page 139 undefined on input line 91.
+
+
+
+LaTeX Warning: Citation 'joseph1916' on page 139 undefined on input line 102.
+
+
+
 [139]) (./chapter4/4-2 相干谬误.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2744,532 +2821,1292 @@ Underfull \vbox (badness 4467) has occurred while \output is active []
 [147]
 
 [148]
-
-[149]) (./chapter4/4-2-R4 诉诸情感.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[150]
+[149]
 
-[151]) (./chapter4/4-2-R5 诉诸同情.tex
+[150]) (./chapter4/4-2-R4 诉诸情感.tex
 
-[152]) (./chapter4/4-2-R6 诉诸暴力.tex
+[151]
 
-[153]) (./chapter4/4-2-R7 不相干结论.tex
+[152]
 
-[154]) (./chapter4/4-3 预设谬误.tex
+[153]) (./chapter4/4-2-R5 诉诸同情.tex
 
-[155]) (./chapter4/4-3-P1 复杂问语.tex
+[154])
+Runaway argument?
+{examplebox> 
+! File ended while scanning use of \end .
+<inserted text> 
+                \par 
+l.144 \input{chapter4/4-2-R5 诉诸同情.tex}
+                                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
 
-[156]) (./chapter4/4-3-P2 虚假原因.tex
+(./chapter4/4-2-R6 诉诸暴力.tex
+Overfull \hbox (96.0pt too wide) in paragraph at lines 42--42
+ []\TU/SourceHanSansSC(0)/b/it/12 暴 力 的 多 种 形 式[] [] 
+ []
 
-[157]) (./chapter4/4-3-P3 乞题.tex
+) (./chapter4/4-2-R7 不相干结论.tex)
+Runaway argument?
+{theorembox> 
+! File ended while scanning use of \end .
+<inserted text> 
+                \par 
+l.146 \input{chapter4/4-2-R7 不相干结论.tex}
+                                       
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
 
-[158]
+(./chapter4/4-3 预设谬误.tex) (./chapter4/4-3-P1 复杂问语.tex
+Overfull \hbox (120.0pt too wide) in paragraph at lines 38--38
+ []\TU/SourceHanSansSC(0)/b/it/12 经 典 的 复 杂 问 语 例 子[] [] 
+ []
 
-[159]) (./chapter4/4-3-P4-P5 偶然与逆偶然.tex
 
-[160]) (./chapter4/4-4 含混谬误.tex
+Overfull \hbox (132.0pt too wide) in paragraph at lines 59--59
+ []\TU/SourceHanSansSC(0)/b/it/12 司 法 询 问 中 的 复 杂 问 语[] [] 
+ []
 
-[161]) (./chapter4/4-4-A1 歧义谬误.tex
 
-[162]
+Overfull \hbox (132.0pt too wide) in paragraph at lines 80--80
+ []\TU/SourceHanSansSC(0)/b/it/12 政 治 辩 论 中 的 预 设 问 题[] [] 
+ []
 
-[163]) (./chapter4/4-4-A2 双关谬误.tex) (./chapter4/4-4-A3 重读谬误.tex
+)
+Runaway argument?
+{theorembox> 
+! File ended while scanning use of \end .
+<inserted text> 
+                \par 
+l.148 \input{chapter4/4-3-P1 复杂问语.tex}
+                                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
 
-[164]
+(./chapter4/4-3-P2 虚假原因.tex
+Runaway argument?
+{examplebox> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.46 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-[165]) (./chapter4/4-4-A4 合成谬误.tex
+)
+Runaway argument?
+{examplebox> 
+! File ended while scanning use of \end .
+<inserted text> 
+                \par 
+l.149 \input{chapter4/4-3-P2 虚假原因.tex}
+                                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
 
-[166]) (./chapter4/4-4-A5 分解谬误.tex
+(./chapter4/4-3-P3 乞题.tex
+Overfull \hbox (60.0pt too wide) in paragraph at lines 39--39
+ []\TU/SourceHanSansSC(0)/b/it/12 循 环 论 证[] [] 
+ []
 
-[167]) (./chapter4/summary.tex
+Runaway argument?
+{logicbox> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.58 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-[168]
 
-[169])
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+ []\TU/SourceHanSansSC(0)/b/it/12 归 纳 原 理 的 证 明 困 境[]
+ []
 
-[170]
+) (./chapter4/4-3-P4-P5 偶然与逆偶然.tex
+Overfull \hbox (84.0pt too wide) in paragraph at lines 48--48
+ []\TU/SourceHanSansSC(0)/b/it/12 概 括 的 例 外 性[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+ []\TU/SourceHanSansSC(0)/b/it/12 苏 格 拉 底 与 欧 西 德 姆 斯 的 对 话[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+ []\TU/SourceHanSansSC(0)/b/it/12 由 特 殊 到 一 般 的 错 误 推 理[]
+ []
+
+Runaway argument?
+{examplebox> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.109 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 8.88pt on input line 127.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 127.
+) (./chapter4/4-4 含混谬误.tex
+
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 3.
+
+) (./chapter4/4-4-A1 歧义谬误.tex
+Runaway argument?
+{theorembox> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.20 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{quote> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.35 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{itemize> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.45 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+\endtcb@savebox ...efalse \color@endgroup \egroup 
+                                                  \expandafter \@iiiparbox \...
+l.47 \end{examplebox}
+                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \begin{quote} on input line 28 ended by \end{tcb@savebox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \end{examplebox}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (27.69052pt too wide) in paragraph at lines 47--47
+[] 
+ []
+
+
+! LaTeX Error: \begin{tcb@savebox} on input line 22 ended by \end{examplebox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \end{examplebox}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+ []\TU/SourceHanSansSC(0)/b/it/12 相 对 词 的 歧 义 问 题[]
+ []
+
+)
+Runaway argument?
+{examplebox> 
+! File ended while scanning use of \end .
+<inserted text> 
+                \par 
+l.153 \input{chapter4/4-4-A1 歧义谬误.tex}
+                                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(./chapter4/4-4-A2 双关谬误.tex
+Runaway argument?
+{theorembox> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.22 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+\TU/TimesNewRoman(0)/m/n/12 Democrats to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+ []\TU/SourceHanSansSC(0)/b/it/12 政 治 中 的 双 关 现 象[]
+ []
+
+Runaway argument?
+{quote> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.53 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 manned by a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 skeleton crew,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 one infirmity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 after another
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 overtakes the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 little ship.”$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 (The Herald
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 Tribune, book
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 57--58
+\TU/SourceHanSansSC(0)/m/n/12 重 泄 漏、|
+ []
+
+! Extra }, or forgotten \endgroup.
+\endtcb@savebox ...efalse \color@endgroup \egroup 
+                                                  \expandafter \@iiiparbox \...
+l.65 \end{examplebox}
+                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+ []\TU/SourceHanSansSC(0)/b/it/12 垂 悬 分 词 与 短 语[]
+ []
+
+
+! LaTeX Error: \begin{tcb@savebox} on input line 45 ended by \end{examplebox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \end{examplebox}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.65 \end{examplebox}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) (./chapter4/4-4-A3 重读谬误.tex
+
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 3.
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 30--31
+\TU/SourceHanSansSC(0)/m/n/12 朋 友 的 坏 话
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+ []\TU/SourceHanSansSC(0)/b/it/12 重 音 与 语 气 的 影 响[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+ []\TU/SourceHanSansSC(0)/b/it/12 广 告 中 的 重 读 谬 误[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+ []\TU/SourceHanSansSC(0)/b/it/12 通 过 位 置 操 纵 的 重 读[]
+ []
+
+) (./chapter4/4-4-A4 合成谬误.tex
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+ []\TU/SourceHanSansSC(0)/b/it/12 性 质 的 转 移 问 题[]
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 79--79
+ []\TU/SourceHanSansSC(0)/b/it/12 个 体 与 集 体 的 性 质 差 异[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+ []\TU/SourceHanSansSC(0)/b/it/12 两 种 谬 误 形 式 的 区 别[]
+ []
+
+) (./chapter4/4-4-A5 分解谬误.tex
+Underfull \hbox (badness 1107) in paragraph at lines 56--56
+ []\TU/SourceHanSansSC(0)/b/it/12 从 整 体 到 部 分 的 错 误 推 理[]
+ []
+
+) (./chapter4/summary.tex
+Underfull \hbox (badness 1184) in paragraph at lines 69--70
+[]\TU/SourceHanSansSC(0)/m/n/12 缘 出 前 物 谬 误
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+|\TU/SourceHanSansSC(0)/m/n/12 （\TU/TimesNewRoman(0)/m/n/12 post hoc ergo
+ []
+
+)
 Chapter 5.
-(./chapter5/5-1 演绎理论.tex
+(./chapter5/5-1 演绎理论.tex) (./chapter5/5-2 直言命题及其类别.tex
+Underfull \hbox (badness 1009) in paragraph at lines 15--16
+\TU/SourceHanSansSC(0)/m/n/12 素 食 主 义 者，|
+ []
 
-[171
-
-]) (./chapter5/5-2 直言命题及其类别.tex
-
-[172]
 
 LaTeX Font Warning: Font shape `TU/TeXGyreTermesMath(1)/b/n' undefined
-(Font)              using `TU/TeXGyreTermesMath(1)/m/n' instead on input line 1
-9.
+(Font)              using `TU/TeXGyreTermesMath(1)/m/n' instead on input line 2
+3.
 
 
 LaTeX Font Warning: Font shape `TU/TeXGyreTermesMath(2)/b/n' undefined
-(Font)              using `TU/TeXGyreTermesMath(2)/m/n' instead on input line 1
-9.
+(Font)              using `TU/TeXGyreTermesMath(2)/m/n' instead on input line 2
+3.
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/b/n' will be
-(Font)              scaled to size 8.88095pt on input line 19.
+(Font)              scaled to size 8.88095pt on input line 23.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/b/n' will be
-(Font)              scaled to size 6.60071pt on input line 19.
+(Font)              scaled to size 6.60071pt on input line 23.
 
 LaTeX Font Warning: Font shape `TU/TeXGyreTermesMath(3)/b/n' undefined
-(Font)              using `TU/TeXGyreTermesMath(3)/m/n' instead on input line 1
-9.
+(Font)              using `TU/TeXGyreTermesMath(3)/m/n' instead on input line 2
+3.
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/b/n' will be
-(Font)              scaled to size 8.87904pt on input line 19.
+(Font)              scaled to size 8.87904pt on input line 23.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/b/n' will be
-(Font)              scaled to size 6.59929pt on input line 19.
+(Font)              scaled to size 6.59929pt on input line 23.
 
 LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
-(Font)              using `U/stmry/m/n' instead on input line 19.
+(Font)              using `U/stmry/m/n' instead on input line 23.
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/b/n' will be
-(Font)              scaled to size 12.00128pt on input line 19.
+(Font)              scaled to size 12.00128pt on input line 23.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/b/n' will be
-(Font)              scaled to size 11.99872pt on input line 19.
+(Font)              scaled to size 11.99872pt on input line 23.
+
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 185.
+
+) (./chapter5/5-3 质、量与周延性.tex
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]\TU/SourceHanSansSC(0)/m/n/12 因 此[]\TU/TimesNewRoman(0)/b/n/12 A \TU/SourceHa
+nSansSC(0)/b/it/12 命 题[]\TU/SourceHanSansSC(0)/m/n/12 和[]\TU/TimesNewRoman(0)/b
+/n/12 E \TU/SourceHanSansSC(0)/b/it/12 命
+ []
 
 
-[173]
+Underfull \hbox (badness 1259) in paragraph at lines 59--62
+\TU/SourceHanSansSC(0)/m/n/12 所 有 正 方 形 均 为
+ []
 
-[174]) (./chapter5/5-3 质、量与周延性.tex
 
-[175]
+Underfull \hbox (badness 1259) in paragraph at lines 59--62
+\TU/SourceHanSansSC(0)/m/n/12 有 士 兵 不 会 成 为
+ []
 
-[176]
-
-[177]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-234.jpg>
+) (./chapter5/5-4 传统对当方阵.tex
 
+LaTeX Warning: Citation 'kneale1962' on page 155 undefined on input line 47.
 
-[178]) (./chapter5/5-4 传统对当方阵.tex
-Underfull \vbox (badness 1675) has occurred while \output is active []
-
-
-
-[179]
-
-[180]
-
-[181]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-238.jpg>
+) (./chapter5/5-5 其他直接推论.tex
+Overfull \hbox (13.13962pt too wide) in paragraph at lines 23--38
+ [] 
+ []
 
 
-[182]) (./chapter5/5-5 其他直接推论.tex
-
-[183]
-
-[184]
-
-[185]
-
-[186]
-
-[187]
-
-[188]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'kneale1962' on page 155 undefined on input line 43.
 
 
+Overfull \hbox (26.47556pt too wide) in paragraph at lines 100--115
+ [] 
+ []
 
-[189]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Overfull \hbox (72.13556pt too wide) in paragraph at lines 179--194
+ [] 
+ []
 
 
+Overfull \hbox (72.13556pt too wide) in paragraph at lines 203--244
+ [] 
+ []
 
-[190]) (./chapter5/5-6 存在含义与直言命题的解释.tex
+) (./chapter5/5-6 存在含义与直言命题的解释.tex
 
-[191]
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 3.
 
-[192]
+Runaway argument?
+{logicbox> 
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+l.6 
+    
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-[193]
+
+LaTeX Warning: Citation 'russell1905' on page 155 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'russell1905' on page 155 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'wiebe1991' on page 155 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'boole1854' on page 155 undefined on input line 49.
+
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[194]) (./chapter5/5-7 直言命题的符号系统与图解.tex
-
-[195]
+) (./chapter5/5-7 直言命题的符号系统与图解.tex
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-257(2).jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[196]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-257.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[197]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-257(1).jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[198]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-258.jpg>
-
-
-[199]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-258(1).jpg>
 
+Underfull \hbox (badness 3058) in paragraph at lines 69--70
+[]\TU/TimesNewRoman(0)/m/n/12 A \TU/SourceHanSansSC(0)/m/n/12 命 题\TU/TimesNewRo
+man(0)/m/n/12 ” \TU/SourceHanSansSC(0)/m/n/12 所 有 $[]$ 是 $[]$\TU/TimesNewRoman(
+0)/m/n/12 ” \TU/SourceHanSansSC(0)/m/n/12 即
+ []
 
-[200]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-260(1).jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[201]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-260.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[202]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 15.60004pt on input line 115.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\TU/TimesNewRoman(0)/m/n/12 A \TU/SourceHanSansSC(0)/m/n/12 命 题：|
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\TU/TimesNewRoman(0)/m/n/12 ” \TU/SourceHanSansSC(0)/m/n/12 所 有 $[]$
+ []
 
-[203]) (./chapter5/summary.tex
 
-[204])
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\TU/SourceHanSansSC(0)/m/n/12 是 $[]$\TU/TimesNewRoman(0)/m/n/12 ”$[]$
+ []
 
-[205]
 
-[206
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\TU/TimesNewRoman(0)/m/n/12 O \TU/SourceHanSansSC(0)/m/n/12 命 题：|
+ []
 
-]
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\TU/TimesNewRoman(0)/m/n/12 ” \TU/SourceHanSansSC(0)/m/n/12 有 $[]$ 不
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\TU/SourceHanSansSC(0)/m/n/12 是 $[]$\TU/TimesNewRoman(0)/m/n/12 ”$[]$
+ []
+
+) (./chapter5/summary.tex
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\TU/SourceHanSansSC(0)/m/n/12 介 绍
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\TU/SourceHanSansSC(0)/m/n/12 了[]\TU/SourceHanSansSC(0)/b/it/12 类[]\TU/SourceHa
+nSansSC(0)/m/n/12 的 概
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\TU/TimesNewRoman(0)/m/n/12 A \TU/SourceHanSansSC(0)/m/n/12 命 题：|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\TU/TimesNewRoman(0)/m/n/12 E \TU/SourceHanSansSC(0)/m/n/12 命 题：|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\TU/TimesNewRoman(0)/m/n/12 I \TU/SourceHanSansSC(0)/m/n/12 命 题：|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\TU/TimesNewRoman(0)/m/n/12 O \TU/SourceHanSansSC(0)/m/n/12 命 题：|
+ []
+
+)
 Chapter 6.
 (./chapter6/6-1 标准式直言三段论.tex
 
-[207]
+LaTeX Warning: Citation 'lukasiewicz1957' on page 155 undefined on input line 8
+0.
 
-[208]) (./chapter6/6-2 三段论论证的形式性质.tex
 
-[209]
+Overfull \hbox (99.57813pt too wide) detected at line 102
+[]
+ []
 
-[210]
+) (./chapter6/6-2 三段论论证的形式性质.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/SourceHanSansSC(0)/m/n/12 三 段 论 的 形 式
+ []
 
-[211]) (./chapter6/6-3 检验三段论：文恩图解法.tex
+
+Underfull \hbox (badness 2556) in paragraph at lines 8--9
+\TU/SourceHanSansSC(0)/m/n/12 由[]\TU/SourceHanSansSC(0)/b/it/12 格[]\TU/SourceHa
+nSansSC(0)/m/n/12 与[]\TU/SourceHanSansSC(0)/b/it/12 式[]\TU/SourceHanSansSC(0)/m
+/n/12 唯 一 确 定
+ []
+
+
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 71.
+
+) (./chapter6/6-3 检验三段论：文恩图解法.tex
 File: images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-274.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[212]
-
-[213]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-275(2).jpg>
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-275(1).jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[214]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-275.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Warning: Citation 'venn1881' on page 155 undefined on input line 52.
 
-
-[215]
-
-[216]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-276.jpg>
-
-
-[217]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-277.jpg>
-
-
-[218]
 File: images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-278.jpg>
 File: images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-278(1).jpg>
+) (./chapter6/6-4 三段论规则和三段论谬误.tex
 
-Underfull \vbox (badness 6559) has occurred while \output is active []
-
-
-
-[219]
-
-[220]) (./chapter6/6-4 三段论规则和三段论谬误.tex
-
-[221]
-
-[222]
-
-[223]
-
-[224]
-
-[225]) (./chapter6/6-5 直言三段论的15个有效形式.tex
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 8.88pt on input line 7.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 6.6pt on input line 7.
-
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 3.
 
 
-[226]
+Underfull \hbox (badness 1953) in paragraph at lines 106--106
+[][][] |\TU/SourceHanSansSC(0)/m/n/10 （\TU/TimesNewRoman(0)/m/n/10 6\TU/SourceH
+anSansSC(0)/m/n/10 ）|  见 \TU/TimesNewRoman(0)/m/n/10 Barbara Tuch-
+ []
+
+) (./chapter6/6-5 直言三段论的15个有效形式.tex
+
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 3.
+
 File: images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-288.jpg>
 File: images/2025_05_15_6a28331d5e7c993ad07ag-288(1).jpg Graphic file (type bmp
 )
 <images/2025_05_15_6a28331d5e7c993ad07ag-288(1).jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'patzig1968' on page 155 undefined on input line 38.
 
 
-
-[227]
-
-[228]
-
-[229]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 78.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 78.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 78.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'lukasiewicz1957' on page 155 undefined on input line 5
+2.
 
 
+LaTeX Warning: Citation 'copi1980' on page 155 undefined on input line 58.
 
-[230]) (./chapter6/6-6 直言三段论15个有效形式的演绎推导.tex
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 15.
+
+Underfull \hbox (badness 4792) in paragraph at lines 58--59
+[][]\TU/SourceHanSansSC(0)/b/it/12 具 体 应 用[]\TU/SourceHanSansSC(0)/m/n/12 ：|  例
+
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 58--59
+\TU/SourceHanSansSC(0)/m/n/12 二 格 才 是 有 效 的。|
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 58--59
+\TU/SourceHanSansSC(0)/m/n/12 这 个 唯 一 的 形 式
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 60--61
+[][]\TU/SourceHanSansSC(0)/b/it/12 推 理 能 力[]\TU/SourceHanSansSC(0)/m/n/12 ：|  熟
+ 悉
+ []
+
+
+LaTeX Warning: Citation 'patzig1968' on page 155 undefined on input line 87.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]\TU/TimesNewRoman(0)/m/n/12 2. []\TU/TimesNewRoman(0)/b/n/12 EAE \TU/SourceHa
+nSansSC(0)/b/it/12 － \TU/TimesNewRoman(0)/b/n/12 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]\TU/TimesNewRoman(0)/m/n/12 5. []\TU/TimesNewRoman(0)/b/n/12 AEE \TU/SourceHa
+nSansSC(0)/b/it/12 － \TU/TimesNewRoman(0)/b/n/12 2
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 104--105
+[]\TU/TimesNewRoman(0)/m/n/12 7. []\TU/TimesNewRoman(0)/b/n/12 AOO \TU/SourceHa
+nSansSC(0)/b/it/12 － \TU/TimesNewRoman(0)/b/n/12 2
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 112--113
+[]\TU/TimesNewRoman(0)/m/n/12 11. []\TU/TimesNewRoman(0)/b/n/12 EIO \TU/SourceH
+anSansSC(0)/b/it/12 － \TU/TimesNewRoman(0)/b/n/12 3
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 113--114
+[]\TU/TimesNewRoman(0)/m/n/12 12. []\TU/TimesNewRoman(0)/b/n/12 OAO \TU/SourceH
+anSansSC(0)/b/it/12 － \TU/TimesNewRoman(0)/b/n/12 3
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 118--119
+[]\TU/TimesNewRoman(0)/m/n/12 13. []\TU/TimesNewRoman(0)/b/n/12 AEE \TU/SourceH
+anSansSC(0)/b/it/12 － \TU/TimesNewRoman(0)/b/n/12 4
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 120--121
+[]\TU/TimesNewRoman(0)/m/n/12 15. []\TU/TimesNewRoman(0)/b/n/12 EIO \TU/SourceH
+anSansSC(0)/b/it/12 － \TU/TimesNewRoman(0)/b/n/12 4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+\TU/TimesNewRoman(0)/m/n/12 ent (EAE-1)\TU/SourceHanSansSC(0)/m/n/12 、|
+ []
+
+) (./chapter6/6-6 直言三段论15个有效形式的演绎推导.tex
+
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 3.
+
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/m/n' will be
-(Font)              scaled to size 14.40152pt on input line 15.
+(Font)              scaled to size 14.40152pt on input line 51.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 15.
+(Font)              scaled to size 14.39845pt on input line 51.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 15.
+(Font)              scaled to size 14.4pt on input line 51.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 51.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 15.
+(hyperref)                removing `\mathbf' on input line 51.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathbf' on input line 15.
+(hyperref)                removing `math shift' on input line 51.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 15.
-
-
-
-[231]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 20.
+(hyperref)                removing `math shift' on input line 65.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathbf' on input line 20.
+(hyperref)                removing `\mathbf' on input line 65.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 20.
+(hyperref)                removing `math shift' on input line 65.
 
-
-
-[232]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 34.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathbf' on input line 34.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 34.
-
-
-
-[233]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;+ssty=0;!
+
+Underfull \hbox (badness 1024) in paragraph at lines 100--100
+\TU/SourceHanSansSC(0)/m/n/12 有 \TU/TimesNewRoman(0)/m/n/12 4 \TU/SourceHanSans
+SC(0)/m/n/12 个 有 效 形
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 100--100
+\TU/SourceHanSansSC(0)/m/n/12 有 \TU/TimesNewRoman(0)/m/n/12 6 \TU/SourceHanSans
+SC(0)/m/n/12 个 有 效 形
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 100--100
+[]\TU/SourceHanSansSC(0)/m/n/12 第 三 格：| \TU/TimesNewRoman(0)/m/n/12 4
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 100--100
+[]\TU/SourceHanSansSC(0)/m/n/12 第 四 格：| \TU/TimesNewRoman(0)/m/n/12 3
+ []
+
 ) (./chapter6/summary.tex
 
-[234]
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 36.
 
-[235])
 
-[236]
+Underfull \hbox (badness 1668) in paragraph at lines 36--36
+\TU/TimesNewRoman(0)/m/n/12 6.1 \TU/SourceHanSansSC(0)/m/n/12 节 给 出 了 三 段
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 36--36
+\TU/SourceHanSansSC(0)/m/n/12 模 式 为：| $[] []
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 36--36
+\TU/SourceHanSansSC(0)/m/n/12 模 式 为：| $[] []
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 67--68
+[][]\TU/SourceHanSansSC(0)/b/it/12 第 一 格[]\TU/SourceHanSansSC(0)/m/n/12 ：| \TU/
+TimesNewRoman(0)/m/n/12 AAA \TU/SourceHanSansSC(0)/m/n/12 － \TU/TimesNewRoman(0
+)/m/n/12 1
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 67--68
+|\TU/SourceHanSansSC(0)/m/n/12 （\TU/TimesNewRoman(0)/m/n/12 Celarent\TU/SourceH
+anSansSC(0)/m/n/12 ） 、| \TU/TimesNewRoman(0)/m/n/12 AII \TU/SourceHanSansSC(0)/
+m/n/12 － \TU/TimesNewRoman(0)/m/n/12 1
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 68--69
+[][]\TU/SourceHanSansSC(0)/b/it/12 第 二 格[]\TU/SourceHanSansSC(0)/m/n/12 ：| \TU/
+TimesNewRoman(0)/m/n/12 AEE \TU/SourceHanSansSC(0)/m/n/12 － \TU/TimesNewRoman(0
+)/m/n/12 2
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 69--70
+[][]\TU/SourceHanSansSC(0)/b/it/12 第 三 格[]\TU/SourceHanSansSC(0)/m/n/12 ：| \TU/
+TimesNewRoman(0)/m/n/12 AII \TU/SourceHanSansSC(0)/m/n/12 －
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 69--70
+\TU/TimesNewRoman(0)/m/n/12 3 |\TU/SourceHanSansSC(0)/m/n/12 （\TU/TimesNewRoman
+(0)/m/n/12 Datisi\TU/SourceHanSansSC(0)/m/n/12 ） 、| \TU/TimesNewRoman(0)/m/n/12
+ IAI \TU/SourceHanSansSC(0)/m/n/12 －
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 70--71
+[][]\TU/SourceHanSansSC(0)/b/it/12 第 四 格[]\TU/SourceHanSansSC(0)/m/n/12 ：| \TU/
+TimesNewRoman(0)/m/n/12 AEE \TU/SourceHanSansSC(0)/m/n/12 － \TU/TimesNewRoman(0
+)/m/n/12 4
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 70--71
+|\TU/SourceHanSansSC(0)/m/n/12 （\TU/TimesNewRoman(0)/m/n/12 Dimaris\TU/SourceHa
+nSansSC(0)/m/n/12 ） 、| \TU/TimesNewRoman(0)/m/n/12 EIO \TU/SourceHanSansSC(0)/m
+/n/12 － \TU/TimesNewRoman(0)/m/n/12 4
+ []
+
+)
 Chapter 7.
 (./chapter7/7-1 日常语言中的三段论论证.tex
-Underfull \vbox (badness 7486) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\TU/SourceHanSansSC(0)/m/n/12 有 将[]\TU/SourceHanSansSC(0)/b/it/12 标 准 式
+ []
 
 
+Underfull \hbox (badness 1097) in paragraph at lines 46--46
+\TU/SourceHanSansSC(0)/b/it/12 三 段 论[]\TU/SourceHanSansSC(0)/m/n/12 区 分[]\TU/So
+urceHanSansSC(0)/b/it/12 有
+ []
 
-[237
 
-]) (./chapter7/7-2 三段论词项数量的归约.tex
+Underfull \hbox (badness 3701) in paragraph at lines 46--46
+\TU/SourceHanSansSC(0)/b/it/12 效[]\TU/SourceHanSansSC(0)/m/n/12 与[]\TU/SourceHa
+nSansSC(0)/b/it/12 无 效[]\TU/SourceHanSansSC(0)/m/n/12 的 检
+ []
 
-[238]
+) (./chapter7/7-2 三段论词项数量的归约.tex) (./chapter7/7-3 直言命题的标准化.tex
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 19.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 8.88pt on input line 19.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 6.6pt on input line 19.
 
-[239]
-
-[240]) (./chapter7/7-3 直言命题的标准化.tex
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
+LaTeX Warning: Citation 'kant1781' on page 155 undefined on input line 19.
 
-[241]
 
-[242]
+Overfull \hbox (86.57848pt too wide) detected at line 31
+[]
+ []
+
+
+Overfull \hbox (68.73201pt too wide) detected at line 48
+[]
+ []
+
+
+Overfull \hbox (194.54012pt too wide) in paragraph at lines 54--59
+ [] 
+ []
+
+
+Overfull \hbox (188.26805pt too wide) in paragraph at lines 64--69
+ [] 
+ []
+
 File: images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg Graphic file (type bmp)
 <images/2025_05_15_6a28331d5e7c993ad07ag-310.jpg>
 
-
-[243]
-
-[244]
-
-[245]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'frege1892' on page 155 undefined on input line 94.
 
 
-
-[246]) (./chapter7/7-4 协同翻译.tex
-
-[247]
-
-[248]) (./chapter7/7-5 省略三段论（Enthymemes）.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 1005) in paragraph at lines 167--167
+\TU/SourceHanSansSC(0)/b/it/12 命 题\TU/SourceHanSansSC(0)/m/n/12 ：|  将 非\TU/Time
+sNewRoman(0)/m/n/12 ”
+ []
 
 
+Underfull \hbox (badness 3271) in paragraph at lines 167--167
+\TU/SourceHanSansSC(0)/m/n/12 是\TU/TimesNewRoman(0)/m/n/12 /\TU/SourceHanSansSC
+(0)/m/n/12 不 是\TU/TimesNewRoman(0)/m/n/12 ” \TU/SourceHanSansSC(0)/m/n/12 动 词
+ []
 
-[249]
+) (./chapter7/7-4 协同翻译.tex
+Overfull \hbox (100.578pt too wide) detected at line 46
+[][]
+ []
 
-[250]
-
-[251]) (./chapter7/7-6 连锁三段论（Sorites）.tex
-
-[252]
-
-[253]
-
-[254]) (./chapter7/7-7 析取三段论和假言三段论.tex
-
-[255]
-
-[256]
-Underfull \vbox (badness 3449) has occurred while \output is active []
+) (./chapter7/7-5 省略三段论（Enthymemes）.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\TU/SourceHanSansSC(0)/b/n/17.28 省 略 三
+ []
 
 
+Overfull \hbox (1.10263pt too wide) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/b/n/17.28 thymemes\TU/SourceHanSansSC(0)/b/n/17.28 ）|
+ []
 
-[257]) (./chapter7/7-8 二难推论（The Dilemma）.tex
 
-[258]
+Underfull \hbox (badness 1009) in paragraph at lines 26--27
+\TU/SourceHanSansSC(0)/m/n/12 且 把 马 牵 走，|
+ []
 
-[259]
 
-[260]
+LaTeX Warning: Citation 'hume1748' on page 155 undefined on input line 46.
 
-[261]) (./chapter7/summary.tex
 
-[262])
+Underfull \hbox (badness 2318) in paragraph at lines 46--47
+\TU/SourceHanSansSC(0)/m/n/12 不 出 我 们 的
+ []
 
-[263]
 
-[264
+Underfull \hbox (badness 1024) in paragraph at lines 46--47
+\TU/SourceHanSansSC(0)/m/n/12 经 验；|  我 们
+ []
 
-]
+
+Underfull \hbox (badness 1024) in paragraph at lines 46--47
+\TU/SourceHanSansSC(0)/m/n/12 的 经 验；|  我
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 46--47
+\TU/SourceHanSansSC(0)/m/n/12 结 论：|  你 自
+ []
+
+
+LaTeX Warning: Citation 'usc2000' on page 155 undefined on input line 56.
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 56--57
+[]\TU/SourceHanSansSC(0)/m/n/12 在 任 何 意 义
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 56--57
+\TU/SourceHanSansSC(0)/m/n/12 上，|  性 暴 力
+ []
+
+) (./chapter7/7-6 连锁三段论（Sorites）.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\TU/SourceHanSansSC(0)/b/n/17.28 连 锁
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\TU/SourceHanSansSC(0)/b/n/17.28 三 段 论
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+[]\TU/SourceHanSansSC(0)/m/n/12 所 有 $[]$ 是
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+[]\TU/SourceHanSansSC(0)/m/n/12 所 有 $[]$ 是
+ []
+
+) (./chapter7/7-7 析取三段论和假言三段论.tex
+Underfull \hbox (badness 2608) in paragraph at lines 9--9
+|[]\TU/SourceHanSansSC(0)/b/n/14.4 析 取 三 段 论
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+|\TU/SourceHanSansSC(0)/b/n/14.4 （\TU/TimesNewRoman(0)/b/n/14.4 Disjunctive
+ []
+
+
+LaTeX Warning: Citation 'boole1854' on page 155 undefined on input line 16.
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 16--17
+[]\TU/SourceHanSansSC(0)/m/n/12 这 样 的 论 证 是 有 效
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 32--32
+|[]\TU/SourceHanSansSC(0)/b/n/14.4 假 言 三 段 论
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+|\TU/SourceHanSansSC(0)/b/n/14.4 （\TU/TimesNewRoman(0)/b/n/14.4 Hypothetical
+ []
+
+
+LaTeX Warning: Citation 'boole1854' on page 155 undefined on input line 39.
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 102--102
+\TU/SourceHanSansSC(0)/m/n/12 定\TU/TimesNewRoman(0)/m/n/12 ” (modus tol-
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 102--102
+\TU/SourceHanSansSC(0)/m/n/12 题，| \TU/TimesNewRoman(0)/m/n/12 ” \TU/SourceHanSa
+nsSC(0)/m/n/12 通 过 肯
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 102--102
+\TU/SourceHanSansSC(0)/m/n/12 定 进 行 否 定\TU/TimesNewRoman(0)/m/n/12 ”
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\TU/SourceHanSansSC(0)/b/it/12 肯 定 前 件
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\TU/SourceHanSansSC(0)/b/it/12 否 定 后 件
+ []
+
+) (./chapter7/7-8 二难推论（The Dilemma）.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\TU/SourceHanSansSC(0)/b/n/17.28 二 难 推
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 1--1
+\TU/SourceHanSansSC(0)/b/n/17.28 论  |（\TU/TimesNewRoman(0)/b/n/17.28 The
+ []
+
+
+LaTeX Warning: Citation 'feynman1988' on page 155 undefined on input line 14.
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 14--15
+\TU/SourceHanSansSC(0)/m/n/12 高 层 管 理 者，|
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 14--15
+\TU/SourceHanSansSC(0)/m/n/12 他 们 都 会 说
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 14--15
+\TU/SourceHanSansSC(0)/m/n/12 的 事，|  他 们
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 14--15
+\TU/SourceHanSansSC(0)/m/n/12 该 知 道 的 事，|
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 14--15
+\TU/SourceHanSansSC(0)/m/n/12 或 者 他 们 知
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 22--23
+\TU/SourceHanSansSC(0)/m/n/12 明 没 有 欲 求，|
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 22--23
+\TU/SourceHanSansSC(0)/m/n/12 能 完 全 实 现，|
+ []
+
+
+LaTeX Warning: Citation 'lincoln1861' on page 155 undefined on input line 28.
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 28--29
+\TU/SourceHanSansSC(0)/m/n/12 律 一 样，|  或
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 28--29
+\TU/SourceHanSansSC(0)/m/n/12 效。|  如 果 无
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 40--41
+\TU/SourceHanSansSC(0)/m/n/12 是 厌 烦 学 习，|
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 72--73
+[]\TU/SourceHanSansSC(0)/m/n/12 如 果 我 工 作，|
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 72--73
+\TU/SourceHanSansSC(0)/m/n/12 果 赋 闲 在 家，|
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 78--79
+[]\TU/SourceHanSansSC(0)/m/n/12 如 果 我 工 作，|
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 88--89
+\TU/SourceHanSansSC(0)/m/n/12 打 输 了 官 司，|
+ []
+
+) (./chapter7/summary.tex
+Underfull \hbox (badness 1077) in paragraph at lines 37--38
+[]\TU/TimesNewRoman(0)/m/n/12 7.7 \TU/SourceHanSansSC(0)/m/n/12 节 解 释 了[]\TU/So
+urceHanSansSC(0)/b/it/12 析 取 三 段
+ []
+
+)
 Chapter 8.
 (./chapter8/8-1 现代逻辑的符号语言.tex
 
-[265]) (./chapter8/8-2 合取、否定和析取符号.tex
-
-[266]
-
-[267]
-
-[268]
-
-[269]
-
-[270]
-
-[271]
-
-[272]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'quine1940' on page 155 undefined on input line 12.
 
 
-
-[273]) (./chapter8/8-3 条件陈述与实质蕴涵.tex
-
-[274]
-
-[275]
-
-[276]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'aristotle-logic' on page 155 undefined on input line 1
+5.
 
 
+Underfull \hbox (badness 1097) in paragraph at lines 49--49
+\TU/SourceHanSansSC(0)/b/it/12 结 词[]\TU/SourceHanSansSC(0)/m/n/12 而 非[]\TU/Sour
+ceHanSansSC(0)/b/it/12 三 段
+ []
 
-[277]
+
+Underfull \hbox (badness 5274) in paragraph at lines 49--49
+[]\TU/SourceHanSansSC(0)/m/n/12 不 需 要 将 论
+ []
+
+) (./chapter8/8-2 合取、否定和析取符号.tex
+
+LaTeX Warning: Citation 'tarski1946' on page 155 undefined on input line 25.
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 34--35
+[]\TU/SourceHanSansSC(0)/m/n/12 我 们 知 道 每 个 陈 述 是
+ []
+
+
+LaTeX Warning: Citation 'church1956' on page 155 undefined on input line 42.
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 75.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 75.
+
+LaTeX Warning: Citation 'grice1975' on page 155 undefined on input line 75.
+
+
+LaTeX Warning: Citation 'boole1854' on page 155 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'russell1903' on page 155 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'hume1748' on page 155 undefined on input line 134.
+
+) (./chapter8/8-3 条件陈述与实质蕴涵.tex
+
+LaTeX Warning: Nested minipage: footnotes may be misplaced on input line 3.
+
+
+Overfull \hbox (70.37479pt too wide) in paragraph at lines 49--62
+ [] 
+ []
+
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
+LaTeX Warning: Citation 'churchill1953' on page 155 undefined on input line 152
+.
 
-[278]
 
-[279]) (./chapter8/8-4 论证形式与论证.tex
+Underfull \hbox (badness 1205) in paragraph at lines 188--188
+[]\TU/TimesNewRoman(0)/m/n/12 ”$[]$ \TU/SourceHanSansSC(0)/m/n/12 是 $[]$ 的 必 要
+ []
 
-[280]
+
+Underfull \hbox (badness 1205) in paragraph at lines 188--188
+[]\TU/TimesNewRoman(0)/m/n/12 ”$[]$ \TU/SourceHanSansSC(0)/m/n/12 是 $[]$ 的 充 分
+ []
+
+) (./chapter8/8-4 论证形式与论证.tex
+
+LaTeX Warning: Citation 'copi1980' on page 155 undefined on input line 8.
+
+
+LaTeX Warning: Citation 'jevons1886' on page 155 undefined on input line 20.
+
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3277,64 +4114,64 @@ script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
+Overfull \hbox (3.95206pt too wide) in paragraph at lines 60--65
+ [] 
+ []
 
-[281]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[282]
-
-[283]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'jevons1879' on page 155 undefined on input line 141.
 
 
-
-[284]
-
-[285]
-
-[286]
-
-[287]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation 'carroll1896' on page 155 undefined on input line 177.
 
 
-
-[288]) (./chapter8/8-5 陈述形式与实质等值.tex
-
-[289]
-
-[290]
-
-[291]
-
-[292]) (./chapter8/8-6 逻辑等价.tex
-
-[293]
-
-[294]
-
-[295]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 3407) in paragraph at lines 302--302
+[]\TU/SourceHanSansSC(0)/m/n/12 肯 定 前 件 式：|
+ []
 
 
+Underfull \hbox (badness 3407) in paragraph at lines 302--302
+[]\TU/SourceHanSansSC(0)/m/n/12 否 定 后 件 式：|
+ []
 
-[296]) (./chapter8/8-7 实质蕴涵怪论.tex
+) (./chapter8/8-5 陈述形式与实质等值.tex
 
-[297]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+LaTeX Warning: Citation 'whitehead1911' on page 155 undefined on input line 33.
 
 
-[298]) (./chapter8/8-8 三大思想法则.tex
+) (./chapter8/8-6 逻辑等价.tex
+Overfull \hbox (3.48276pt too wide) in paragraph at lines 20--28
+ [] 
+ []
+
+
+Overfull \hbox (193.44113pt too wide) in paragraph at lines 43--59
+ [] 
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 117--117
+[]\TU/SourceHanSansSC(0)/m/n/12 双 重 否 定 式：|
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 117--117
+\TU/SourceHanSansSC(0)/m/n/12 理：| $[] [][] []
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 117--117
+\TU/SourceHanSansSC(0)/m/n/12 理：| $[] [][] []
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 117--117
+\TU/SourceHanSansSC(0)/m/n/12 价 式：| $[] []
+ []
+
+) (./chapter8/8-7 实质蕴涵怪论.tex) (./chapter8/8-8 三大思想法则.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
@@ -3345,273 +4182,231 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
  []
 
 
+LaTeX Warning: Citation 'hamilton1833' on page 155 undefined on input line 22.
 
-[299]
 
-[300])
+LaTeX Warning: Citation 'kant1781' on page 155 undefined on input line 34.
 
-[301]
-
-[302
-
-]
+)
 Chapter 9.
 (./chapter9/9-1 有效性的形式证明.tex
-
-[303]
-Underfull \vbox (badness 3108) has occurred while \output is active []
-
-
-
-[304]
-
-[305]) (./chapter9/9-2 替换规则.tex
-
-[306]
-
-[307]
-
-[308]
-
-[309]
-
-[310]
-
-[311]) (./chapter9/9-3 无效性的证明.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[312]
-
-[313]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[314]) (./chapter9/9-4 不相容性.tex
-
-[315]
-
-[316]
-
-[317]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[318])
-
-[319]
-
-[320
-
-]
-Chapter 10.
-(./chapter10/10-1 单称命题.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[321]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[322]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[323]) (./chapter10/10-2 量化.tex
-
-[324]
-
-[325]
-
-[326]
-File: images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg Graphic file (type bmp)
-<images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg>
-
-
-[327]
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-) (./chapter10/10-3 传统主谓命题.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[328]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[329]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[330]
-File: images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg Graphic file (type bmp)
-<images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[331]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[332]
-
-[333]
-Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[334]) (./chapter10/10-4 有效性证明.tex
-
-[335]
-
-[336]
-Underfull \vbox (badness 1038) has occurred while \output is active []
-
-
-
-[337]
-Underfull \hbox (badness 10000) in paragraph at lines 118--121
-
+Underfull \hbox (badness 5274) in paragraph at lines 147--147
+[]\TU/SourceHanSansSC(0)/b/it/12 肯 定 前 件 式
  []
 
 
+Underfull \hbox (badness 5274) in paragraph at lines 147--147
+[]\TU/SourceHanSansSC(0)/b/it/12 假 言 三 段 论
+ []
 
-[338]
 
-[339]
+Underfull \hbox (badness 5274) in paragraph at lines 147--147
+[]\TU/SourceHanSansSC(0)/b/it/12 构 造 式 二 难
+ []
 
-[340]
+) (./chapter9/9-2 替换规则.tex
+Overfull \hbox (118.35498pt too wide) detected at line 22
+[] [] [][] [][] [] [][][] [][] [][] [][] [][][] [][][][] [][][][][] []
+ []
 
-[341]
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+\TU/TimesNewRoman(0)/m/n/12 16\TU/SourceHanSansSC(0)/m/n/12 ．|  \TU/SourceHanSa
+nsSC(0)/b/it/12 实 质 蕴 涵 律
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+|\TU/SourceHanSansSC(0)/m/n/12 （\TU/TimesNewRoman(0)/m/n/12 Impl\TU/SourceHanSa
+nsSC(0)/m/n/12 ， ） ： （$[] [] []$ ）|
+ []
+
+
+Overfull \hbox (6.94966pt too wide) detected at line 62
+[][] [] [][] [] [][][] [] [][] [] [][] [][] [] [][][]
+ []
+
+
+LaTeX Warning: Citation 'wittgenstein1922' on page 155 undefined on input line 
+65.
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 64--66
+[]\TU/TimesNewRoman(0)/m/n/12 18\TU/SourceHanSansSC(0)/m/n/12 ．|  \TU/SourceHan
+SansSC(0)/b/it/12 输 出 律  |\TU/SourceHanSansSC(0)/m/n/12 （\TU/TimesNewRoman(0)/m
+/n/12 Exp\TU/SourceHanSansSC(0)/m/n/12 ． ） ：|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+\TU/TimesNewRoman(0)/m/n/12 19\TU/SourceHanSansSC(0)/m/n/12 ．|  \TU/SourceHanSa
+nsSC(0)/b/it/12 重 言 律
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+|\TU/SourceHanSansSC(0)/m/n/12 （\TU/TimesNewRoman(0)/m/n/12 Taut\TU/SourceHanSa
+nsSC(0)/m/n/12 ． ）|$[]$\TU/TimesNewRoman(0)/m/n/12 :
+ []
+
+
+LaTeX Warning: Citation 'gentzen1935' on page 155 undefined on input line 107.
+
+
+Overfull \hbox (169.48987pt too wide) in paragraph at lines 158--173
+ [] 
+ []
+
+) (./chapter9/9-3 无效性的证明.tex
+Overfull \hbox (60.58809pt too wide) in paragraph at lines 36--43
+ [] 
+ []
+
+
+LaTeX Warning: Citation 'jeffrey1967' on page 155 undefined on input line 45.
+
+) (./chapter9/9-4 不相容性.tex
+
+LaTeX Warning: Citation 'wigmore1937' on page 155 undefined on input line 92.
+
+)
+Chapter 10.
+(./chapter10/10-1 单称命题.tex
+
+LaTeX Warning: Citation 'quine1953' on page 155 undefined on input line 30.
+
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
+LaTeX Warning: Citation 'reichenbach1947' on page 155 undefined on input line 4
+5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[]\TU/SourceHanSansSC(0)/m/n/12 各 种[]\TU/SourceHanSansSC(0)/b/it/12 单 称 命 题[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\TU/SourceHanSansSC(0)/m/n/12 断 言 特 定[]\TU/SourceHanSansSC(0)/b/it/12 个
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 71--71
+\TU/SourceHanSansSC(0)/b/it/12 体[]\TU/SourceHanSansSC(0)/m/n/12 具 有 某 种[]\TU/So
+urceHanSansSC(0)/b/it/12 属
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 71--71
+\TU/SourceHanSansSC(0)/m/n/12 写 字 母，|  表
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 71--71
+\TU/SourceHanSansSC(0)/m/n/12 示[]\TU/SourceHanSansSC(0)/b/it/12 个 体[]\TU/Source
+HanSansSC(0)/m/n/12 可 能 具
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[][]\TU/SourceHanSansSC(0)/b/it/12 单 称 命 题[]\TU/SourceHanSansSC(0)/m/n/12 形
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 71--71
+\TU/SourceHanSansSC(0)/m/n/12 在[]\TU/SourceHanSansSC(0)/b/it/12 个 体[]\TU/Source
+HanSansSC(0)/m/n/12 符 号 左
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\TU/SourceHanSansSC(0)/m/n/12 含 有[]\TU/SourceHanSansSC(0)/b/it/12 个 体 变
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\TU/SourceHanSansSC(0)/m/n/12 代 入[]\TU/SourceHanSansSC(0)/b/it/12 个 体
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\TU/SourceHanSansSC(0)/b/it/12 常 元[]\TU/SourceHanSansSC(0)/m/n/12 后 变
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+\TU/SourceHanSansSC(0)/m/n/12 成[]\TU/SourceHanSansSC(0)/b/it/12 真[]\TU/SourceHa
+nSansSC(0)/m/n/12 或[]\TU/SourceHanSansSC(0)/b/it/12 假[]\TU/SourceHanSansSC(0)/m
+/n/12 的 陈
+ []
+
+) (./chapter10/10-2 量化.tex
+File: images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-463.jpg>
+
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+
+Underfull \hbox (badness 2538) in paragraph at lines 158--158
+\TU/SourceHanSansSC(0)/m/n/12 表 示\TU/TimesNewRoman(0)/m/n/12 ” \TU/SourceHanSan
+sSC(0)/m/n/12 至 少 存
+ []
+
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
-) (./chapter10/10-5 无效性证明.tex
-
-[342]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[343]
-
-[344]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[345]
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
-) (./chapter10/10-6 非三段论推论.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Underfull \hbox (badness 7540) in paragraph at lines 158--158
+[]\TU/TimesNewRoman(0)/m/n/12 (x) |\TU/SourceHanSansSC(0)/m/n/12 ～| \TU/TimesNe
+wRoman(0)/m/n/12 φx \TU/SourceHanSansSC(0)/m/n/12 等 价
+ []
+
+) (./chapter10/10-3 传统主谓命题.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+|[]\TU/SourceHanSansSC(0)/b/n/17.28 传 统 主
+ []
 
 
+Underfull \hbox (badness 2894) in paragraph at lines 1--1
+|\TU/SourceHanSansSC(0)/b/n/17.28 — —|  谓 命
+ []
 
-[346]
+
+Overfull \hbox (69.32004pt too wide) in paragraph at lines 12--18
+ [] 
+ []
+
+
+LaTeX Warning: Citation 'peirce1883' on page 155 undefined on input line 21.
+
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
@@ -3620,1238 +4415,60 @@ Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
-
-
-[347]
-
-[348]
-
-[349]
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
 Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
 script=math;language=dflt;!
-Missing character: There is no ∨ (U+2228) in font Times New Roman/OT:script=lat
-n;language=dflt;mapping=tex-text;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+
+LaTeX Warning: Citation 'brown1954' on page 155 undefined on input line 48.
+
+File: images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg Graphic file (type bmp)
+<images/2025_05_15_6a28331d5e7c993ad07ag-466.jpg>
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
+Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
+script=math;language=dflt;!
 Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
 Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
 n;language=dflt;mapping=tex-text;!
-
-Underfull \vbox (badness 1571) has occurred while \output is active []
-
-
-
-[350])
-
-[351]
-
-[352
-
-]
-Chapter 11.
-(./chapter11/11-1 类比论证.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[353]
-
-[354]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[355]) (./chapter11/11-2 类比论证的评价.tex
-
-[356]
-
-[357]
-
-[358]
-
-[359]) (./chapter11/11-3 通过逻辑类推进行的反驳.tex
-
-[360]
-
-[361]
-
-[362])
-
-[363]
-
-[364
-
-]
-Chapter 12.
-(./chapter12/12-1 因果连接：基本概念.tex
-
-[365]
-
-[366]
-
-[367]
-
-[368]
-
-[369]) (./chapter12/12-2 密尔方法.tex
-
-[370]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[371]
-
-[372]
-
-[373]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 与 (U+4E0E) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 一 (U+4E00) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 起 (U+8D77) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 发 (U+53D1) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-Missing character: There is no 生 (U+751F) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[374]
-
-[375]
-
-[376]
-
-[377]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[378]) (./chapter12/12-3 对密尔方法的批评.tex
-
-[379]
-
-[380]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[381])
-
-[382]
-Chapter 13.
-(./chapter13/13-1 科学的价值.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[383
-
-]) (./chapter13/13-2 说明：科学的和非科学的.tex
-
-[384]
-
-[385]) (./chapter13/13-3 对科学说明的评价.tex
-
-[386]
-
-[387]
-
-[388]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[389]) (./chapter13/13-4 科学研究的七个阶段.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[390]
-
-[391]
-
-[392]
-
-[393]) (./chapter13/13-5 实际工作中的科学家：科学研究的模式.tex
-
-[394]
-
-[395]
-
-[396]
-Missing character: There is no 、 (U+3001) in font TeXGyreTermesMath-Regular/OT:
-script=math;language=dflt;!
-
-
-[397]
-File: images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg Graphic file (type bmp)
-<images/2025_05_15_6a28331d5e7c993ad07ag-590.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[398]
-Overfull \vbox (579.7468pt too high) has occurred while \output is active []
-
-
-
-[399]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[400]) (./chapter13/13-6 判决性实验和特设性假说.tex
-
-[401]
-
-[402]
-
-[403]
-
-[404]) (./chapter13/13-7 作为假说的分类.tex
-
-[405]
-
-[406]
-
-[407]
-
-[408]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[409])
-
-[410]
-Chapter 14.
-(./chapter14/14-1 概率与归纳逻辑.tex
-
-[411
-
-]
-
-[412]
-
-[413]) (./chapter14/14-2 概率计算.tex
-
-[414]
-
-[415]) (./chapter14/14-3 共同发生的概率.tex
-
-[416]
-
-[417]
-
-[418]
-
-[419]
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "Source Han Sans SC/I" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'SourceHanSansSC(1)' created for font
-(fontspec)             'Source Han Sans SC' with options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
-(fontspec)             SC/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans
-(fontspec)             SC/B/OT:script=hani;language=dflt;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
-(fontspec)             Sans SC/BI/OT:script=hani;language=dflt;"
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[420]) (./chapter14/14-4 替代性发生的概率.tex
-Underfull \vbox (badness 7099) has occurred while \output is active []
-
-
-
-[421]
-
-[422]
-
-[423]
-
-[424]
-
-[425]) (./chapter14/14-5 期望值.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[426]
-
-[427]
-
-[428]) (./chapter14/summary.tex
-
-[429]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[430]) (./chapter14/notes.tex
-
-[431])
-
-[432]
-
-[433
-
-
-]
-
-[434
-
-]
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'fearnside1959' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'kneale1962' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-
-[435]
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'byeditor' untranslated
-(biblatex)                at entry 'aristotle-logic' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-
-[436]
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'whitehead1911' on input line 255.
-
-
-Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'whitehead1911' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-
-[437]
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'kitagawa1973' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'byeditor' untranslated
-(biblatex)                at entry 'aristotle1950' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'crombie1960' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-
-[438]
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'blanshard1939' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'watson1953' on input line 255.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-
-[439]
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-
-[440] (./main.aux)
- ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2022/08/05>
- ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  314197997CFEA332C0497937F81BF2DE;65241.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ∃ (U+2203) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+Missing character: There is no ⊃ (U+2283) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
+! TeX capacity exceeded, sorry [main memory size=5000000].
+<recently read> }
+                 
+l.178 }}
+        
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
 Here is how much of TeX's memory you used:
- 51331 strings out of 473832
- 1153917 string characters out of 5729481
- 2132937 words of memory out of 5000000
- 73236 multiletter control sequences out of 15000+600000
- 568654 words of font info for 174 fonts, out of 8000000 for 9000
+ 50479 strings out of 473832
+ 1117231 string characters out of 5729481
+ 5000000 words of memory out of 5000000
+ 72475 multiletter control sequences out of 15000+600000
+ 568646 words of font info for 173 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,16n,120p,928b,5194s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.pdf (448 pages).
+ 89i,39n,120p,928b,9448s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on main.pdf (162 pages).
