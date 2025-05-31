@@ -1,10 +1,34 @@
-\section{共同发生的概率}
+\section{共同发生的概率：乘法定理的数学基础与应用}
 
 \begin{logicbox}[title=引言]
-\textit{当我们需要计算多个事件同时发生的可能性时，理解事件之间的独立性关系至关重要。通过掌握乘法定理，我们能够解决从赌博到医疗决策的各种复杂概率问题。}
+共同发生的概率是概率论中最重要的概念之一，它涉及多个事件同时发生的可能性计算。本节将深入探讨乘法定理的数学基础、逻辑原理和实际应用，分析事件独立性对概率计算的决定性影响。通过掌握独立事件和非独立事件的不同计算方法，我们将能够解决从简单的机会游戏到复杂的医疗决策、工程可靠性分析等各种现实问题。这种理解对于科学研究、风险评估和理性决策具有重要意义。
 \end{logicbox}
 
-\textbf{共同发生}（joint occurrences）是指某个复合事件的单元事件中的两个或两个以上事件的发生。我们希望知道从一副牌中连续抽出 3 张黑桃的概率，或者在一场赛马中喜爱的两匹马都使我输钱的概率，或者将一枚硬币扔十次得到十次正面向上的概率。假定我们正考察的是只有两个单元事件 $a$ 和 $b$ 的发生。当我们要得到 $a$ 并且 $b$ 两者的概率时，我们便要求它们的共同发生。
+\subsection{共同发生概率的数学定义与理论基础}
+
+\begin{theorembox}[title=共同发生的数学定义]
+\textbf{共同发生}（joint occurrences）是指某个复合事件的单元事件中的两个或两个以上事件的发生。
+
+\textbf{数学表示}：
+对于事件$A_1, A_2, \ldots, A_n$，它们的共同发生记为：
+$$P(A_1 \cap A_2 \cap \cdots \cap A_n)$$
+或简记为：
+$$P(A_1 \text{ 且 } A_2 \text{ 且 } \cdots \text{ 且 } A_n)$$
+
+\textbf{实际问题实例}：
+我们希望知道从一副牌中连续抽出3张黑桃的概率，或者在一场赛马中喜爱的两匹马都使我输钱的概率，或者将一枚硬币扔十次得到十次正面向上的概率。
+
+\textbf{基本情况分析}：
+假定我们正考察的是只有两个单元事件$a$和$b$的发生。当我们要得到$a$并且$b$两者的概率时，我们便要求它们的共同发生。
+
+\textbf{共同发生的特征}：
+\begin{itemize}
+\item \textbf{交集性质}：共同发生对应集合论中的交集运算
+\item \textbf{概率单调性}：$P(A \cap B) \leq \min(P(A), P(B))$
+\item \textbf{逻辑合取}：对应逻辑学中的合取（AND）运算
+\item \textbf{条件依赖}：计算方法取决于事件间的独立性关系
+\end{itemize}
+\end{theorembox}
 
 \subsection{独立与非独立事件}
 
@@ -121,32 +145,43 @@ $P(a \text{ 且 } b \text{ 且 } c)=P(a) \times P(b \mid a) \times P(c \mid a \t
 \fbox{\parbox{0.95\textwidth}{
 \textbf{本节要点}
 \begin{itemize}
-\item \textbf{共同发生的基本概念}：
+\item \textbf{共同发生概率的数学定义与理论基础}：
   \begin{itemize}
-  \item 共同发生指多个事件同时发生的复合事件
-  \item 事件的独立性决定了计算方法的不同
-  \item 共同发生的概率总小于单个事件的概率
+  \item \textbf{数学表示}：$P(A_1 \cap A_2 \cap \cdots \cap A_n)$，对应集合论的交集运算
+  \item \textbf{逻辑性质}：对应逻辑学中的合取（AND）运算，体现多条件同时满足
+  \item \textbf{概率特征}：$P(A \cap B) \leq \min(P(A), P(B))$，共同发生概率不超过单个事件概率
+  \item \textbf{条件依赖性}：计算方法完全取决于事件间的独立性关系
   \end{itemize}
-\item \textbf{独立事件的共同发生}：
+\item \textbf{独立事件的共同发生与乘法定理}：
   \begin{itemize}
-  \item 独立事件指一个事件发生与否不影响其他事件
-  \item 概率通过简单乘法计算：$P(a \text{ 且 } b) = P(a) \times P(b)$
-  \item 适用于硬币投掷\zhtext{、}骰子摇动等相互无关的情形
+  \item \textbf{独立性定义}：一个事件的发生不影响其他事件的概率
+  \item \textbf{简单乘法定理}：$P(a \text{ 且 } b) = P(a) \times P(b)$
+  \item \textbf{经典实例}：硬币投掷、骰子摇动等相互无关的随机实验
+  \item \textbf{定理推广}：可扩展到任意多个独立事件的共同发生
   \end{itemize}
-\item \textbf{非独立事件的共同发生}：
+\item \textbf{非独立事件的共同发生与条件概率}：
   \begin{itemize}
-  \item 一个事件的发生会改变其他事件的概率
-  \item 通用乘法定理：$P(a \text{ 且 } b) = P(a) \times P(b|a)$
-  \item 常见于抽牌不放回\zhtext{、}连续选取等情境
+  \item \textbf{非独立性特征}：一个事件的发生改变其他事件的概率分布
+  \item \textbf{通用乘法定理}：$P(a \text{ 且 } b) = P(a) \times P(b|a)$
+  \item \textbf{条件概率}：$P(b|a)$表示在事件$a$发生条件下事件$b$的概率
+  \item \textbf{实际应用}：抽牌不放回、连续选取、医疗决策等复杂情境
   \end{itemize}
-\item \textbf{条件概率的应用}：
+\item \textbf{乘法定理的数学结构与应用}：
   \begin{itemize}
-  \item 条件概率表示为$P(b|a)$，指在事件a发生条件下b的概率
-  \item 通用乘法定理可扩展到任意多个事件
-  \item 在现实应用中帮助评估复杂事件的可能性
+  \item \textbf{独立事件公式}：$P(a \text{ 且 } b) = P(a) \times P(b)$
+  \item \textbf{非独立事件公式}：$P(a \text{ 且 } b \text{ 且 } c) = P(a) \times P(b|a) \times P(c|a \text{ 且 } b)$
+  \item \textbf{现实应用价值}：医疗决策、工程可靠性、风险评估等领域
+  \item \textbf{计算验证}：可通过列举所有等可能情况进行验证
+  \end{itemize}
+\item \textbf{共同发生概率的认识论意义}：
+  \begin{itemize}
+  \item 为复杂系统的可靠性分析提供数学工具
+  \item 体现了概率论在处理多重不确定性中的重要作用
+  \item 连接了数学理论与现实决策，具有重要的实践指导价值
+  \item 是科学推理和风险评估的重要理论基础
   \end{itemize}
 \end{itemize}
 }}
 \end{center}
 
-% The rest of the file, including exercises, is removed. 
+% The rest of the file, including exercises, is removed.
